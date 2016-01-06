@@ -1,0 +1,7 @@
+art1|art1	3
+art2|art1	5
+art1|art3	6
+art2|art4	1
+art1|art5	6
+art2|art6	3
+art1|art7	3

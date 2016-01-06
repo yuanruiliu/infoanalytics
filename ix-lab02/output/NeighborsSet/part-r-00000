@@ -1,0 +1,7 @@
+art1	art2, art3, art5, art7
+art2	art6, art1, art4
+art3	art1
+art4	art2
+art5	art1
+art6	art2
+art7	art1

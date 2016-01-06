@@ -1,0 +1,1001 @@
+# id | userId | screenName | utcOffset | createdAt | placeId | latitude | longitude | inReplyTo | sourceName | text
+291856746568351745 | 583547325 | Norman__G | 28800 | 2013-01-17 10:37:25 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291856056668274688 | TweetDeck | @ZainiNazmi Swiss National Bank central bank. Takde bank nama Swiss Bank sini. yg ada Credit Suisse, UBS. yg org sorok duit private bank.
+291856748745203712 | 86024102 | franci_de | 3600 | 2013-01-17 10:37:25 | 086752cb03de1d5d | 40.7564 | -73.9631 | ? | Twitter for iPhone | @Krystenritter: Vegas baby http://t.co/Q6VVtxCT I love it when actors are similar to their TV character in real life
+291856772652732417 | 115085362 | sumemer | 3600 | 2013-01-17 10:37:31 | 88a9c00fe554a26e | ? | ? | 291851399271178240 | web | @xyuutsu41 no me preguntes cmo me ha dado porque no lo s. Pero ha sido win.
+291856782945550337 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:37:34 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | 291856696047968256 | Twitter for iPhone | @CheeksDrogba graaaaave 
+291856784711360513 | 1054576746 | kralj_matija | ? | 2013-01-17 10:37:34 | c799e2d3a79f810e | 45.31 | 14.2683 | 291845271384637440 | Twitter for iPhone | @teostarwars maja je isto jakp ljepa: Evo jos sam tu jer ce me mama vozit do opatije pa jos nisam krenuo
+291856803552165888 | 81795642 | LeilaRaspberry | -10800 | 2013-01-17 10:37:39 | bb6fdf20c36d89c4 | 46.1797 | 7.28964 | ? | Twitter for iPhone | Les puissants flattent llphant et crasent les fourmis #Mali #Uranium http://t.co/qdjRTEFo
+291856805104062465 | 429304334 | _marieshr | 7200 | 2013-01-17 10:37:39 | eb3b933a531c86e1 | 47.5093 | 6.80701 | 291856224935346176 | Twitter for iPhone | @BaBaEstGentil tes chou : #CoeurSurToi aussi tiens 
+291856806861500416 | 995375887 | CarolineMalikcz | ? | 2013-01-17 10:37:40 | 05a08a199e1518c1 | 47.4675 | 8.16308 | ? | Twitter for Android | Awww :amp @liam http://t.co/SGLAX899
+291856813261979648 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:37:41 | 4115db4852154b76 | 47.5966 | 7.60375 | ? | PTV Traffic Alert | Stau: zwischen Weil am Rhein/Basel und Weil am Rhein/Basel Stau. 
+291856815472377856 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:37:41 | 4115db4852154b76 | 47.5966 | 7.60375 | ? | PTV Traffic Alert | Stau: A5 Karlsruhe Richtung Basel zwischen Parkplatz Weil am Rhein und Weil am Rhein/Basel Stau 17.01.2013 06:36 17.01.2013 11:51
+291856818798465025 | 32331253 | murdaeich | -18000 | 2013-01-17 10:37:42 | 086752cb03de1d5d | ? | ? | ? | Tweetbot for iOS | Season 3 finale on deck #PrisonBreak #Netflix
+291856825584865282 | 282931345 | ubuntuchosen | ? | 2013-01-17 10:37:44 | fdcd221ac44fa326 | 50.0746 | 14.418 | ? | Twitter for iPhone | no kurva http://t.co/vXgWGntW @ruizelreysuarez
+291856827296141312 | 275795922 | toneens | -18000 | 2013-01-17 10:37:44 | 086752cb03de1d5d | ? | ? | 291854024989372418 | web | @TittWank Our corruption of royal intermarriage ensures future generations of slackjawed mongs.
+291856855846768640 | 110380401 | poltorrents | ? | 2013-01-17 10:37:51 | e0d2f2c168106f3a | 46.4641 | 9.65105 | ? | Instagram | Desde el saln. @ Bivio http://t.co/U3oNPFBt
+291856886825897984 | 629830281 | 12Sanogo | ? | 2013-01-17 10:37:58 | 086752cb03de1d5d | 40.7969 | -73.9346 | 291855971456806912 | Twitter for iPhone | @FmeUne kiakiakia tiens bon.le froid deh,ca ne connai pa ancien,ni nouveau oh
+291856894061080576 | 141053833 | nycHope | -18000 | 2013-01-17 10:38:00 | 086752cb03de1d5d | ? | ? | ? | web | @moronwatch this gt RonPaul2012FTW
+291856899719176192 | 303407022 | Frankenlover | -18000 | 2013-01-17 10:38:01 | 086752cb03de1d5d | 40.8352 | -73.9448 | ? | Twitter for iPhone | #ThatAwkwardMoment when youre letting your nails dry and you get an itch.
+291856908317515776 | 255549239 | lhcmode | 3600 | 2013-01-17 10:38:04 | 2dee2a77476dc763 | 46.2546 | 6.05694 | ? | LHC Updater | #LHC Machine Status: BEAM SETUP: INJECTION PHYSICS BEAM Fill # 11:38
+291856921667977217 | 429304334 | _marieshr | 7200 | 2013-01-17 10:38:07 | eb3b933a531c86e1 | 47.5119 | 6.80859 | ? | Twitter for iPhone | M12
+291856923882565632 | 25972154 | andrja | 3600 | 2013-01-17 10:38:07 | fdcd221ac44fa326 | 50.0941 | 14.4449 | ? | foursquare | I just ousted @rostman as the mayor of Simply Gastronomy Bistro on @foursquare http://t.co/dfiOaYZZ
+291856925908418560 | 50541625 | atistanbul | 3600 | 2013-01-17 10:38:08 | b53ba65776f97f34 | 46.1866 | 6.11738 | 291855848928583680 | Twitter for iPhone | @silayeks senin gibi kpekler lmeyi hakediyor.
+291856944824717312 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:38:12 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: humanzee, @rznns 9/43060 poin
+291856946649243648 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:38:13 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm hte dglhidoc 1974 Ed Lauter, p:desert c:USA poin: 12
+291856948104679425 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 10:38:13 | c3a6437e1b1a726d | 46.2064 | 6.14823 | ? | Twitter for BlackBerry® | @_ladystr: @Vinke_KKB on veut se taper un renoi ET avoir un bb metisse. Ahahahah
+291856982846099456 | 576109499 | Schweizer_Ehre | -36000 | 2013-01-17 10:38:21 | 2c5bd26756935144 | ? | ? | 291855158286098433 | web | @bbxdanubio Nichts macht den Menschen argwhnischer, als wenig zu wissen. #sauware #Secondos #schweiz #rtli Wikipedia Francis Bacon
+291856988210601985 | 583547325 | Norman__G | 28800 | 2013-01-17 10:38:23 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291856904555216896 | TweetDeck | @johnylabu dia mengaku dah
+291856995387076608 | 386050684 | Masha_Moxito | 3600 | 2013-01-17 10:38:24 | fdcd221ac44fa326 | 50.0983 | 14.3703 | 291843216804827136 | Twitter for iPad | @Max_Gershtein 
+291857003503038464 | 68364343 | Paul86_1 | 3600 | 2013-01-17 10:38:26 | 04578354cff6f4b1 | 45.8088 | 8.83992 | ? | foursquare | Im at Ospedale di Circolo e Fondazione Macchi Varese, VA http://t.co/ffH8nFEK
+291857006334205952 | 926755556 | leila_latifi | ? | 2013-01-17 10:38:27 | 07d6509bb11fd7b1 | 46.1713 | 6.11053 | 291855790053154816 | Twitter for iPhone | @MehdiFrenchy10 Pfffff cest TOI le GROSSS 
+291857016442458112 | 84966648 | brendizzle_x3 | -18000 | 2013-01-17 10:38:29 | 086752cb03de1d5d | 40.854 | -73.9306 | 291856615433449472 | Twitter for iPhone | @RoddReyes @davedgf I cant sleep Fuck you guys I miss sleep gt_gt
+291857040895262720 | 524672153 | MarineSelhy | ? | 2013-01-17 10:38:35 | f96306b02bee9021 | 45.9065 | 6.42829 | 291856743921754112 | Twitter for iPhone | @IamYanisBitch ms grve 
+291857042841427968 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:38:36 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | ? | Twitter for iPhone | La neige elle mnique mes ptit yeux
+291857045647405059 | 926755556 | leila_latifi | ? | 2013-01-17 10:38:36 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | 291855915064369152 | Twitter for iPhone | @CHAiYMA_K Ahahahahah vous tes des batard
+291857055843745793 | 285579366 | ARTPOPMyLife | 28800 | 2013-01-17 10:38:39 | 27485069891a7938 | ? | ? | ? | web | Back on Twitter monsters Had a really long day today.
+291857057508884481 | 368354753 | sascha_lang | 3600 | 2013-01-17 10:38:39 | 6494c4d3c002f21e | 47.2842 | 7.93246 | ? | Twitter for Android | Well the referee is croatian here in Robs v Kvit but shes not that good looking #Exception
+291857060365234176 | 88543884 | Blog_UneLola | -10800 | 2013-01-17 10:38:40 | a2bf3911e64dd7b8 | 46.1789 | 6.25852 | ? | Twitter for iPhone | Vous me donnez toutes envie avec vos headband @AdeliParis. Mais a va tre bof sur mes cheveux courts :
+291857093407936512 | 174400788 | tomnwaugh | 3600 | 2013-01-17 10:38:50 | b39ccc27839e7f3d | 47.3188 | 7.794 | ? | Twitter for Android | @hairatNo4byleah It finally arrived. #horriblewetandcold http://t.co/QduLK7Fe
+291857099741331456 | 282931345 | ubuntuchosen | ? | 2013-01-17 10:38:49 | fdcd221ac44fa326 | 50.0758 | 14.4155 | ? | Twitter for iPhone | RT frajerka @ATL_PRiNCeSS: I wanna have sex in paris ontop of da ifold tower
+291857105814683648 | 81795642 | LeilaRaspberry | -10800 | 2013-01-17 10:38:51 | bb6fdf20c36d89c4 | 46.1796 | 7.28965 | ? | Twitter for iPhone | Les puissants flattent llphant et crasent les fourmis @agoravox #Mali #Uranium http://t.co/qdjRTEFo
+291857118968025088 | 246014994 | CarolineCanavan | -21600 | 2013-01-17 10:38:54 | 086752cb03de1d5d | 40.7865 | -73.9533 | ? | Twitter for iPhone | @HuffPostStyle: Who said midwesterners dont have good style http://t.co/sDC0lO3y @mweiss44 @AlexLDiamond1 #wisco
+291857123602739201 | 926755556 | leila_latifi | ? | 2013-01-17 10:38:55 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | 291856642146963456 | Twitter for iPhone | @MillesCaps AHAHAHAHAHAAH javoue
+291857137251008512 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:38:58 | b046074b1030a44d | 40.7078 | -74.0861 | ? | Twitter for iPhone | Im about 2 be 23
+291857146793033728 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:39:00 | b6ea2e341ba4356f | ? | ? | 291855773292691456 | web | @OWLUSA Perhaps they should try 20 mile row marches with full gear on then theyll learn to appreciate and not complain :
+291857149733269504 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:39:01 | ddcca24ee29ddff2 | 46.1824 | 6.14472 | ? | Twitter for iPhone | Je suis venue les chercher et elles ont en eu rien a foutre limite .
+291857156796473344 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:39:03 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | 291856936561963008 | Twitter for iPhone | @RaaOuf_Re jmen fou jkiff la neige moi
+291857160898494464 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:39:04 | b046074b1030a44d | 40.7077 | -74.0862 | ? | Twitter for iPhone | Getting old
+291857175020728320 | 364185220 | sahiwalia | ? | 2013-01-17 10:39:07 | a1b759dc059e346f | 46.2213 | 6.10894 | 291842532286021632 | Twitter for iPhone | @safyah92 @piersmorgan Cmon, Piers Morgan doesnt give a damn about that.He is too busy to save his reputation after deportation campaign.
+291857183556112385 | 926755556 | leila_latifi | ? | 2013-01-17 10:39:09 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | 291856761701416960 | Twitter for iPhone | @CHAiYMA_K Bah OUI he je paye pas pour rien ahahah
+291857187049963520 | 286566481 | ImelWOctav | -28800 | 2013-01-17 10:39:10 | 94965b2c45386f87 | ? | ? | ? | web | Selena Gomez Audition For Wizards Of Waverly Place http://t.co/BHChpdRg
+291857207459471361 | 629830281 | 12Sanogo | ? | 2013-01-17 10:39:15 | 086752cb03de1d5d | 40.7969 | -73.9347 | ? | Twitter for iPhone | Algrie : Certains otages ont des explosifs la ceinture.ahia
+291857221288075265 | 406826043 | SofiyaGold | -18000 | 2013-01-17 10:39:18 | 27485069891a7938 | 40.5845 | -73.9572 | 291824653394120704 | Twitter for iPhone | @morphineprincee man with football perfection
+291857221774610432 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:39:18 | ddcca24ee29ddff2 | 46.1828 | 6.1447 | ? | Twitter for iPhone | Mais bref je vais rien dire .
+291857226925240321 | 772313155 | Yas_Maghrib | 3600 | 2013-01-17 10:39:19 | a1b759dc059e346f | 46.2028 | 6.09606 | ? | Twitter for iPhone | Quand ma mre snerve, elle fait un after elle continue de gueuler dans la cuisine toute seule
+291857233065676800 | 232873094 | courtneykrafttt | -18000 | 2013-01-17 10:39:21 | 65b4760a2b411e11 | 40.2942 | -75.0924 | 291767071795183616 | Twitter for iPhone | @pawkoh @tysoko20 you guys are nuts and that night was awesome but yeah I dont understand why Parker was driving, Hahha great night thought
+291857246915264512 | 586610505 | _AMichel | 7200 | 2013-01-17 10:39:24 | 6abba7939a0f7211 | 46.004 | 8.75038 | ? | Twitter for iPhone | Abitare davanti alla fermata del pullman e perderlo comunque #letargo
+291857253336752128 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:39:26 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | 291856863941754881 | Twitter for iPhone | @CheeksDrogba azi a mdeprime cest mm plus des canons laba
+291857257514287104 | 296686632 | MaribelGattoPer | -10800 | 2013-01-17 10:39:27 | a05d5606c26b9204 | 47.5228 | 7.71012 | ? | Twitter for iPhone | Por qu hablas con tus zapatos..Es que en la caja pone converse..
+291857257602351104 | 64160017 | Crazayn_ | -10800 | 2013-01-17 10:39:27 | 2fba0c613d956b79 | 47.641 | 6.85565 | 291855459982385152 | Twitter for iPhone | @iEmzy a sest bien passe 
+291857258441216000 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:39:27 | b046074b1030a44d | 40.7077 | -74.0863 | ? | Twitter for iPhone | ?
+291857262568423424 | 526286207 | jpeezy1967 | -28800 | 2013-01-17 10:39:28 | b6ea2e341ba4356f | 40.7433 | -73.9535 | 291855970555015168 | Twitter for iPhone | @jpeezy1967 @angelcandice @lilyaldridge @mirandakerr gonna let em help @mango @victoriassecret http://t.co/KvxF5u13
+291857268524331009 | 56318491 | BieberGomezTour | -21600 | 2013-01-17 10:39:29 | 27485069891a7938 | ? | ? | 291814652994789376 | web | @ATLVox @scooterbraun MAMA I CANT NGINRINGR
+291857271946891265 | 986696988 | MidoMobarak | ? | 2013-01-17 10:39:30 | c3a6437e1b1a726d | 46.2079 | 6.1373 | ? | Twitter for iPhone | Fini
+291857279525986304 | 33598263 | emilyemer | -18000 | 2013-01-17 10:39:32 | b6ea2e341ba4356f | 40.6451 | -73.7845 | ? | foursquare | Im at John F. Kennedy International Airport JFK Jamaica, NY w/ 49 others http://t.co/UFZ5BOGV
+291857282625572864 | 38821953 | hinnaz | 3600 | 2013-01-17 10:39:33 | 98b00c0c676e5ddf | 47.0562 | 7.62774 | ? | Twitter for iPhone | #Dexter nuf said
+291857295032336385 | 950687000 | DayanaNavyy | 3600 | 2013-01-17 10:39:36 | eb3b933a531c86e1 | 47.508 | 6.80053 | 291856138218131456 | Twitter for iPhone | @AznS_ bonne apetiiiiiiiiit :D http://t.co/xHgija7n
+291857298605883393 | 14143700 | honigbaerli | 3600 | 2013-01-17 10:39:37 | 871aa5ea8d8d2d15 | 46.9701 | 7.49669 | ? | foursquare | Im at RBS Bolligen Bolligen, BE http://t.co/8gerc150
+291857303907495937 | 844673238 | JoeyArectumKels | ? | 2013-01-17 10:39:38 | b6ea2e341ba4356f | 40.7778 | -73.8416 | ? | Twitter for iPhone | #lazyday
+291857307590070272 | 490436112 | VesnaMimica | ? | 2013-01-17 10:39:39 | c799e2d3a79f810e | 45.8112 | 15.9777 | 291847508869668865 | Twitter for Android | @tomotwt da da Jer onaj tip pazi na red,rad i disciplinu. A i tedljiv je :
+291857321930416128 | 84966648 | brendizzle_x3 | -18000 | 2013-01-17 10:39:42 | 086752cb03de1d5d | 40.854 | -73.9306 | 291857106263486464 | Twitter for iPhone | @DaveDGF eww sucio
+291857325130649601 | 450805835 | Altziba | 3600 | 2013-01-17 10:39:43 | 94965b2c45386f87 | ? | ? | 291853380370964480 | web | @Leopls182 xDDDD
+291857327680798720 | 926755556 | leila_latifi | ? | 2013-01-17 10:39:44 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | ? | Twitter for iPhone | Tout le monde me dit que je suis grosse bande de BATARD imaginer je me suicide hein Vous aurez ma mort sur votre conscience AHAHAH
+291857334462976000 | 10633802 | Idros | 3600 | 2013-01-17 10:39:45 | 8a156b75d3af0144 | 45.8457 | 8.93059 | ? | foursquare | Mi ha fregato 160 franchi svizzeri. Che gentile @ Agip Gas Station http://t.co/EYkriskw
+291857341383577602 | 29175662 | Autarkis | 3600 | 2013-01-17 10:39:47 | 8717ccde381939f3 | 47.4524 | 7.87951 | ? | Seesmic | Unterwegs nach Basel. Erster grosser Test meines neuen Tools #ipwatcher. Bisher hab ich immer no die selbe IP wie in Olten. Hm...
+291857349528936449 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:39:49 | b046074b1030a44d | 40.7078 | -74.0862 | 291857134705057792 | Twitter for iPhone | @smooth_slime I know u tired
+291857356801859584 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:39:50 | 27485069891a7938 | 40.6642 | -73.9386 | 291856904332931073 | Elise | @anoukbijlx The dream is real, my friends. The failure to realize it is the only reality Toni Cade Bambara cc @JessyWever_
+291857358336970753 | 432520834 | lioneldimi | ? | 2013-01-17 10:39:51 | c799e2d3a79f810e | 36.8484 | 10.2817 | ? | Twitter for BlackBerry® | Odij cest mn jour de faire le fou
+291857373759430656 | 475326646 | AngieWlm | ? | 2013-01-17 10:39:55 | 3f0bc5e82a0c856b | 47.2188 | 6.53969 | ? | Twitter for BlackBerry® | Mes copines me manquent.
+291857397616615424 | 629830281 | 12Sanogo | ? | 2013-01-17 10:40:00 | 086752cb03de1d5d | 40.7966 | -73.9345 | ? | Twitter for iPhone | Alerte: 1400 soldats franais engags actuellement au #Mali #HelpMali #crisemali
+291857400221290496 | 926755556 | leila_latifi | ? | 2013-01-17 10:40:01 | 07d6509bb11fd7b1 | 46.1713 | 6.11053 | 291857097853911040 | Twitter for iPhone | @MehdiFrenchy10 pfffff
+291857410497331200 | 986696988 | MidoMobarak | ? | 2013-01-17 10:40:03 | c3a6437e1b1a726d | 46.2078 | 6.13758 | ? | Twitter for iPhone | On est a la coop avec Rafi
+291857432945250304 | 926755556 | leila_latifi | ? | 2013-01-17 10:40:09 | 07d6509bb11fd7b1 | 46.1713 | 6.11051 | ? | Twitter for iPhone | Je retien MEHDI je retien
+291857434174160896 | 218615120 | adremsoftware | ? | 2013-01-17 10:40:09 | 27485069891a7938 | ? | ? | ? | web | Final version of NetCrunch 7 is released http://t.co/hm5Q9R4f
+291857455779020801 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:40:14 | 65b4760a2b411e11 | 40.1579 | -74.9357 | ? | Twitter for iPhone | When they start to hate, thats when you know your doing great...
+291857464524169216 | 68110176 | RebelLeeCharly | -18000 | 2013-01-17 10:40:16 | 27485069891a7938 | 40.6932 | -73.9697 | ? | Twitter for iPhone | I got fuckin drunk tonight.
+291857465325273088 | 1004525612 | Gregory_Sanon | -18000 | 2013-01-17 10:40:18 | 27485069891a7938 | 40.8786 | -73.873 | ? | Twitter for Android | Im looking to be #represented in great Film amp Television... nothing less. Where are the great #agents at http://t.co/TTYqWEir
+291857471369265152 | 432520834 | lioneldimi | ? | 2013-01-17 10:40:18 | c799e2d3a79f810e | 36.8484 | 10.2817 | ? | Twitter for BlackBerry® | Js8 trop content
+291857484958797824 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:40:21 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | 291857361293934592 | Twitter for iPhone | @CheeksDrogba paske jsuis mocheeee :
+291857490721796096 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:40:22 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | My phone on 24
+291857513891115008 | 71245034 | whatwhiteysays | -36000 | 2013-01-17 10:40:28 | 08b4866bf18d97da | 47.2078 | 7.55685 | ? | Twitter for iPhone | Giant shadow peeps http://t.co/Vry4X5P6
+291857514914512896 | 235404907 | CynthiaBravox3 | -21600 | 2013-01-17 10:40:28 | f9de0f7350cbae97 | 40.7931 | -74.0021 | ? | Twitter for iPhone | Up to early
+291857515669504000 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:40:28 | ddcca24ee29ddff2 | 46.1827 | 6.1448 | ? | Twitter for iPhone | Je suis descendue avec Nada
+291857533394624513 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:40:33 | 65b4760a2b411e11 | 40.1578 | -74.9358 | ? | Twitter for iPhone | New avi tho
+291857533952483328 | 757074030 | DusseShehabi | 7200 | 2013-01-17 10:40:33 | 1105847412916875 | 47.4619 | 8.95773 | ? | Twitter for iPhone | Morning Its snowiiiiiiing
+291857539262459904 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:40:34 | b6ea2e341ba4356f | ? | ? | 291619045701206016 | web | @DirtyFokker Thanks much :
+291857542865371136 | 261170559 | waqasalisaqib | 3600 | 2013-01-17 10:40:35 | c3a6437e1b1a726d | 46.2095 | 6.14442 | 291856912927055872 | Twitter for iPhone | @The_Tapinator12 yes a bloody outrage demon is all ready in Khi Im surethy r famous for not peaceful but bloody demon #SavePakistan
+291857551916691456 | 583547325 | Norman__G | 28800 | 2013-01-17 10:40:37 | e0bf196c2d3e4397 | 47.181 | 8.52642 | ? | TweetDeck | Suits season 2 fall premiere tomorrow.
+291857553149808641 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:40:37 | b046074b1030a44d | 40.7077 | -74.0861 | ? | Twitter for iPhone | Boy oh boy
+291857554932375552 | 450805835 | Altziba | 3600 | 2013-01-17 10:40:38 | 94965b2c45386f87 | ? | ? | 291852706820272129 | web | @shyjavierpardo Pobre. xDDDD
+291857555477651456 | 285579366 | ARTPOPMyLife | 28800 | 2013-01-17 10:40:38 | 27485069891a7938 | ? | ? | ? | web | #IJustWantYouToKnow That #LittleMonsters are all born this way and were all badkids.
+291857571134992385 | 50541625 | atistanbul | 3600 | 2013-01-17 10:40:42 | b53ba65776f97f34 | 46.1866 | 6.11745 | 291856364182052864 | Twitter for iPhone | @barbarosturpcu Yine Allah Allah diye diye cmlesini bitirmi yaranmak iin. akma yobaz.
+291857571717980160 | 847762766 | jemz2410 | ? | 2013-01-17 10:40:42 | 573f0dce3d1916cc | 47.6678 | 9.17101 | ? | Path 2.0 | belajar utk ujian bahasa indo tp sbk mikirin mslh kos di yogya at Bibliothek der HTWG Konstanz http://t.co/9I4NIB7Y
+291857575031500800 | 147328045 | Fifilolotte | ? | 2013-01-17 10:40:42 | c799e2d3a79f810e | ? | ? | 291855846936281090 | web | @mmjl oui je continue..jai craqu avant hier et jai fum une.
+291857576864407552 | 190729715 | BellaHilton_21 | -28800 | 2013-01-17 10:40:43 | 65b4760a2b411e11 | 40.4674 | -74.4758 | ? | TweetCaster for iOS | So sick today
+291857579980750849 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:40:44 | ddcca24ee29ddff2 | 46.1827 | 6.14478 | ? | Twitter for iPhone | Cest une tueuse cette fille haha 
+291857599345881088 | 926755556 | leila_latifi | ? | 2013-01-17 10:40:48 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | ? | Twitter for iPhone | Ceux qui mont dit que jtais grosse, je vous retiens Je prepare ma vengeance mouahahah
+291857600914534400 | 757074030 | DusseShehabi | 7200 | 2013-01-17 10:40:49 | 1105847412916875 | 47.4619 | 8.95775 | ? | Twitter for iPhone | Im sensitive, I over think every little thing, and I care way too much.
+291857613346451456 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:40:52 | b046074b1030a44d | 40.7077 | -74.0861 | ? | Twitter for iPhone | To lazy 2 charge it ..
+291857626462027776 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:40:55 | 65b4760a2b411e11 | 40.1578 | -74.9359 | ? | Twitter for iPhone | Ava
+291857649232912384 | 232873094 | courtneykrafttt | -18000 | 2013-01-17 10:41:00 | 65b4760a2b411e11 | 40.2942 | -75.0924 | 291767071795183616 | Twitter for iPhone | @pawkoh @tysoko20 you guys are nuts and that night was nuts but yeah I dont understand why Parker was driving, hahah great night though
+291857660054233088 | 190729715 | BellaHilton_21 | -28800 | 2013-01-17 10:41:03 | 65b4760a2b411e11 | 40.4674 | -74.4759 | ? | TweetCaster for iOS | Ya nada es igual...
+291857689116557312 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:41:10 | 27485069891a7938 | 40.6642 | -73.9386 | 291856810082705408 | Elise | @JustMervyn If you find it in your heart to care for somebody else, you will have succeeded Maya Angelou
+291857689884102656 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:41:10 | b046074b1030a44d | 40.7077 | -74.0861 | ? | Twitter for iPhone | Damn
+291857696049737728 | 926755556 | leila_latifi | ? | 2013-01-17 10:41:11 | 07d6509bb11fd7b1 | 46.1711 | 6.11034 | 291857574561730560 | Twitter for iPhone | @MehdiFrenchy10 Non pck sa sera a cause de vous AHAHAH
+291857696204926976 | 583547325 | Norman__G | 28800 | 2013-01-17 10:41:11 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291857500330930176 | TweetDeck | @DrXR aah. BOE tu macam BNM. print duit.
+291857715746205696 | 772313155 | Yas_Maghrib | 3600 | 2013-01-17 10:41:16 | a1b759dc059e346f | 46.2028 | 6.09603 | 291857553887989760 | Twitter for iPhone | @JoaoMiguel1997 trooop ..
+291857738420588546 | 455997083 | TheOverAnalyst | -18000 | 2013-01-17 10:41:21 | 086752cb03de1d5d | 40.768 | -73.9819 | ? | Instagram | The life of a #shacker w a friend #gymtime #onthego #subwaylife @ Columbus Circle http://t.co/576HbMrm
+291857768355344384 | 86325584 | reihan_ahmad | ? | 2013-01-17 10:41:29 | 3acb748d0f1e9265 | 47.3701 | 8.54092 | ? | Path 2.0 | #Zrich #Suisse at Mnsterhof pic http://t.co/CP1p6PNp
+291857797291864064 | 32331253 | murdaeich | -18000 | 2013-01-17 10:41:35 | 086752cb03de1d5d | ? | ? | ? | Tweetbot for iOS | @mylaaabby follow your boy
+291857802295652352 | 858087672 | SchusterSFDC | ? | 2013-01-17 10:41:37 | 7136613999ce181b | 47.27 | 8.82063 | ? | Twitter for BlackBerry® | Aboard the #TGV heading back to snowy #Zurich http://t.co/QFo41TOq
+291857805957279745 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:41:38 | 8fc3c9b3e656452c | 47.4016 | 6.4967 | 291857604559372288 | Twitter for iPhone | @CheeksDrogba bah si wshhh
+291857808486457344 | 190729715 | BellaHilton_21 | -28800 | 2013-01-17 10:41:38 | 65b4760a2b411e11 | 40.4674 | -74.4759 | ? | TweetCaster for iOS | Es cierto q con el tiempo todo cambia...
+291857812793982978 | 926755556 | leila_latifi | ? | 2013-01-17 10:41:39 | 07d6509bb11fd7b1 | 46.1711 | 6.11035 | 291857636536754176 | Twitter for iPhone | @CHAiYMA_K Si je pourrais Putin un mois je le mets pas il fait le ouf comme sa
+291857815318982656 | 131790019 | dubalai | ? | 2013-01-17 10:41:40 | 2dee2a77476dc763 | ? | ? | ? | web | salut toi, Paul Panckoucke naissance dun personnage... http://t.co/V0YN3aau
+291857821291651072 | 243141145 | DushSjj | 3600 | 2013-01-17 10:41:41 | c799e2d3a79f810e | ? | ? | ? | web | Slogan Eurosonga ove godine je we are one sa full arenim leptirom. Khm. Tobe jarabi. @eurovision #eurosong #leptir #wtf
+291857829088866305 | 345648203 | chelseayoumans | -18000 | 2013-01-17 10:41:43 | 94965b2c45386f87 | 42.464 | -73.8244 | ? | Twitter for iPhone | Falling asleep in the showerlt
+291857832029065216 | 583547325 | Norman__G | 28800 | 2013-01-17 10:41:44 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291857558124244992 | TweetDeck | @johnylabu ye ke. adoi macam2. bahana jadi famous dgn cara yang salah ye dak
+291857837238394880 | 385624859 | lilisheeva | 3600 | 2013-01-17 10:41:45 | ddcca24ee29ddff2 | 46.1874 | 6.13267 | 291856778822553600 | Twitter for iPhone | @Cathy_Killah @maz_209 @alexmcf9 @rosako @kanyeah lol chez moi ouiiiii rhoooooo mais alors on s connat de bleu de bleu
+291857843001389056 | 544026318 | KaitKayy | ? | 2013-01-17 10:41:46 | b6ea2e341ba4356f | 40.7354 | -73.7451 | ? | Twitter for iPhone | Did we adopt one of your people that we didnt know about your daughters white..... They arent my people dumbass #thingsmyparentssay
+291857846155497472 | 22216387 | arthronids | -18000 | 2013-01-17 10:41:47 | b046074b1030a44d | 40.7298 | -74.0718 | ? | Twitter for iPhone | the devils making fun of me
+291857852866371585 | 316233897 | TRex8400 | 7200 | 2013-01-17 10:41:49 | 3762f0997bd0c84b | 47.5081 | 8.75823 | ? | Twitter for iPhone | Nacher Django go luege, jawohl
+291857854091104256 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:41:49 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: the godchild, @rznns 12/43072 poin
+291857856083406849 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:41:50 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm eht nemnrohesyoo mishtsrac aselipc 1977 Art Carney, p:christmas c:USA poin: 34
+291857868175572992 | 629830281 | 12Sanogo | ? | 2013-01-17 10:41:52 | 086752cb03de1d5d | 40.7969 | -73.9346 | 291856698447118338 | Twitter for iPhone | @toure_toure bjr bro cmt tu vas Ca fait un moment.passe une belle journee #Dieuestnotreforce #teamGKS
+291857871757520896 | 34779153 | mettkiller09 | ? | 2013-01-17 10:41:53 | 27485069891a7938 | 40.8271 | -73.8201 | ? | Twitter for Android | Cops everywhere tonight lol
+291857886043312128 | 325623891 | WLWCroatia | ? | 2013-01-17 10:41:57 | c799e2d3a79f810e | ? | ? | ? | web | Enjoy your day with the most beautiful smile in the whole world gt William Levy @willylevy29 amp His Smile http://t.co/ZrFfGOd4
+291857889281314816 | 50541625 | atistanbul | 3600 | 2013-01-17 10:41:57 | b53ba65776f97f34 | 46.1866 | 6.11742 | 291849777010839552 | Twitter for iPhone | @_ertemsener @hakansukur Bir ka kere daha Allah yazsaydn bence Hakan abine dindarln gstermek iin.
+291857893530148864 | 1040992520 | kalkidan_t | 3600 | 2013-01-17 10:41:58 | c3a6437e1b1a726d | 46.2033 | 6.14597 | ? | Twitter for iPhone | Dylan il ma nerve auj 
+291857906062733312 | 926755556 | leila_latifi | ? | 2013-01-17 10:42:01 | 07d6509bb11fd7b1 | 46.1713 | 6.11052 | ? | Twitter for iPhone | Et je suis pas grosse bande de pd
+291857928749719552 | 232873094 | courtneykrafttt | -18000 | 2013-01-17 10:42:07 | 65b4760a2b411e11 | 40.2942 | -75.0924 | 291767322211926016 | Twitter for iPhone | @tysoko20 @pawkoh you guys are nuts and that night was nuts but yeah I dont understand why Parker was driving, hahah great night though
+291857932012908547 | 30445147 | RheinTemp | 3600 | 2013-01-17 10:42:08 | 508f024bc856afc5 | 47.5574 | 7.59341 | ? | Wasser Temperatur Rhein | um 10:00 5.4 C 4C 83 Leichter Schneeschauer in Basel
+291857938073669633 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:42:09 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | He called me a crazy bh
+291857949528313856 | 964709312 | siilva_karine | ? | 2013-01-17 10:42:12 | 07d6509bb11fd7b1 | 46.1712 | 6.11942 | ? | Twitter for iPhone | Toi nn plus HAHAHHA en tt cas thiste JAHAHAHAA
+291857950216159232 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:42:12 | 27485069891a7938 | 40.8077 | -73.9246 | ? | Twitter for iPhone | @autocorrects: If they really wanted you to have a Happy Period, theyd make tampons that vibrate.hehehe yeahhhhhh
+291857952099405824 | 275795922 | toneens | -18000 | 2013-01-17 10:42:12 | 086752cb03de1d5d | ? | ? | 291857258185379840 | web | @Dom1985 Im gonna make one. Psychotic online sugar daddies might be an untapped market that porn stars are hugely taking advantage of lol
+291857959288451072 | 32331253 | murdaeich | -18000 | 2013-01-17 10:42:14 | 086752cb03de1d5d | ? | ? | ? | Tweetbot for iOS | @curls_4thegirls follow your boy
+291857959972118528 | 338483929 | ObeyingtheMoon | -10800 | 2013-01-17 10:42:14 | 24292aa21cb92cd8 | 47.2476 | 5.98528 | 291854759927877632 | Twitter for Android | @YannickOlivier Mes excuses, je navais point vu.
+291857970101354496 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:42:17 | 8fc3c9b3e656452c | 47.4017 | 6.49663 | ? | Twitter for iPhone | Eske les riche i vont faire le course au supermarch #repondez
+291858003852931072 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:42:25 | b046074b1030a44d | 40.7077 | -74.0862 | ? | Twitter for iPhone | Im so offended
+291858013235580928 | 65416919 | ADM_Chris | -18000 | 2013-01-17 10:42:27 | 27485069891a7938 | 40.8756 | -73.8733 | ? | foursquare | Im at Chriss House Bronx, NY http://t.co/6hn2zRn9
+291858039500316672 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:42:33 | 65b4760a2b411e11 | 40.1578 | -74.9358 | ? | Twitter for iPhone | My baby sis in my avi always laughin every time I pick her up lol
+291858047033290752 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:42:35 | 058d4d8bd84c5a25 | 47.5484 | 7.7583 | ? | PTV Traffic Alert | Stau: zwischen Rheinfelden und Rheinfelden Stau. 
+291858049688289280 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:42:36 | 058d4d8bd84c5a25 | 47.5484 | 7.7583 | ? | PTV Traffic Alert | Stau: A861 Dreieck Hochrhein Richtung Grenzbergang Rheinfelden zwischen AS RheinfeldenSd und Rheinfelden Stau 17.01.2013 06:37 17.01.2
+291858054746619904 | 473515705 | krisemack | ? | 2013-01-17 10:42:37 | 65b4760a2b411e11 | 40.6965 | -75.0131 | ? | Twitter for Android | Its my birthday, yay
+291858057506480128 | 1062720385 | MagnifiCESS | -28800 | 2013-01-17 10:42:38 | 65b4760a2b411e11 | ? | ? | ? | web | Mag papaka Tanga Ka Na Nga Lang Dun Pa Sa Taong Di Wort it. Pwe
+291858057619701760 | 129960819 | PinkRules_12 | -10800 | 2013-01-17 10:42:38 | bec98271815d2329 | 45.8248 | 9.41867 | ? | Instagram | Il sole dopo la tempesta.. #sunset #sole #tramonto #pink #view #picoftheday #photofthed @ castello di barbie http://t.co/JYIBrABA
+291858059058352128 | 170419350 | Bodenseee | ? | 2013-01-17 10:42:38 | 1a3c010c2a8beca4 | 47.6704 | 9.0884 | ? | Bodenseee | FotoAlbum Gallery Instagram Photos vom Bodensee #Ermatingen http://t.co/I3ZyHjs5
+291858059070947328 | 232495895 | BodenseeMond | 3600 | 2013-01-17 10:42:38 | f6717ebe56d75bfa | 47.8169 | 9.05275 | ? | Mond | Der Mond ist derzeit ZUNEHMEND und seit dem letzten Neumond 5.9 Tage alt http://t.co/XGITUDVc
+291858066956242944 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:42:40 | 8fc3c9b3e656452c | 47.4017 | 6.4967 | 291857922072391680 | Twitter for iPhone | @CheeksDrogba pleure
+291858086442967041 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:42:44 | b046074b1030a44d | 40.708 | -74.0862 | ? | Twitter for iPhone | Nah Im bullshiting
+291858094181449729 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:42:46 | b6ea2e341ba4356f | ? | ? | ? | web | Slept well last night. Ran 3 miles sweat amp burn feeling the good pain : Loving it embracing #exercise #running #workout #fitness
+291858104851783680 | 324323844 | BillelOrton | ? | 2013-01-17 10:42:49 | c58d5b0c1c241f2e | ? | ? | 291856122388819968 | web | @WWE_JCena jackass
+291858111260655616 | 217515140 | giamma_7 | ? | 2013-01-17 10:42:50 | d3af3df47d1cca86 | 45.8883 | 9.94603 | ? | Twitter for iPhone | Certi amori non finiscono fanno dei giri immensi e poi ritornano @kaka torna con noi 
+291858117430476800 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:42:52 | 65b4760a2b411e11 | 40.1578 | -74.9357 | ? | Twitter for iPhone | Ima ghost lol
+291858120056111104 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:42:52 | 27485069891a7938 | 40.8064 | -73.9259 | ? | Twitter for iPhone | @autocorrects: I hated it when teachers would act fake when the Principal comes in the classroom.
+291858126439870465 | 908652114 | RandallEToby | -14400 | 2013-01-17 10:42:54 | 65b4760a2b411e11 | 40.0292 | -74.8262 | ? | Twitter for iPhone | Have you LIKED my Facebook page yet I would appreciate your support Tweeters :
+291858157494476801 | 926755556 | leila_latifi | ? | 2013-01-17 10:43:01 | 07d6509bb11fd7b1 | 46.1711 | 6.11024 | ? | Twitter for iPhone | Trop des chiens ma vengeance vous aller la gouter sec
+291858167418220544 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:43:04 | 65b4760a2b411e11 | 40.1579 | -74.9357 | ? | Twitter for iPhone | HANNNN
+291858170614259712 | 43631418 | volpela | -18000 | 2013-01-17 10:43:04 | 27485069891a7938 | 40.5764 | -73.9599 | 291857426762829824 | Twitter for iPhone | @albiteinstein not a lay on the beach person so I vote some windswept cottage on a cliff at the water n north Scotland far away from people
+291858183201357824 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:43:07 | b046074b1030a44d | 40.7079 | -74.0863 | ? | Twitter for iPhone | ?
+291858219758936064 | 628007016 | Noblesse_System | -18000 | 2013-01-17 10:43:16 | 27485069891a7938 | ? | ? | ? | web | awesome moment when you find someone in cki that plays vanguard
+291858223554781184 | 492453449 | SHUTitDOWN_21 | -36000 | 2013-01-17 10:43:17 | 65b4760a2b411e11 | 40.3883 | -74.3446 | ? | Twitter for iPhone | Bouta try n hit this laundry before work lol
+291858241489604608 | 32331253 | murdaeich | -18000 | 2013-01-17 10:43:21 | 086752cb03de1d5d | ? | ? | ? | Tweetbot for iOS | @AYOO_GORJUSZ follow your boy
+291858245096706048 | 74004026 | TamyBe | ? | 2013-01-17 10:43:22 | c799e2d3a79f810e | 45.8086 | 15.9921 | ? | Twitter for iPhone | Twitter i motivacija : http://t.co/dbotRNU6 #twitter
+291858246627627008 | 844673238 | JoeyArectumKels | ? | 2013-01-17 10:43:23 | b6ea2e341ba4356f | 40.7779 | -73.8416 | ? | Twitter for iPhone | For anyone everyday is the last chance dont let the past steal your present you know all your friends are close to you
+291858252772278272 | 241771640 | JulienCVC | ? | 2013-01-17 10:43:24 | 7668b962a78513e6 | ? | ? | ? | web | Lnorme buzz aux USA, laffaire Manti Teo expliqu de A Z http://t.co/JlcQtWTJ #ncaa #totalnfl #footus #fffs #Mantiteo #totalncaa
+291858276717588480 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:43:30 | b046074b1030a44d | 40.7077 | -74.0862 | ? | Twitter for iPhone | Well maybe a lil bit
+291858291951276032 | 926755556 | leila_latifi | ? | 2013-01-17 10:43:33 | 07d6509bb11fd7b1 | 46.1711 | 6.11029 | 291858071179907074 | Twitter for iPhone | @_EvaLove @millescaps AHAHAHAHAHAHHAAH MAIEEEEUH
+291858297705865216 | 206332688 | Strong_Maria | 3600 | 2013-01-17 10:43:35 | fdcd221ac44fa326 | 50.0588 | 14.2825 | ? | Twitter for Android |  ... ...
+291858300964835328 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 10:43:36 | c799e2d3a79f810e | ? | ? | 291857090862018560 | web | @France2tv je comprends mais envoys spcial elle fonctionne trs bien sur replay tout ce que je demande un lien youtube pour y regarder
+291858329142165504 | 970424845 | FerreiraBrunooo | ? | 2013-01-17 10:43:42 | dfbf4ce81da97883 | 46.9966 | 6.94551 | 291855695622569984 | Twitter for iPhone | @Me_LindaXo je vais manger combien de nouilles je veuuuux
+291858329611927552 | 326845941 | FatGirlSnacks | ? | 2013-01-17 10:43:42 | 086752cb03de1d5d | ? | ? | ? | web | Im actually considering traveling to DC without a mixer as if can get through the weekend without baking a cake.
+291858342635270144 | 30824346 | IAmBeast_sbz | -18000 | 2013-01-17 10:43:46 | 27485069891a7938 | 40.8577 | -73.8835 | ? | foursquare | Im at TCK Martial Arts Academy Bronx, NY http://t.co/dNU5S8P8
+291858355222376448 | 583547325 | Norman__G | 28800 | 2013-01-17 10:43:49 | 142b1b3a4f754adc | ? | ? | 291858211395477504 | Echofon | @LianaBridgerton iya. sebulan sekali jua dulu.
+291858367834636288 | 926755556 | leila_latifi | ? | 2013-01-17 10:43:52 | 07d6509bb11fd7b1 | 46.1712 | 6.11035 | 291858191594160129 | Twitter for iPhone | @_EvaLove Oh merci, une qui me soutient au MOIN
+291858373832499200 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:43:53 | 27485069891a7938 | 40.8079 | -73.9247 | ? | Twitter for iPhone | @autocorrects: Who else used too Fake dates on your homework so it doesnt look like you did it the last minute.
+291858386537025536 | 866069924 | AlyArbabi | ? | 2013-01-17 10:43:56 | c3a6437e1b1a726d | 46.2164 | 6.13835 | 291529158742380544 | Twitter for iPhone | @OceaneBj_ oui je sais ..
+291858386977443840 | 1011939764 | RomainBoine | -36000 | 2013-01-17 10:43:56 | 24292aa21cb92cd8 | 47.2383 | 6.01765 | ? | Twitter for Android | @T_oO15 mdrrr elle cest fais flaaaah
+291858395651256320 | 47551491 | Forr_Weber | 36000 | 2013-01-17 10:43:58 | 086752cb03de1d5d | 40.7413 | -73.9812 | ? | Instagram | A rare find in #NewYorkCity #ShinerBock #RodeoBar #Texans @ Rodeo Bar http://t.co/dgeQmDuN
+291858407751815168 | 50996658 | JasminTN | 3600 | 2013-01-17 10:44:01 | c799e2d3a79f810e | 36.8776 | 10.3289 | ? | foursquare | Im at La Marsa La Marsa, Tunisie http://t.co/SjmLznBV
+291858423111352321 | 926755556 | leila_latifi | ? | 2013-01-17 10:44:05 | 07d6509bb11fd7b1 | 46.1712 | 6.11042 | 291858265682345985 | Twitter for iPhone | @CHAiYMA_K AHAHAH GRAVE QUEL CHIEN
+291858434331136000 | 25495493 | jforadada | -18000 | 2013-01-17 10:44:07 | 086752cb03de1d5d | 40.7486 | -73.9898 | ? | Instagram | CJ is too cute early in the morning. Always wants to cover his eyes with a blanket to block the l @ The Epic http://t.co/xPbOA6k0
+291858442132545536 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:44:09 | 8fc3c9b3e656452c | 47.4017 | 6.4967 | ? | Twitter for iPhone | Personne me rpond bah aller sucer un lphant
+291858442476462081 | 772313155 | Yas_Maghrib | 3600 | 2013-01-17 10:44:09 | a1b759dc059e346f | 46.2028 | 6.09609 | ? | Twitter for iPhone | Ce soir jai le truc au collge Rousseau
+291858444431003648 | 453432546 | davideterruzzi | 3600 | 2013-01-17 10:44:10 | 22eb26a98cbcea30 | 45.5252 | 9.04244 | 291855460754149376 | Mobile Web (M5) | @VittorioCampa La Roma non guarda solo alla Disney, ha pensato anche all Albero azzurro: 
+291858467935899648 | 60342321 | djerudito | ? | 2013-01-17 10:44:15 | 51c0e6b24c64e54e | 46.005 | 8.9505 | ? | Instagram | #lugano #detail @ Lugano http://t.co/IHjrrGXB
+291858490291527680 | 470269253 | FSandrinnha | ? | 2013-01-17 10:44:21 | c3a6437e1b1a726d | 46.2205 | 6.14324 | 291857964799762432 | Twitter for iPhone | @AlyssaDovale @aediamt nous navons pas la mme dfinition du mot ange
+291858502090113024 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:44:24 | 27485069891a7938 | 40.8079 | -73.9248 | ? | Twitter for iPhone | @autocorrects: Th moment when a package says Easy open amp you end up using scissors, knife, hammer, gun amp a lightsaber trying to open it.
+291858522566701057 | 115999024 | FribourgMeteo | 3600 | 2013-01-17 10:44:28 | a65c74c7f6c52ef7 | 46.83 | 7.17 | ? | twitterfeed | Mto Conditions for Fribourg, SZ at 10:49 am CET: Current Conditions: Mostly Cloudy, 4 CForecast: Thu Few Sn... http://t.co/J9Fb38za
+291858527570497536 | 282931345 | ubuntuchosen | ? | 2013-01-17 10:44:30 | fdcd221ac44fa326 | 50.0759 | 14.4155 | ? | Twitter for iPhone | http://t.co/OWSXUOug
+291858533497069568 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:44:31 | cb6aa66f0c05a3d8 | 45.9574 | 10.3116 | 291857777901596673 | Twitter for iPad | @82dvd stasera saremo solo io e te...: le labbra di riserva non sono ancora arrivate, fa niente
+291858547250180097 | 926755556 | leila_latifi | ? | 2013-01-17 10:44:34 | 07d6509bb11fd7b1 | 46.1712 | 6.11042 | ? | Twitter for iPhone | Mava elle a dit jtais pas grosse, elle est chou
+291858559237505024 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:44:37 | 27485069891a7938 | 40.8079 | -73.9248 | ? | Twitter for iPhone | @autocorrects: When I was little, I always wanted to be older. Now Im an adult, and this shit sucks.
+291858562802659328 | 1011939764 | RomainBoine | -36000 | 2013-01-17 10:44:38 | 24292aa21cb92cd8 | 47.2385 | 6.01733 | ? | Twitter for Android | @T_oO15 mdrrr raaah la degz
+291858566523019266 | 60594345 | LifeAddicts | 25200 | 2013-01-17 10:44:39 | fdcd221ac44fa326 | 50.0864 | 14.4119 | ? | Instagram | / @ Karlv most Charles Bridge http://t.co/Bx2uYpQe
+291858578833281024 | 206332688 | Strong_Maria | 3600 | 2013-01-17 10:44:42 | fdcd221ac44fa326 | 50.1015 | 14.1433 | ? | Twitter for Android |  , , ...
+291858580355829760 | 50541625 | atistanbul | 3600 | 2013-01-17 10:44:42 | b53ba65776f97f34 | 46.1866 | 6.11738 | 291851410490937344 | Twitter for iPhone | @tibetsaros ne hainlik yapm Yaz da ben de reneyim. Ben Krtm dedii iin mi yoksa bu tepkin
+291858583535112193 | 217515140 | giamma_7 | ? | 2013-01-17 10:44:43 | d3af3df47d1cca86 | 45.8883 | 9.94604 | ? | Twitter for iPhone | Certi amori non finiscono fanno dei giri immensi e poi ritornano #kaka
+291858589872685057 | 57914460 | BorisTarpini | ? | 2013-01-17 10:44:44 | 118764bbfa969329 | 46.0448 | 8.97519 | ? | Instagram | Ho preso una foto @ Skunkworks Recording Studio http://t.co/wC4Ljp87
+291858594813587456 | 44142758 | burcuolgun | ? | 2013-01-17 10:44:46 | 4b041fd42a0be635 | 46.4574 | 6.88216 | ? | Twitter for Android | Mistakes are proof that youre trying
+291858599259566080 | 324323844 | BillelOrton | ? | 2013-01-17 10:44:47 | c58d5b0c1c241f2e | ? | ? | 291853973571391490 | web | @BakrIraq @WWE_JCena @HEELZiggler @Ke what
+291858607358742528 | 74506350 | lionelrossier | 3600 | 2013-01-17 10:44:49 | fdb8b13745d79424 | 46.5249 | 6.82773 | ? | Twitter for iPhone | Je viens de mater un rsum du match... Toutes ces occasions ... #swansea #afc
+291858610902933505 | 243141145 | DushSjj | 3600 | 2013-01-17 10:44:50 | c799e2d3a79f810e | ? | ? | ? | web | @sno0zeBA @aleldin TOBE JARABI Swedish Horror Story: Malmo :D http://t.co/M5ATpOwD
+291858614946250752 | 42975415 | lunacaifan | ? | 2013-01-17 10:44:50 | 30410557050f13a5 | 48.1402 | 17.1049 | ? | Instagram | Estao bem bacaninha.. #eurotrip #eslovquia #bratislava #mochilo @ Most SNP bus, tram http://t.co/Rus4S2eb
+291858636496592896 | 583547325 | Norman__G | 28800 | 2013-01-17 10:44:56 | 142b1b3a4f754adc | ? | ? | 291858380132319233 | Echofon | @karmenlunarxisc kenapa u suka Louis lol.
+291858662933266432 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:45:02 | 27485069891a7938 | 40.8079 | -73.9248 | ? | Twitter for iPhone | @autocorrects: I have read and agree to the Terms and Conditions should be called I didnt read, but I want to access this shit.
+291858667094024192 | 55467341 | abbeyeveryday | -21600 | 2013-01-17 10:45:03 | 086752cb03de1d5d | 40.801 | -73.9618 | ? | Twitter for iPhone | @k8gamble: lollin in the deep
+291858690837983233 | 279313656 | figurepublic | ? | 2013-01-17 10:45:09 | 27485069891a7938 | 40.8629 | -73.888 | 291775045792038912 | Twitter for iPhone | @drzfinestgurl nini is here
+291858696168931328 | 89790679 | yohanlaley | -21600 | 2013-01-17 10:45:10 | 27485069891a7938 | 40.8452 | -73.9208 | ? | Twitter for iPhone | @layii
+291858696185724928 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:45:10 | 27485069891a7938 | 40.6642 | -73.9386 | 291857908696772608 | Elise | @JustMervyn There would be nothing to frighten you if you refuse to be afraid Ghandi. Like ons : https://t.co/7NMx8JBb
+291858730918760448 | 318309777 | SaNdRaaa_D | ? | 2013-01-17 10:45:18 | a0bf807727362772 | 47.0925 | 8.45023 | 291854459728965633 | Twitter for iPhone | @daki82daki @poslednjilet I ja bih volela da vidim Veljka kako je HOT
+291858736300032001 | 10633802 | Idros | 3600 | 2013-01-17 10:45:19 | 53f89edf8ce5fd40 | 45.8015 | 8.86972 | ? | Gravity! | Che teneri quelli con la mia stessa auto che fanno gli abbaglianti per salutare i propri simili.
+291858745456226304 | 192750673 | krissstel | 28800 | 2013-01-17 10:45:22 | 27485069891a7938 | ? | ? | ? | web | 24th http://t.co/bekrCbXl
+291858750736830465 | 131790019 | dubalai | ? | 2013-01-17 10:45:23 | 2dee2a77476dc763 | ? | ? | 291852707562680320 | web | @thestorycurator la survie littraire de #Bove a t assure par les COBRA Butor, Dotremont, Alechinski Sans eux...Merci, bataves 
+291858757258989568 | 81372836 | vivi__23 | 3600 | 2013-01-17 10:45:24 | ffa5c982527e9a43 | 45.8241 | 8.96764 | ? | Twitter for iPhone | @Kohhn_ Sto davvero cominciando a preoccuparmi seriamente. #sappilo
+291858763458174977 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:45:26 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: the honeymooners christmas special, @rznns 34/43106 poin
+291858765370777601 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:45:26 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm i veil in eth ooswd 2008 Mark Gagliardi, p:taxidermy c:USA poin: 19
+291858769623805953 | 275615308 | yandehdrizzy | -28800 | 2013-01-17 10:45:27 | 27485069891a7938 | 40.8079 | -73.9248 | ? | Twitter for iPhone | @autocorrects: You know your tired when your alarm doesnt wake you up right away, instead it just blends into your dream.
+291858810220449792 | 251231168 | Lasrtajaramillo | -18000 | 2013-01-17 10:45:37 | b6ea2e341ba4356f | 40.7422 | -73.8526 | ? | Twitter for iPhone | No es cuestin de decisin es cuestin de puntuacin.
+291858810291765248 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:45:37 | b046074b1030a44d | 40.7078 | -74.0861 | 291852970017050624 | Twitter for iPhone | @RealSince_Day01 we know
+291858823638036480 | 964479944 | HDasouza | ? | 2013-01-17 10:45:40 | f3bfc7dcc928977f | ? | ? | ? | web | @HDasouza L INTELLIGENCE pas 1 question de diplmes ou statut social, c est L ART de rsoudre 1 problme dans 1 situation quelconque donne
+291858826221723648 | 251231168 | Lasrtajaramillo | -18000 | 2013-01-17 10:45:41 | b6ea2e341ba4356f | 40.7417 | -73.8528 | ? | Twitter for iPhone | Tena ganas de ignorante pero me fallo la inspiracin.
+291858826741825536 | 6848912 | philippkueng | 3600 | 2013-01-17 10:45:41 | 7b5bcdfb5c50c957 | ? | ? | 291857763250880513 | Tweetbot for Mac | @ecolix are you coming to Zrich coffee beforehand or was this just a public service announcement.
+291858832936824833 | 50541625 | atistanbul | 3600 | 2013-01-17 10:45:42 | b53ba65776f97f34 | 46.1866 | 6.11742 | 291858550190399488 | Twitter for iPhone | @barbarosturpcu yalakann onde gideni hem de.
+291858833259773953 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:45:42 | ddcca24ee29ddff2 | 46.1825 | 6.14487 | ? | Twitter for iPhone | Vous voulez jouez On va jouez .
+291858837248565248 | 324323844 | BillelOrton | ? | 2013-01-17 10:45:43 | c58d5b0c1c241f2e | ? | ? | 291856122388819968 | web | @WWE_JCena your not awesome you stink
+291858853518254081 | 89790679 | yohanlaley | -21600 | 2013-01-17 10:45:47 | 27485069891a7938 | 40.8452 | -73.9205 | ? | Twitter for iPhone | @layii1
+291858870433878017 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:45:51 | b046074b1030a44d | 40.7079 | -74.0862 | 291853172954243073 | Twitter for iPhone | @RealSince_Day01 so what lol
+291858920086061057 | 99983 | nothingistrue | 3600 | 2013-01-17 10:46:03 | 04b5087590076d0a | ? | ? | ? | Tweetbot for Mac | wow: Added a couple of films to my Top Ten Wallpaper Movies slideshow. http://t.co/JYpxtVvL http://t.co/71eRrrW4 via @AnneBillson
+291858943758696448 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:46:09 | b046074b1030a44d | 40.7078 | -74.0862 | 291858769049182208 | Twitter for iPhone | @andre1001L aww
+291858961966174208 | 115682123 | NeuchatelMeteo | 3600 | 2013-01-17 10:46:13 | dfbf4ce81da97883 | 46.98 | 6.93 | ? | twitterfeed | Conditions for Neuchatel, SZ at 10:49 am CET: Current Conditions: Mostly Cloudy, 4 CForecast: Thu Few Snow Sh... http://t.co/2k4qoZbe
+291858977812279296 | 18027267 | SMHillman | -18000 | 2013-01-17 10:46:17 | 086752cb03de1d5d | 40.7665 | -73.982 | ? | foursquare | Early bird gets the worm @ CorbinHillman Communications http://t.co/taeoSNFN
+291858985718521856 | 14488260 | Snex | 3600 | 2013-01-17 10:46:19 | c799e2d3a79f810e | ? | ? | ? | web | A super su mi i tvid i tartan.
+291859000717373440 | 396272377 | ParkwayPress | -28800 | 2013-01-17 10:46:23 | 27485069891a7938 | ? | ? | ? | web | Got babies at home Haha http://t.co/KMCTQGIP
+291859021525299200 | 324323844 | BillelOrton | ? | 2013-01-17 10:46:27 | c58d5b0c1c241f2e | ? | ? | 290160751593799680 | web | @Louis_Tomilosn @TedOfficialPage not real i dont think so lie
+291859031281246208 | 81372836 | vivi__23 | 3600 | 2013-01-17 10:46:30 | ffa5c982527e9a43 | 45.8241 | 8.96746 | 291858488961937408 | Twitter for iPhone | @AntonyCosta Morning Mr Costa Its quite cold in here too.Have a great day xxx
+291859036117286912 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:46:31 | 27485069891a7938 | 40.6642 | -73.9386 | 291858303213006848 | Elise | @anoukbijlx wonen er echt alleen maar cuties als Anouk in Jessywever Nienke
+291859039686639616 | 591845882 | Ari_Grande3 | 7200 | 2013-01-17 10:46:32 | aa0ae5b80771d7ad | 45.9318 | 8.4712 | 291853346506170368 | Twitter for Android | @mmHarry_Styles o come staiii lt3
+291859058464530432 | 27945549 | schreiter | 3600 | 2013-01-17 10:46:36 | c799e2d3a79f810e | 46.0622 | 14.509 | ? | foursquare | Im at Javna agencija za tehnoloki razvoj Republike Slovenije Ljubljana http://t.co/hwSrPAbZ
+291859066114957312 | 89790679 | yohanlaley | -21600 | 2013-01-17 10:46:38 | 27485069891a7938 | 40.8452 | -73.9205 | ? | Twitter for iPhone | @layii1 alla
+291859066651807744 | 711499244 | armaniking25 | ? | 2013-01-17 10:46:38 | 27485069891a7938 | 40.8533 | -73.898 | 291856671855214593 | Twitter for iPhone | @shopaholic_myk chilling fam..sup wif your Ends
+291859068782522368 | 571894218 | MartinaSolca_ | 7200 | 2013-01-17 10:46:39 | 84ee098342e6cca2 | 46.0364 | 8.96267 | ? | Twitter for iPhone | SEMPRE PI FIERA DI VOI @NiaIIOfficiaI @Real_Liam_Payne @Harry_Styles @Louis_Tomlinson @zaynmalik @onedirection http://t.co/haS38Y8N
+291859085899464704 | 324323844 | BillelOrton | ? | 2013-01-17 10:46:43 | c58d5b0c1c241f2e | ? | ? | 291856368799997953 | web | @melkatymiley answer me
+291859089519165441 | 392973497 | marvincrapuleux | 3600 | 2013-01-17 10:46:44 | c3a6437e1b1a726d | 46.1992 | 6.15748 | 291848726048305152 | Twitter for Android | @BesjanaAjeti loool
+291859092018954240 | 522390655 | AutoSofortKauf | 3600 | 2013-01-17 10:46:44 | d11422f03ebc4938 | 47.6946 | 8.6298 | ? | foursquare | Im at Hotel Park Villa Schaffhausen http://t.co/O5uIwuSx
+291859095164706817 | 441658318 | Baby_Bash93 | ? | 2013-01-17 10:46:45 | dfbf4ce81da97883 | 46.9952 | 6.93802 | 291858664749424640 | Twitter for Android | @WizzleGangz jai transpir
+291859120439570432 | 318390632 | htc_shain | 3600 | 2013-01-17 10:46:51 | 72b3bf7d9f000292 | ? | ? | ? | web | @serdargokalp Bence posta sakasi yayinlansin 
+291859126919757824 | 583547325 | Norman__G | 28800 | 2013-01-17 10:46:52 | 142b1b3a4f754adc | ? | ? | 291858937475629057 | Echofon | @karmenlunarxisc narcissist. hahaha. hes super annoying
+291859132024254466 | 711499244 | armaniking25 | ? | 2013-01-17 10:46:54 | 27485069891a7938 | 40.8534 | -73.8981 | 291856187987722240 | Twitter for iPhone | @manuelhectord lol I hear boss..
+291859132699525120 | 98999076 | MackDADDy_x | -21600 | 2013-01-17 10:46:54 | 27485069891a7938 | 40.6471 | -73.961 | ? | Twitter for iPhone | Why am i up I zont know .
+291859139238445056 | 10816482 | Sachmer | 3600 | 2013-01-17 10:46:55 | 30410557050f13a5 | 48.1394 | 17.1221 | ? | Instagram | Male velke dieta vo mne neodolalo 30cm snehu :D #snow #bratislava @ Dunajsk breh Eurovea http://t.co/VmKwZq0e
+291859147442487296 | 251569187 | iPadNewsBlogde | 3600 | 2013-01-17 10:46:57 | 01c6103f356d2f10 | 47.7016 | 8.62998 | ? | foursquare | I just became the mayor of Suntech Power International Ltd. on @foursquare http://t.co/mJCMsJ8D
+291859148637868034 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:46:58 | b6ea2e341ba4356f | ? | ? | 291858471941459968 | web | @blueflyr Why would anyone chase me If anything Im chasing after a #goal :
+291859159652106240 | 325969245 | nastyaawolt | -25200 | 2013-01-17 10:47:00 | 65b4760a2b411e11 | ? | ? | ? | web |  , . 
+291859191927283713 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:47:08 | c3a6437e1b1a726d | 46.2084 | 6.12789 | 291858794965762048 | Twitter for iPhone | @BrunoFaustino19 on verra
+291859192241852417 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 10:47:08 | c799e2d3a79f810e | ? | ? | 291858594280902657 | web | @Celebrity_Duets who is the stars for this next saturday 
+291859194649395200 | 972332773 | allan12_27 | ? | 2013-01-17 10:47:09 | ddcca24ee29ddff2 | 46.1819 | 6.15211 | ? | Twitter for iPhone | J aimerai bien savoir parler italien __
+291859202434035712 | 133303528 | Kiksi | 3600 | 2013-01-17 10:47:10 | c799e2d3a79f810e | 46.0621 | 14.5083 | ? | Twitter for Android | Okolnosti na koje ne mozemo da uticemo
+291859229336297473 | 21137173 | MrKentSanderson | -18000 | 2013-01-17 10:47:17 | b6ea2e341ba4356f | 40.6948 | -73.8123 | ? | Twitter for iPhone | Off to Park City, where I will be temporarily less concerned about global warming.
+291859247048818689 | 282931345 | ubuntuchosen | ? | 2013-01-17 10:47:21 | fdcd221ac44fa326 | 50.0759 | 14.4155 | 291859154560225280 | Twitter for iPhone | @zombie_ravi presna adresa
+291859247166263296 | 446578922 | 74_tracy | 3600 | 2013-01-17 10:47:21 | d634e9b0a9802b08 | 46.191 | 6.24792 | 291856328299798528 | Twitter for iPhone | @ilker_mosby que tarrive il 
+291859248864980992 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:47:22 | a1b759dc059e346f | 46.2153 | 6.11681 | ? | Twitter for iPhone | Moi J ADORE la salade, surtout celle de la maman David
+291859255441629184 | 169805216 | DavidArroy0 | -18000 | 2013-01-17 10:47:23 | b046074b1030a44d | 40.725 | -74.0353 | ? | foursquare | I just ousted @markxhu as the mayor of FossiL on @foursquare http://t.co/YFRzFRdd
+291859261665972224 | 279313656 | figurepublic | ? | 2013-01-17 10:47:25 | 27485069891a7938 | 40.8655 | -73.8873 | ? | Twitter for iPhone | Un dia mas y sigo vivo gracia papa dios.... A trabajar 
+291859274437648384 | 211446675 | twisafrane | 3600 | 2013-01-17 10:47:28 | e38a1a641d02f8db | ? | ? | ? | Tweetbot for iOS | am tag der garagisten des agvs in bern sprechen adolf ogi, doris leuthard zum thema berufsbildung und unternehmertum. http://t.co/qE1GVMXt
+291859274609606656 | 571894218 | MartinaSolca_ | 7200 | 2013-01-17 10:47:28 | 1ce016df932c016a | 46.0327 | 8.95296 | ? | Twitter for iPhone | Ho bisogno di una bella dormita #solosonno
+291859300115169280 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:47:34 | c3a6437e1b1a726d | 46.2085 | 6.12787 | ? | Twitter for iPhone | Il me fait hsiter
+291859300287148032 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:47:34 | 8fc3c9b3e656452c | 47.4017 | 6.49676 | ? | Twitter for iPhone | Ptin c triste kanmeme #France4
+291859302497517568 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:47:34 | 4115db4852154b76 | 47.5966 | 7.60375 | ? | PTV Traffic Alert | Stau: zwischen Weil am Rhein/Basel und Weil am Rhein/Basel Stau. 
+291859302686277633 | 374557768 | ProUrroz | ? | 2013-01-17 10:47:34 | d247a20abe044bd0 | 45.9374 | 6.41176 | ? | Twitter for Android | @frimasteeve les poissons de la Cartoucherie hibernent comme chez vous #forumblanc
+291859303156039680 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:47:35 | ddcca24ee29ddff2 | 46.1826 | 6.14477 | 291859100046880768 | Twitter for iPhone | @HodyGuled HAHAHAHAHAHA non tageule hahah
+291859304791801857 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:47:35 | 4115db4852154b76 | 47.5966 | 7.60375 | ? | PTV Traffic Alert | Stau: A5 Karlsruhe Richtung Basel zwischen Parkplatz Weil am Rhein und Weil am Rhein/Basel Stau 17.01.2013 06:36 17.01.2013 11:51
+291859326698663938 | 950687000 | DayanaNavyy | 3600 | 2013-01-17 10:47:40 | eb3b933a531c86e1 | 47.5082 | 6.80061 | 291857975767863297 | Twitter for iPhone | @AznS_ ptdrrrr Mtn ouvre toi le ventre avc un stylo biiiicc mtn Hahahaa .
+291859338803417088 | 1025025980 | Joana_Pereira_f | ? | 2013-01-17 10:47:43 | ddcca24ee29ddff2 | 46.1817 | 6.14401 | 291852301814079489 | Twitter for iPhone | @MaevaYana ahahahahahaha Maeva
+291859382420008960 | 117835734 | dwensauer | 3600 | 2013-01-17 10:47:53 | 3acb748d0f1e9265 | 47.3665 | 8.54598 | ? | foursquare | Im at Globus Zrich, ZH http://t.co/Rifv7U43
+291859413797593088 | 239044338 | giizeemlii | 3600 | 2013-01-17 10:48:01 | 12105e9d286e043f | 47.3722 | 8.23348 | ? | Twitter for Android | Bi karacier salamd, o da gitti.. Alkol imediim haldeeee nadna imdi iesim var.
+291859450845880320 | 496021388 | Meg_Allas | ? | 2013-01-17 10:48:12 | b6ea2e341ba4356f | 40.7763 | -73.8728 | ? | Twitter for Android | @katespadeny howd you know I love coral lipstick #fav http://t.co/hReac49b
+291859462443122688 | 961189980 | AdnaMehic123 | ? | 2013-01-17 10:48:12 | c799e2d3a79f810e | ? | ? | ? | web | ganjaaaaaaaaaaaaa ahahahhaa
+291859469799931904 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:48:14 | a1b759dc059e346f | 46.2153 | 6.11681 | ? | Twitter for iPhone | La salade avec un BON GROS STEAK
+291859494781190144 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:48:20 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291746872710799360 | Twitter for Android | @Stephtty_ mhmmhm
+291859500565135360 | 634820387 | MarinaKat1 | ? | 2013-01-17 10:48:23 | fd97878d33c9ace9 | 47.4464 | 8.22702 | ? | Twitter for Android | Toulaxiston exw mia kapoia thea apo to grafeio..kayi einai ki auto http://t.co/bplcADil
+291859527853305857 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:48:28 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: i live in the woods, @rznns 19/43125 poin @eggfly22 1/6301 poin @hendriskyliner 1/21612 poin
+291859529786859520 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:48:29 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm sratw dsog 1971 Donald Webster, p:american c:UK poin: 10
+291859549709824000 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:48:33 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291746990851760128 | Twitter for Android | @RaekwonToSmooth i wondeer why too
+291859559444799489 | 314839041 | dePlantagenet | -18000 | 2013-01-17 10:48:36 | 27485069891a7938 | 40.7007 | -73.9601 | 291774172290510848 | Twitter for iPhone | @TheSigSauer Could be anyone with access to a gun... so really anyone, thanks to their advocacy.
+291859569083297792 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:48:38 | 65b4760a2b411e11 | 40.1578 | -74.9358 | ? | Twitter for iPhone | Its so hard to get you outta my system..
+291859570941374464 | 289912663 | lukabratos | 3600 | 2013-01-17 10:48:38 | c799e2d3a79f810e | 46.0698 | 14.5177 | ? | foursquare | Im at TSstartup Ljubljana http://t.co/Xxb4m3Mr
+291859571734102016 | 541175030 | KaylaRose1017 | ? | 2013-01-17 10:48:39 | 94965b2c45386f87 | 42.2819 | -73.9937 | ? | Twitter for iPhone | High enough to pass out in this car in a horrible sleeping position #thanksmax #mindblown
+291859571817992194 | 392973497 | marvincrapuleux | 3600 | 2013-01-17 10:48:39 | c3a6437e1b1a726d | 46.197 | 6.1636 | ? | Twitter for Android | Leila la grosse 
+291859604520972289 | 5652832 | seanseven | -18000 | 2013-01-17 10:48:46 | b6ea2e341ba4356f | 40.7738 | -73.8712 | ? | foursquare | Im at LaGuardia Airport LGA East Elmhurst, NY w/ 41 others http://t.co/kZyYxiqg
+291859612502736896 | 28666090 | DjjRocNYC | -18000 | 2013-01-17 10:48:48 | 086752cb03de1d5d | 40.7582 | -73.9946 | ? | foursquare | I just ousted Chilly C. as the mayor of NJ Transit Bus 190 on @foursquare http://t.co/orDAAyFe
+291859625156964353 | 247999192 | SuperSounds70s | -18000 | 2013-01-17 10:48:53 | 086752cb03de1d5d | 40.7639 | -73.9606 | ? | Twitter for Android | @girlsinyogapant http://t.co/KszuSt3f
+291859626679480320 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 10:48:52 | c799e2d3a79f810e | ? | ? | ? | web | @DWTS3 bonjour how are u who is the stars for this weekend
+291859652419940352 | 441658318 | Baby_Bash93 | ? | 2013-01-17 10:48:58 | dfbf4ce81da97883 | 46.9952 | 6.93802 | 291859379752407040 | Twitter for Android | @WizzleGangz Hahaha
+291859654710030337 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:48:58 | c3a6437e1b1a726d | 46.2139 | 6.11774 | 291858972162535425 | Twitter for iPhone | @AmberFranshell c est vrai mais c est bon sa passe bien l t surtout
+291859659634139136 | 206332688 | Strong_Maria | 3600 | 2013-01-17 10:49:00 | fdcd221ac44fa326 | 50.1015 | 14.1433 | 291858890214211584 | Twitter for Android | @ElenaMikhailova : , ... ...
+291859673336930304 | 219736977 | leahm_ | -10800 | 2013-01-17 10:49:03 | 086752cb03de1d5d | 40.7537 | -73.9709 | 291784696491282432 | Twitter for iPhone | @marina_mussi ontem eu vi alguma coisa falando da quarta temp ai fique surpresa e achei que tinha algo errado
+291859679783575552 | 436875269 | jeee93 | 7200 | 2013-01-17 10:49:05 | f3bfc7dcc928977f | 43.4111 | -3.81703 | ? | Twitter for Android | Necesito veranooo http://t.co/145NOqPQ
+291859685584281600 | 545353293 | AbesOFFICIEL | 7200 | 2013-01-17 10:49:06 | 086752cb03de1d5d | ? | ? | ? | web | Tonight gt roof top Gansevoort hotel chic gt Roof top Standard hotel Beautiful and chic and finished to 1oak good people and music 
+291859733005103104 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:49:17 | c3a6437e1b1a726d | 46.2086 | 6.12481 | ? | Twitter for iPhone | Je suis gardien je suis un
+291859737291665409 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 10:49:18 | b046074b1030a44d | 40.7078 | -74.0861 | 291859502460981248 | Twitter for iPhone | @andre1001L word
+291859738231181312 | 1097435894 | MoniqueGuedes5 | -7200 | 2013-01-17 10:49:19 | f3bfc7dcc928977f | ? | ? | ? | web | Tanto quanto dure nossas vidas Crepsculo #Noivei #AndreSales te amo meu bb http://t.co/1S6nDZwa
+291859754052116480 | 74420805 | AcademiaBarilla | -18000 | 2013-01-17 10:49:22 | 016897347bc6767a | ? | ? | ? | web | Con questo tempo da lupi, ci vuole una #zuppa calda: i #Maltagliati con i fagioli http://t.co/XGd6StW0 http://t.co/dYUBZRvn
+291859761627004928 | 38179153 | rezaprabowo | 25200 | 2013-01-17 10:49:24 | 086752cb03de1d5d | 40.7533 | -73.9823 | ? | Instagram | Quiet please @ New York Public Library http://t.co/mfZTZaiG
+291859775476600832 | 26208193 | PojeMario | 3600 | 2013-01-17 10:49:27 | c799e2d3a79f810e | 45.8106 | 15.9837 | ? | Twitter for Windows Phone | Hello world 
+291859794355167232 | 458525804 | carme_torres | ? | 2013-01-17 10:49:32 | 27485069891a7938 | ? | ? | ? | web | Friendship isnt about the ones youve known the longest, its about that ones who came along and never left your side.
+291859817797124097 | 79793376 | JPK732 | -25200 | 2013-01-17 10:49:37 | 27485069891a7938 | 40.4841 | -74.4619 | 291852819823206400 | Mobile Web (M5) | @ThARealPR0GR355 @LizZzyFoxXx @FiltheeAndie @icp Thanks Homie I gotta hold it down for the #Family #WhoopWhoopAndAllDatt
+291859825170731008 | 147057498 | k0bewan | -18000 | 2013-01-17 10:49:39 | 086752cb03de1d5d | 40.835 | -73.9486 | ? | Twitter for iPhone | El maldito flu
+291859850848256000 | 88543884 | Blog_UneLola | -10800 | 2013-01-17 10:49:45 | a2bf3911e64dd7b8 | 46.1789 | 6.25862 | ? | Twitter for iPhone | Jai blogu ce matin : http://t.co/2ZE3Cak7
+291859858439933952 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:49:47 | 7677d2353e8515d8 | 45.974 | 10.3221 | 291859147010490368 | Twitter for iPad | @82dvd a me basta la margherita...: grazie mille davvero...:
+291859863854792704 | 24413451 | thelaur12 | -18000 | 2013-01-17 10:49:48 | b6ea2e341ba4356f | 40.7738 | -73.8712 | ? | foursquare |  @ LaGuardia Airport LGA w/ 42 others http://t.co/uK1KHgiu
+291859926442201088 | 324323844 | BillelOrton | ? | 2013-01-17 10:50:03 | c58d5b0c1c241f2e | ? | ? | 291859827733454848 | web | @WWE_JCena lol 
+291859933631225856 | 171494671 | Tif_a_gogo_ | -10800 | 2013-01-17 10:50:05 | 095ff083395a0506 | 46.2522 | 7.01166 | 291836653406912512 | Twitter for iPhone | @Samaantha__ on a vu un reportage ou des mecs taient en prison, ils parlaient genre wsh ma gueule sisi
+291859945199128577 | 253692905 | chriswestrozey | -10800 | 2013-01-17 10:50:08 | 16665d42bbc533a0 | 46.5412 | 6.57397 | ? | Twitter for Android | @Sahra_O cava toi
+291859979663728640 | 606400645 | LikeThatEvents | 7200 | 2013-01-17 10:50:16 | 412bea684867a90f | 45.9017 | 6.1217 | ? | Instagram | The Reels 2013 : save the date The 2nd edition is gonna be epic. Vive la France @peetard pedr @ Annecy http://t.co/NGVLAz9z
+291859980510953473 | 147057498 | k0bewan | -18000 | 2013-01-17 10:50:16 | 086752cb03de1d5d | 40.835 | -73.9486 | ? | Twitter for iPhone | It dead feels like my ears are clogged but really my throat is just sinuses are that clogged
+291860019736100865 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:50:25 | 8fc3c9b3e656452c | 47.4017 | 6.49678 | ? | Twitter for iPhone | Mes deux derniers followers y sont trp chelou mais bon bienvenu a eux kanmeme
+291860055043747840 | 950478552 | SleaZyy_C | ? | 2013-01-17 10:50:34 | 086752cb03de1d5d | 40.7508 | -73.9824 | ? | Twitter for BlackBerry® | Bum fights on the subway Yessss
+291860065412071424 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:50:36 | ddcca24ee29ddff2 | 46.1826 | 6.14476 | ? | Twitter for iPhone | Au tlphone avec Irne
+291860076254343169 | 322274186 | _oyinlola | ? | 2013-01-17 10:50:39 | b6ea2e341ba4356f | 40.6681 | -73.798 | ? | Twitter for iPhone | #WhatHurtsTheMost Is Breaking up with your girlfriend / boyfriend that you been through everything with ,good ampbad for so long that u loved
+291860085133672448 | 16187301 | MactechFreak | -18000 | 2013-01-17 10:50:41 | 27485069891a7938 | ? | ? | 291742403063345152 | Tweetbot for iOS | @AngelKurosky you motivate me
+291860086308077568 | 191087365 | ImRichWhatRU | -18000 | 2013-01-17 10:50:41 | b6ea2e341ba4356f | 40.6474 | -73.7838 | ? | Twitter for Android | They looked in my suitcase and asked when I got my Clarks lmao
+291860108282036225 | 34120929 | DebDMB74 | -18000 | 2013-01-17 10:50:46 | 94965b2c45386f87 | 41.3848 | -74.2785 | ? | Twitter for iPhone | Good Morning Have a great day everyone #almostfriday #EarlyRisersCrew #exhausted
+291860114024038402 | 30375273 | Nicky_Cas | -18000 | 2013-01-17 10:50:48 | 086752cb03de1d5d | ? | ? | ? | web | you can get the water from the faucet, or you can make ice and then get the water.
+291860169204330498 | 950687000 | DayanaNavyy | 3600 | 2013-01-17 10:51:01 | eb3b933a531c86e1 | 47.5081 | 6.80064 | ? | Twitter for iPhone | Et cst toii qui a de grosse lipssss dabboord :p
+291860176494030848 | 583547325 | Norman__G | 28800 | 2013-01-17 10:51:03 | 142b1b3a4f754adc | ? | ? | ? | Echofon | siap ada twitter acc fuckshasha. exbf
+291860177433530370 | 147057498 | k0bewan | -18000 | 2013-01-17 10:51:03 | 086752cb03de1d5d | 40.835 | -73.9486 | ? | Twitter for iPhone | It dead feels like my ears are clogged but really my sinuses are just that fucked up
+291860196257566721 | 138941445 | kentaroichihara | ? | 2013-01-17 10:51:07 | 27485069891a7938 | 40.7636 | -73.9854 | ? | Mobile Web (M5) | ?
+291860220626485248 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:51:13 | c3a6437e1b1a726d | 46.2135 | 6.11794 | 291859955374501889 | Twitter for iPhone | @AmberFranshell hahahahaha
+291860223000457217 | 280476941 | merylou10 | 3600 | 2013-01-17 10:51:14 | 771dd147cda1a16a | ? | ? | ? | web | A 9 bajo cero.... y bajando...
+291860223017242624 | 253692905 | chriswestrozey | -10800 | 2013-01-17 10:51:14 | 16665d42bbc533a0 | 46.5412 | 6.5739 | 291857166233653249 | Twitter for Android | @LoosaAnge maison jsort ps jsuis fatiguer frere jrecupere un peux
+291860248560541698 | 230401670 | JacksonBoyz2012 | -32400 | 2013-01-17 10:51:20 | 27485069891a7938 | ? | ? | ? | web | DO or DO NOT. THERE IS NO try. Yoda #Music
+291860269284614145 | 45630220 | JULIE7207 | ? | 2013-01-17 10:51:25 | 27485069891a7938 | 40.8119 | -73.9087 | ? | foursquare | Im at Concord Ave NY http://t.co/clqqkP9j
+291860291157905408 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:51:30 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: straw dogs, @eggfly22 10/6311 poin @rznns 1/43126 poin @hendriskyliner 1/21613 poin
+291860293095669760 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:51:31 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm no luxf 2005 Clio Burggraeve, p:future c:USA poin: 9
+291860293691256832 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:51:31 | 27485069891a7938 | 40.6642 | -73.9386 | 291858794542137346 | Elise | @MerlijnDrums We are all in the gutter, but some of us are looking at the stars. Oscar Wilde cc @syntheticdivine
+291860297516449793 | 38179153 | rezaprabowo | 25200 | 2013-01-17 10:51:32 | 086752cb03de1d5d | 40.7537 | -73.9837 | ? | Instagram | You got your head up in the clouds @ One Bryant Park http://t.co/jcbUpWZU
+291860298573422592 | 247999192 | SuperSounds70s | -18000 | 2013-01-17 10:51:32 | 086752cb03de1d5d | ? | ? | 291857529238065152 | web | @bbrriiee You ever make it to NYC, Ill take you @Remy10k too: http://t.co/JVdkTriW
+291860303476555776 | 629830281 | 12Sanogo | ? | 2013-01-17 10:51:33 | 086752cb03de1d5d | 40.7967 | -73.9344 | ? | Twitter for iPhone | Algrie: la France a une confiance totale en la capacit des autorits algriennes rsoudre la prise dotages
+291860305636622336 | 316233897 | TRex8400 | 7200 | 2013-01-17 10:51:34 | 3762f0997bd0c84b | 47.5079 | 8.75817 | ? | Twitter for iPhone | http://t.co/eAIRFd6n
+291860315195469824 | 286566481 | ImelWOctav | -28800 | 2013-01-17 10:51:36 | 94965b2c45386f87 | ? | ? | 291857903651004417 | web | @jhnsyftri mana linknya
+291860316399214593 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:51:36 | c3a6437e1b1a726d | 46.2104 | 6.11656 | 291859537860911104 | Twitter for iPhone | @BrunoFaustino19 faut voir ..
+291860332157218816 | 171494671 | Tif_a_gogo_ | -10800 | 2013-01-17 10:51:40 | d00ec6e03606c7b0 | 46.2466 | 6.96708 | 291860122165186563 | Twitter for iPhone | @Samaantha__ jtj ahaha
+291860353212628994 | 972332773 | allan12_27 | ? | 2013-01-17 10:51:45 | ddcca24ee29ddff2 | 46.1838 | 6.14704 | ? | Twitter for iPhone | @mccg_ t all en cours Hahahah
+291860388323139585 | 78300700 | m0j0_ | 3600 | 2013-01-17 10:51:53 | 51d766a26f34151f | 46.9417 | 10.3568 | ? | Twitter for iPhone | besser als terzaabfahrt
+291860395159859200 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:51:55 | 7677d2353e8515d8 | 45.9751 | 10.3227 | ? | Twitter for iPad | Quel sette ottantesimi giusto...lode a dio Pensavo fosse una gran boiata
+291860407579201536 | 318309777 | SaNdRaaa_D | ? | 2013-01-17 10:51:58 | a0bf807727362772 | 47.0925 | 8.45024 | ? | Twitter for iPhone | @poslednjilet Slikaj nam malo sta jede
+291860423068766208 | 629830281 | 12Sanogo | ? | 2013-01-17 10:52:02 | 086752cb03de1d5d | 40.7967 | -73.9344 | ? | Twitter for iPhone | #Syrie: six enfants tus dans un raid arien prs de Damas
+291860427959312384 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:52:03 | c3a6437e1b1a726d | 46.2135 | 6.11794 | ? | Twitter for iPhone | Vous savez pas les steaks de malade. On mange chez David
+291860429553147904 | 17314478 | PaulCubbyBryant | -18000 | 2013-01-17 10:52:03 | 086752cb03de1d5d | 40.7197 | -74.0046 | ? | foursquare | Radio time @ 103.5 KTU http://t.co/n3BUmAD5
+291860433831333889 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:52:04 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291690017997340672 | Twitter for Android | @Stephtty_ did you buy army pants Or cargo onessss
+291860484368515072 | 98443954 | Liquid_Club | 3600 | 2013-01-17 10:52:17 | 5868d0e0749c9c47 | ? | ? | ? | web | Heute Morgen im @20min http://t.co/9Su0wFEQ http://t.co/v5xOePSa
+291860500835356672 | 446649021 | BongiovanniEva | ? | 2013-01-17 10:52:20 | dfbf4ce81da97883 | 46.9909 | 6.93031 | 291860283822059520 | Twitter for iPhone | @WizzleGangz @realtineykaliya ahahah :
+291860541524283392 | 19273411 | SIR_Beanzie | -18000 | 2013-01-17 10:52:30 | 27485069891a7938 | 40.6306 | -73.9465 | ? | Mobile Web (M5) | Look out february for the uncut fresh and raw mixtape. #datpiff #onthescene #ny
+291860553289322497 | 247446522 | Mikeee_075 | 3600 | 2013-01-17 10:52:33 | 27485069891a7938 | ? | ? | ? | web | ik ben in New York
+291860565175975936 | 629830281 | 12Sanogo | ? | 2013-01-17 10:52:35 | 086752cb03de1d5d | 40.7967 | -73.9344 | ? | Twitter for iPhone | EtatsUnis / Dopage Cyclisme: la repentance trs mdiatique de Lance Armstrong
+291860572083986432 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:52:37 | 058d4d8bd84c5a25 | 47.5484 | 7.7583 | ? | PTV Traffic Alert | Stau: zwischen Rheinfelden und Rheinfelden Stau. 
+291860572109164544 | 79793376 | JPK732 | -25200 | 2013-01-17 10:52:37 | 27485069891a7938 | 40.4836 | -74.4715 | ? | Mobile Web (M5) | @braddaddyx: Dont mistake my Kindness for weaknessIts called integritySome people have itSome people dont #KnowDatt
+291860574306975744 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:52:38 | 058d4d8bd84c5a25 | 47.5484 | 7.7583 | ? | PTV Traffic Alert | Stau: A861 Dreieck Hochrhein Richtung Grenzbergang Rheinfelden zwischen AS RheinfeldenSd und Rheinfelden Stau 17.01.2013 06:37 17.01.2
+291860578459340800 | 186456725 | verkehr_bw | 3600 | 2013-01-17 10:52:39 | 4115db4852154b76 | 47.5966 | 7.60375 | ? | PTV Traffic Alert | Stau: A5 Karlsruhe Richtung Basel zwischen Parkplatz Weil am Rhein und Weil am Rhein/Basel Stau 17.01.2013 06:36 17.01.2013 12:49
+291860588701839360 | 464576623 | Ruben_RMCF | 7200 | 2013-01-17 10:52:41 | 28f11dd7e743a2b5 | 46.1863 | 6.1003 | ? | Twitter for iPhone | La dissection dune truite cest vraiment Hardcore
+291860592275374080 | 532968842 | JergeLindsey | ? | 2013-01-17 10:52:42 | 94965b2c45386f87 | 42.9463 | -78.6329 | 291364985270071297 | Twitter for iPhone | @MikeD716 I love it hope u like
+291860602001977344 | 32331253 | murdaeich | -18000 | 2013-01-17 10:52:44 | 086752cb03de1d5d | ? | ? | 291860371856318464 | Tweetbot for iOS | @BosssBelle #lagente 
+291860603465781249 | 24413451 | thelaur12 | -18000 | 2013-01-17 10:52:45 | b6ea2e341ba4356f | 40.7753 | -73.8704 | ? | Twitter for iPhone | Upgraded to #firstclass on this ridiculous flight to #palmbeach
+291860609774010369 | 38006938 | ThatBirkinBitch | -18000 | 2013-01-17 10:52:46 | b6ea2e341ba4356f | 40.6451 | -73.7845 | ? | Instagram | C u in a few LA
+291860627578830848 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:52:50 | 27485069891a7938 | 40.6642 | -73.9386 | 291858640569245696 | Elise | @syntheticdivine goede vraag, kom ik op terug : btw 
+291860645815656448 | 972332773 | allan12_27 | ? | 2013-01-17 10:52:55 | ddcca24ee29ddff2 | 46.1838 | 6.14707 | 291860601653821440 | Twitter for iPhone | @mccg_ Hahaha
+291860657052205056 | 470269253 | FSandrinnha | ? | 2013-01-17 10:52:57 | c3a6437e1b1a726d | 46.2205 | 6.1432 | 291858940680089600 | Twitter for iPhone | @AlyssaDovale @aediamt jprefere tre du ct du diable 
+291860666451648512 | 774864746 | Zack_Spizzike | ? | 2013-01-17 10:53:00 | 27485069891a7938 | 40.8372 | -73.8235 | 291780253314084865 | Twitter for Android | @AllieeRamirezz_ Damm :/
+291860716292550656 | 450805835 | Altziba | 3600 | 2013-01-17 10:53:11 | 94965b2c45386f87 | ? | ? | 291859586288332800 | web | @LeidyChopper Intento no rallarme, lo intento. Pero es inevitable ponerme mal por eso. xD
+291860726262398976 | 336421677 | Vkonark | -18000 | 2013-01-17 10:53:14 | 086752cb03de1d5d | ? | ? | 291858852142530560 | web | @VadimDrowse 
+291860776799567872 | 444920363 | FromBRoke2CNote | -21600 | 2013-01-17 10:53:26 | b6ea2e341ba4356f | 40.5963 | -73.7886 | ? | Twitter for Android | Back in the states #feelsgood
+291860783627919360 | 43392956 | ElloMehlo | -18000 | 2013-01-17 10:53:27 | 94965b2c45386f87 | 43.0667 | -77.5258 | ? | Twitter for Android | I kept waking up last night thinking uuuugh I dont wanna go today, but then id look at the clock and it was 12, 2, 4 This is weirrrrd
+291860784793915392 | 576109499 | Schweizer_Ehre | -36000 | 2013-01-17 10:53:28 | 2c5bd26756935144 | ? | ? | 291857750730866690 | web | @Der_Oberlehrer Kommt vor doch du findest Hilfe https://t.co/qItFGKaC
+291860784793927680 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:53:28 | 65b4760a2b411e11 | 40.1578 | -74.9357 | ? | Twitter for iPhone | One for the money
+291860787478278146 | 286566481 | ImelWOctav | -28800 | 2013-01-17 10:53:28 | 94965b2c45386f87 | ? | ? | 291857903651004417 | web | @jhnsyftri kereeeeeeeen
+291860789604802560 | 629254769 | TaysonGian | 28800 | 2013-01-17 10:53:29 | 94965b2c45386f87 | ? | ? | ? | web | She told me that I have to leave I wanted her just to believe #Goodgirls #CrisCab
+291860793044119552 | 987481052 | CristianaM_203 | 3600 | 2013-01-17 10:53:30 | c3a6437e1b1a726d | 46.2059 | 6.11396 | 291859138898706432 | Twitter for iPhone | @Deboram9 Connasse HAAHHAHAHAHA
+291860810882498560 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:53:34 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291860719908048896 | Twitter for Android | @Stephtty_ pooo lol i really want a paaair
+291860829169651712 | 711499244 | armaniking25 | ? | 2013-01-17 10:53:38 | 27485069891a7938 | 40.8535 | -73.8983 | 291860536692469762 | Twitter for iPhone | @shopaholic_myk Ikr
+291860832156012544 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:53:39 | 65b4760a2b411e11 | 40.1579 | -74.9356 | ? | Twitter for iPhone | Dont be afraid
+291860835431759872 | 18839509 | oPixiee | -18000 | 2013-01-17 10:53:40 | 27485069891a7938 | 40.8325 | -73.9168 | ? | Twitter for Android | So lately Ive been playing lots of UNO with @vG_Th1rt3en amp @syco_salvi , and this came to mind. LOL http://t.co/9DRD2l2B
+291860841593176064 | 846083084 | 102316917 | -18000 | 2013-01-17 10:53:41 | 086752cb03de1d5d | 40.8768 | -73.9088 | ? | Twitter for iPhone | Que lio el de la policia con La muerte de girver hay papa
+291860844264972288 | 191087365 | ImRichWhatRU | -18000 | 2013-01-17 10:53:42 | b6ea2e341ba4356f | 40.6474 | -73.7838 | ? | Twitter for Android | Its all fun n games till an Arab stands up and heads for the front of the plane... Im not racist but come on...u know what I mean
+291860883355865089 | 127782493 | RealJoePaul | -18000 | 2013-01-17 10:53:51 | 65b4760a2b411e11 | ? | ? | 291848731903553536 | web | @EmyLyle amp Im getting up to go to work. Go to bed.
+291860896031068160 | 268830228 | LamiaBejaoui | 3600 | 2013-01-17 10:53:54 | c799e2d3a79f810e | ? | ? | ? | web |  .. 
+291860911763910656 | 260678573 | morgan__grimes | -10800 | 2013-01-17 10:53:58 | 04578354cff6f4b1 | ? | ? | 291856779405561856 | Tweetbot for iOS | @M_arioC dove vai di bello
+291860912195919872 | 160987570 | theantman12001 | ? | 2013-01-17 10:53:58 | 65b4760a2b411e11 | ? | ? | ? | web | Find someone with whom you can laugh about everything and the rest will be fine.
+291860913483563008 | 60342321 | djerudito | ? | 2013-01-17 10:53:58 | 51c0e6b24c64e54e | 46.0037 | 8.95133 | ? | Instagram | #balcony #lugano #style #design @ Piazza Della Riforma http://t.co/IV929sgs
+291860916021108736 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 10:53:59 | c799e2d3a79f810e | ? | ? | ? | web | #dwtsme who is the stars for this week , last week is haifa yeahhhh and this week 
+291860921649864705 | 1028173327 | Bojinho14 | ? | 2013-01-17 10:54:00 | a1b759dc059e346f | 46.2185 | 6.11069 | ? | Twitter for Android | Libr toute laprm , sa passe bien :D
+291860922279030784 | 74506350 | lionelrossier | 3600 | 2013-01-17 10:54:01 | fdb8b13745d79424 | 46.525 | 6.8275 | 291860440168931328 | Twitter for iPhone | @Arsenal hehe
+291860933645582337 | 710861454 | JULIANAADELREY | -18000 | 2013-01-17 10:54:03 | b6ea2e341ba4356f | 40.7416 | -73.7569 | ? | Twitter for iPhone | HAPPY BIRTHDAY @annaliseabar I LOVE YOU SO MUCH XO HEY THIS ISNT FUEENS DOE lt3
+291860934346018817 | 454778170 | _shane_11 | ? | 2013-01-17 10:54:03 | 22eb26a98cbcea30 | 45.7217 | 8.60138 | ? | Mobile Web (M5) | @Matteofungo stai tampinando qualche ragazza stamattina
+291860953149091840 | 261170559 | waqasalisaqib | 3600 | 2013-01-17 10:54:08 | c3a6437e1b1a726d | 46.2095 | 6.14439 | ? | Twitter for iPhone | @andleebXPOZE@FriehaAltaf Yes only Frieha can do it the best way in #Pakistan my fav Chic organizercheers Yo Girly all the best
+291860953987964928 | 29175662 | Autarkis | 3600 | 2013-01-17 10:54:08 | 94b31f3e6f453f3f | 47.532 | 7.65354 | ? | Seesmic | Hoy cow. Sogar im tiefsten Tunnel hab ich hier 3G oder H. Respekt, @Swisscom_Care Habt ihr das Netz auf der Zuglinie OltenBasel ausgebaut
+291860954889740288 | 950687000 | DayanaNavyy | 3600 | 2013-01-17 10:54:08 | eb3b933a531c86e1 | 47.508 | 6.79913 | 291859883886800898 | Twitter for iPhone | @AznS_ mdrrrrrr Ben je prend mes roller et jarrive Haahaha taura le temps de mourir 12 fois jcrois mdrrr 
+291860956370317312 | 287869870 | IamStenly | 3600 | 2013-01-17 10:54:09 | fdcd221ac44fa326 | 49.9643 | 14.0759 | 291860284363120640 | Twitter for iPhone | @DeniskaBatyova oh you skinny bitch.
+291860964813459456 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:54:11 | a1b759dc059e346f | 46.2112 | 6.11271 | 291860766833926144 | Twitter for iPhone | @BrunoFaustino19 je vais y rflchir
+291860967581696000 | 620288072 | 2896Jessica | ? | 2013-01-17 10:54:11 | bd627eb6c4102426 | 45.9016 | 9.92821 | ? | Twitter for iPhone | Dicono di dire la verit, di essere sinceri, ma quando lo si fa sono i primi a voltarti le spalle Il mondo storto
+291860977648025601 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:54:14 | 65b4760a2b411e11 | 40.1579 | -74.9356 | ? | Twitter for iPhone | Taste your love Horace brown
+291860986233778176 | 429891481 | ReikiZenNe | 3600 | 2013-01-17 10:54:16 | dfbf4ce81da97883 | 46.992 | 6.93082 | ? | Instagram | Bord du lac de neuchtel arrt de tram place pury. #neuchatel @ Neuchtel / Neuchatel http://t.co/WaQS02jf
+291860992365821952 | 504655110 | StephanieOMilan | ? | 2013-01-17 10:54:17 | a1b759dc059e346f | 46.2109 | 6.11126 | ? | Twitter for iPhone | La jai envie dtre en t.
+291860998686642176 | 308570308 | goekhanefe1905 | 3600 | 2013-01-17 10:54:19 | 40eb58498c306e55 | ? | ? | 291860528660377601 | web | @Cigaa1905 tam cmleyi sylermisin 
+291861008308391937 | 14797915 | ikr | 3600 | 2013-01-17 10:54:21 | 3acb748d0f1e9265 | ? | ? | ? | web | Achievement unlocked: linking to MemeGenerator from a customer projects README. I wish I could tell you the joke. Its very funny :
+291861020094369792 | 944585990 | Furkan_Turkiye | ? | 2013-01-17 10:54:24 | d969dab4efecff93 | 47.7576 | 7.34 | 291776540319023104 | Twitter for Android | @1o_Juu jespre a continue pas hein ..
+291861021319102464 | 987481052 | CristianaM_203 | 3600 | 2013-01-17 10:54:24 | c3a6437e1b1a726d | 46.2058 | 6.114 | ? | Twitter for iPhone | Je vais mang au macdoo avec ma meilleure amie 
+291861022673862657 | 260678573 | morgan__grimes | -10800 | 2013-01-17 10:54:24 | 04578354cff6f4b1 | ? | ? | 291846660231946240 | Tweetbot for iOS | @ibbatta quanto ti capisco
+291861036464746496 | 360609029 | F_Binfa | -10800 | 2013-01-17 10:54:28 | 04578354cff6f4b1 | 45.8162 | 8.82588 | ? | Twitter for BlackBerry® | @Mikiva88 #Panini #Calciatori2013 sei felice http://t.co/xR6H6Qf1
+291861052583452673 | 404024766 | weezywilliams50 | ? | 2013-01-17 10:54:32 | 94965b2c45386f87 | 43.1496 | -78.6535 | 291811781893046272 | Twitter for iPhone | @mickmalmom CheerLive has had terrible feed problems and SE is supposed to compete 2nd Im worried about that too 
+291861052709273601 | 21776449 | newjunetune | -18000 | 2013-01-17 10:54:32 | 27485069891a7938 | ? | ? | 291819307200045056 | web | @Truth_UScitizen @GersonBorrero Agree 
+291861059415973888 | 619165418 | Yakaz_Whisperer | 7200 | 2013-01-17 10:54:33 | fdcd221ac44fa326 | 50.0512 | 14.4274 | ? | Yakaz | 31let mu hled prci v oblasti: peka, administrativa, bezpenost, pokladn. Znalosti: MS Win 95 7, MS Office... http://t.co/HMMzKKOl
+291861070769967105 | 38179153 | rezaprabowo | 25200 | 2013-01-17 10:54:36 | 086752cb03de1d5d | 40.7565 | -73.9863 | ? | Instagram | Consumerism @ Times Square http://t.co/HQ6jEpDh
+291861083331907584 | 75059346 | RitsukOo | -10800 | 2013-01-17 10:54:39 | a1043d611e0cc464 | 47.3651 | 7.34184 | ? | Twitter for Android |  taaaaaable P
+291861088272801795 | 1088715696 | mlissa_silva | ? | 2013-01-17 10:54:40 | a1b759dc059e346f | 46.2039 | 6.09892 | ? | Twitter for iPhone | Jai faaaim
+291861092685197312 | 969671839 | kaaslihan | ? | 2013-01-17 10:54:41 | 7cfcf860848ea761 | 47.5631 | 8.89365 | ? | Twitter for iPhone | En guete mitenand
+291861100255920128 | 10543122 | sylvanus | -25200 | 2013-01-17 10:54:44 | 2dd8a7ca4aa30f75 | ? | ? | ? | Tweetbot for iOS | Dear restaurants: please always do your wifi like this http://t.co/FSm5E4au
+291861104022413312 | 950469030 | ArthurBabaiantz | ? | 2013-01-17 10:54:44 | 7b4f7f1dd5ae35ef | 46.8232 | 8.64897 | ? | Twitter for iPhone | Passer son anniversaire sans sa famille cest chaud quand mme #
+291861109709893632 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:54:45 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291860888665878528 | Twitter for Android | @Stephtty_ hey , i wish we were the same shoe size :
+291861112729788416 | 58168949 | dpasaric | 3600 | 2013-01-17 10:54:46 | c799e2d3a79f810e | ? | ? | 291860325832204288 | web | @GioGrlj Imaju, ovaj stvarni ljudski ivot od roenja do smrti.
+291861113350529024 | 26933240 | nyc_so_sexy | -18000 | 2013-01-17 10:54:46 | 27485069891a7938 | 40.8218 | -73.8771 | ? | Twitter for iPhone | @SunOfHollywood: 50Cent Signs Off On Formula 50 And Has An Encounter With Prophecy: http://t.co/utQVdJfX via @YouTube
+291861127057530880 | 469946967 | BiebsEddieS1D | ? | 2013-01-17 10:54:49 | 4e7c21fd2af027c6 | ? | ? | ? | web | peRFection
+291861128747839488 | 30026648 | iRomana | 3600 | 2013-01-17 10:54:50 | c799e2d3a79f810e | 46.0741 | 14.4798 | ? | Instagram | S soncem in brez sonca. #LepDan @ Vrtec H.C. Andersen, enota Andersen http://t.co/WPnSFIz2
+291861139497836544 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:54:52 | cb6aa66f0c05a3d8 | 45.9569 | 10.3105 | ? | Twitter for iPad | La battaglia di Forte Vento... Ma Fabio dai era Vittorio Veneto, come fai a confonderlo 
+291861140340875264 | 269880331 | Manperfer | ? | 2013-01-17 10:54:53 | f3bfc7dcc928977f | 43.4617 | -3.79302 | 291860032159617024 | Twitter for Android | @Divis_7 jajajjaja rierte pero esa es buena.
+291861147383111681 | 164414511 | carrollll | -18000 | 2013-01-17 10:54:54 | 94965b2c45386f87 | 42.7455 | -73.8095 | ? | Twitter for iPhone | California Bound with Dad 
+291861147970334720 | 997730592 | And_res87 | ? | 2013-01-17 10:54:54 | 30410557050f13a5 | 48.979 | 14.4506 | 291855698655064065 | Twitter for iPad | @LaraAparisi yo lo veo totalmente respetable... Deberiais hacer lo mismo las demas #NoMasCuellosAltos :D
+291861148666564608 | 147155278 | JoyceVTF | 3600 | 2013-01-17 10:54:55 | a1b759dc059e346f | 46.2164 | 6.11809 | ? | Twitter for iPhone | @elguappito tu viens me chercher que je vienne manger chez toi 
+291861165775155201 | 421593080 | Queen_Nur | -28800 | 2013-01-17 10:54:59 | 94965b2c45386f87 | ? | ? | ? | web | sukses adalah mendapatkan apa yang diinginkan, kebahagiaan adalah menginginkan apa yang di didapatkan
+291861181675757568 | 76398387 | BXB_Boy | -18000 | 2013-01-17 10:55:02 | 27485069891a7938 | ? | ? | ? | Tweetbot for iOS | @Myspace when New MySpace is Fully ready for Prime Time when its up there up amp ready to be just 1 New MySpace Page without the old 1
+291861189414252544 | 74506350 | lionelrossier | 3600 | 2013-01-17 10:55:04 | fdb8b13745d79424 | 46.5252 | 6.82697 | ? | Twitter for iPhone | Arsne vient de parler de Cavani, je mvanouis.
+291861195286261760 | 251346543 | UrosMilos | 3600 | 2013-01-17 10:55:06 | 94965b2c45386f87 | ? | ? | ? | web | Dragi putnici, pusenje je zabranjeno u avionu, a vi ako zelite moze sestra da vam otvori vrata, vi da sednete na krilo, pa da popusite.
+291861202278174720 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:55:07 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: on flux, @rznns 9/43135 poin @Raynanta_Aldy 1/261521 poin
+291861206262763520 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:55:08 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm eth lgnlaat aelbd 1948 Larry Parks, p:general c:USA poin: 17
+291861212596166657 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:55:10 | 27485069891a7938 | 40.6642 | -73.9386 | 291859286718574592 | Elise | @MerlijnDrums kadjing je bent een schat
+291861214076760065 | 108608578 | josipkolar | 3600 | 2013-01-17 10:55:10 | c799e2d3a79f810e | ? | ? | ? | web | http://t.co/YEi0PlT1
+291861244615475200 | 986696988 | MidoMobarak | ? | 2013-01-17 10:55:17 | c3a6437e1b1a726d | 46.2121 | 6.13685 | ? | Twitter for iPhone | A cause de moi , Raf dit Nike ta mere 
+291861261715648513 | 399970926 | ozlemcicek2 | ? | 2013-01-17 10:55:21 | 1804bc7672c2913e | 46.7943 | 7.13616 | ? | Twitter for iPhone | Sizin sikayeti oldugunuz hayat belki baskasinin hayalidir.
+291861265943498752 | 261170559 | waqasalisaqib | 3600 | 2013-01-17 10:55:23 | c3a6437e1b1a726d | 46.2095 | 6.14438 | ? | Twitter for iPhone | @PTIofficial Dude is all ready for action http://t.co/HhuTJQ7J
+291861277540745216 | 286566481 | ImelWOctav | -28800 | 2013-01-17 10:55:25 | 94965b2c45386f87 | ? | ? | 291861126608740353 | web | @jhnsyftri udaaah, meragukan cewek yang paling cntk di kelas aku mah....
+291861289469370368 | 986696988 | MidoMobarak | ? | 2013-01-17 10:55:28 | c3a6437e1b1a726d | 46.2121 | 6.13688 | ? | Twitter for iPhone | Jmange et je revise
+291861289557434368 | 97659543 | Alain_Pittet | 3600 | 2013-01-17 10:55:28 | bbf6c74e4f26f23d | 47.5521 | 7.59417 | ? | foursquare | Snow cut @ Gidor Coiffure http://t.co/3T1EWYWX
+291861290970927104 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:55:28 | 65b4760a2b411e11 | 40.5172 | -74.5266 | ? | Twitter for Android | Ha my period comes right after stephanies lmfaoo
+291861319886458880 | 134664782 | TiffLanza | -18000 | 2013-01-17 10:55:35 | 3d3c56338b6a3b4a | 40.658 | -74.1309 | 291830173878341632 | Twitter for iPhone | @KyIeCross have you ever considered maybe its your location
+291861323384504320 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:55:36 | a1b759dc059e346f | 46.2114 | 6.1128 | 291861043771211776 | Twitter for iPhone | @BrunoFaustino19 Tqt
+291861325427130368 | 986696988 | MidoMobarak | ? | 2013-01-17 10:55:37 | c3a6437e1b1a726d | 46.2121 | 6.13685 | ? | Twitter for iPhone | Jai mon epreuve ditalien staprem ..
+291861341101232128 | 1004525612 | Gregory_Sanon | -18000 | 2013-01-17 10:55:40 | 27485069891a7938 | 40.8786 | -73.873 | ? | Twitter for Android | You guy must check this out READ THE COMMENTS My Monologue: http://t.co/KMlkA4fm @youtube @SpikeLee @petertravers @MrTroy_Richards
+291861345127776257 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 10:55:41 | c3a6437e1b1a726d | 46.2064 | 6.14823 | ? | Twitter for BlackBerry® | Je veux mourir dune balle entre les deux yeux et non dune maladie
+291861351884791808 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:55:43 | 65b4760a2b411e11 | 40.1578 | -74.9358 | ? | Twitter for iPhone | Live girl
+291861352723660800 | 615469748 | keanu34868891 | ? | 2013-01-17 10:55:43 | f3bfc7dcc928977f | 49.8766 | -2.30236 | ? | Twitter for Windows Phone | My feet are so dam cold #numbasfuck
+291861356989267969 | 622916564 | NoaLarochelle | ? | 2013-01-17 10:55:44 | c3a6437e1b1a726d | 46.2 | 6.16779 | ? | Twitter for iPhone | Je rentre chez moi
+291861368833982464 | 597589525 | BertrandZulauf | 3600 | 2013-01-17 10:55:47 | dfbf4ce81da97883 | 46.9942 | 6.9387 | 291846027697340416 | Twitter for iPhone | @Wallace_Jr7 merci gars, on ftera sa proprement en temps et lieux :
+291861376350167040 | 232849792 | Eric_NS17 | -10800 | 2013-01-17 10:55:49 | 9635e88ee6edc25b | 46.5269 | 6.60269 | ? | Twitter for Android | RT @taytay92i: RIP Mr Drummond sest teint. Tristesse... RIP
+291861383006527488 | 324323844 | BillelOrton | ? | 2013-01-17 10:55:50 | c58d5b0c1c241f2e | ? | ? | 291859827733454848 | web | @WWE_JCena answer me come on who are you
+291861388102602752 | 29175662 | Autarkis | 3600 | 2013-01-17 10:55:52 | bbf6c74e4f26f23d | 47.545 | 7.61215 | ? | Seesmic | Komme grad in Basel an. IP Wechsel / Netzverluste : 0. Kompliment an @Swisscom_Care 
+291861388748541952 | 136250015 | CPInsiders | -18000 | 2013-01-17 10:55:52 | 086752cb03de1d5d | ? | ? | ? | Tweetbot for Mac | OK I AM READY TO RAWR Lets do this Icicle 
+291861393932693504 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:55:53 | 65b4760a2b411e11 | 40.1579 | -74.9357 | ? | Twitter for iPhone | Have some fun girl
+291861397661437952 | 944585990 | Furkan_Turkiye | ? | 2013-01-17 10:55:54 | d969dab4efecff93 | 47.7576 | 7.34 | ? | Twitter for Android | Pas de stage pas de bac pas de taf pas dargent pas de Jum .. #grr
+291861405978722304 | 29096616 | loveenora | -21600 | 2013-01-17 10:55:56 | 086752cb03de1d5d | 40.7232 | -73.9815 | 291847642739265536 | Twitter for iPhone | @ximena_d u love you doll
+291861411645243392 | 236229763 | zhitnovakris | 3600 | 2013-01-17 10:55:57 | fdcd221ac44fa326 | 50.1073 | 14.2677 | ? | Instagram |  
+291861413541068800 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:55:58 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291861261501730816 | Twitter for Android | @Stephtty_ cause i got no shoes to match the pants im wearing today
+291861443723264000 | 34755543 | SpeakOnion | -21600 | 2013-01-17 10:56:05 | b6ea2e341ba4356f | ? | ? | ? | web | No better way to get going than to let lapsteel guitar ambience mingle with ganked electronics directly in your ear. http://t.co/adXvzfDY
+291861447410065409 | 286566481 | ImelWOctav | -28800 | 2013-01-17 10:56:06 | 94965b2c45386f87 | ? | ? | ? | web | exit
+291861469228834816 | 52987613 | MarkChainz | -18000 | 2013-01-17 10:56:11 | 65b4760a2b411e11 | 40.1579 | -74.9358 | ? | Twitter for iPhone | I swear I always fall for your type...
+291861517811470337 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 10:56:23 | 27485069891a7938 | 40.8299 | -73.8633 | 290422314556850176 | Twitter for iPhone | @WISEGUYzPREACH @wiseguyzshad that shit is RAW
+291861541790294017 | 937911919 | MartinaKaut | 3600 | 2013-01-17 10:56:28 | 10097ef0a6522c1a | ? | ? | ? | web | @Rentokil R.I.P. Matt Wood God bless you and your family
+291861550011129856 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:56:30 | 27485069891a7938 | 40.6642 | -73.9386 | 291859247183048704 | Elise | @anoukbijlx mowfucker goede vraag Anouk, vraag je 166 volgers maar : :
+291861558626242563 | 76398387 | BXB_Boy | -18000 | 2013-01-17 10:56:32 | 27485069891a7938 | ? | ? | ? | Tweetbot for iOS | @Myspace is our Old MySpace Account gonna get Deleted Or is it gonna Merge in on The New MySpace So we dont have to Add all our Photos
+291861574396833793 | 38179153 | rezaprabowo | 25200 | 2013-01-17 10:56:36 | 086752cb03de1d5d | 40.7562 | -73.9902 | ? | Instagram | Syndication @ New York Times Building http://t.co/cuXhDaKm
+291861583913684992 | 775256329 | _RLmadeline | -36000 | 2013-01-17 10:56:38 | b046074b1030a44d | 40.7118 | -74.065 | ? | Twitter for Android | It 6 amp i cant falll alseep wtffff
+291861585767571456 | 622916564 | NoaLarochelle | ? | 2013-01-17 10:56:39 | c3a6437e1b1a726d | 46.2001 | 6.16302 | 291861494361124864 | Twitter for iPhone | @Ibrahima_Dieng ta geule
+291861585981480961 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:56:39 | 8fc3c9b3e656452c | 47.4016 | 6.49677 | 291860832147615744 | Twitter for iPhone | @ApelMwSherine une bg lt3
+291861598400806912 | 599332190 | migueljones21 | ? | 2013-01-17 10:56:42 | 086752cb03de1d5d | 40.7288 | -74.0074 | ? | foursquare | Im at WBLS New York, NY http://t.co/uxUCl6um
+291861613806510080 | 385356383 | TheRegalPit_ | 3600 | 2013-01-17 10:56:45 | cd661902b07eb657 | 45.8096 | 9.09529 | ? | Twitter for iPhone | Primo 30 #swag
+291861614771200000 | 553678387 | inesojeda23 | ? | 2013-01-17 10:56:46 | 5a46bd19a554a59a | ? | ? | ? | web | je suis le genre de fille qui ne sait que cuisiner un oeuf et faire rchauffer du riz. RIP moi
+291861620987146240 | 364015814 | jessicadamico_ | -21600 | 2013-01-17 10:56:47 | 27485069891a7938 | 40.8468 | -73.8285 | ? | Twitter for iPhone | Woke up to this headache, and now I cant fall back to sleep. Being in school from 95 tomorrow is gunna be torture
+291861637542076416 | 395558280 | JillyCMcG | -18000 | 2013-01-17 10:56:51 | 086752cb03de1d5d | 40.7455 | -73.9718 | 291438326416809984 | Twitter for iPhone | @mmorro11 came out wrong. But damn hospital hours are horrific. #summer2013 lets do this
+291861640180273153 | 86689724 | stephen_bellamy | 3600 | 2013-01-17 10:56:52 | 70cc2c85a67e6a76 | 46.43 | 6.20684 | ? | foursquare | Im at Route De Genolier 12, Givrins http://t.co/Ba38vzEb
+291861666126245888 | 29096616 | loveenora | -21600 | 2013-01-17 10:56:58 | 086752cb03de1d5d | 40.7232 | -73.9815 | 291847642739265536 | Twitter for iPhone | @ximena_d @loveenora @kirillwashere I know they just followed me dont know who it is
+291861674598731778 | 984737305 | artusi94 | ? | 2013-01-17 10:57:00 | 04578354cff6f4b1 | 45.8189 | 8.83211 | ? | Twitter for Android | http://t.co/RDxoN6xG
+291861680105852928 | 99983 | nothingistrue | 3600 | 2013-01-17 10:57:02 | 04b5087590076d0a | ? | ? | 291819598305714177 | Tweetbot for Mac | @filmybilly @AnneBillson Some great wallpaper settings in Apartment Zero. Maybe Blue Velvet too was that wallpaper http://t.co/uL8mAO0Q
+291861695960334336 | 399970926 | ozlemcicek2 | ? | 2013-01-17 10:57:06 | 1804bc7672c2913e | 46.7943 | 7.13608 | ? | Twitter for iPhone | Dnyamin diger yarisi http://t.co/DW9nPfD2
+291861697529008128 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 10:57:05 | c799e2d3a79f810e | ? | ? | 291859325478117377 | web | @Celebrity_Duets thank u wishing myriam fares or my golden diva nawal el zoghbi
+291861736867393537 | 247999192 | SuperSounds70s | -18000 | 2013-01-17 10:57:15 | 086752cb03de1d5d | ? | ? | 291861446155984896 | web | @Remy10k @bbrriiee For weddings and funerals...
+291861744551342080 | 775256329 | _RLmadeline | -36000 | 2013-01-17 10:57:17 | b046074b1030a44d | 40.7119 | -74.065 | ? | Twitter for Android | Its 6 amp i havent gone to sleep yet wtfff .
+291861761567621120 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:57:21 | cb6aa66f0c05a3d8 | 45.9569 | 10.3104 | ? | Twitter for iPad | Dice VERSAILLZ e la profe lo sfotte anche... Beh wow...
+291861763526373376 | 1010687791 | MelaniaMoreira | ? | 2013-01-17 10:57:21 | a1b759dc059e346f | 46.2091 | 6.10775 | ? | Twitter for iPhone | Jai eu a remplaant a la gym 
+291861767099924480 | 111417386 | mrp | -32400 | 2013-01-17 10:57:22 | 374c3d0b90055d98 | 40.7459 | -73.9881 | ? | foursquare | Thanks @acehotel NYC. I enjoyed my stay. @ Ace Hotel w/ 2 others pic: http://t.co/ouQfboqR
+291861772183425024 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:57:23 | 8fc3c9b3e656452c | 47.4016 | 6.49677 | 291861196737478656 | Twitter for iPhone | @BABZ_QE moi jamais pas besoin Im big boss
+291861773349449728 | 220680214 | ColinCampbellFA | ? | 2013-01-17 10:57:23 | e38a1a641d02f8db | 46.9468 | 7.42691 | 291860404215357441 | Twitter for iPhone | @jimboc29 no mate but I have thought about it. Its a time thing
+291861777325629441 | 833957030 | BervaChel | ? | 2013-01-17 10:57:24 | 6c07f3233c333f95 | 46.5208 | 6.62523 | ? | Twitter for Android | Jveux un tshirt Guns N Roses
+291861785634553856 | 599332190 | migueljones21 | ? | 2013-01-17 10:57:26 | 2f8031030139c2a0 | 40.7289 | -74.0073 | ? | foursquare | Im at Emmis Communications New York, NY http://t.co/CDoaJAoB
+291861793373036544 | 287869870 | IamStenly | 3600 | 2013-01-17 10:57:28 | fdcd221ac44fa326 | 49.9643 | 14.0759 | ? | Twitter for iPhone | I am tired.. I am so tired of seeing so many ugly faces in our school.. #true
+291861793385611264 | 792569370 | GillesHonyiglo | 3600 | 2013-01-17 10:57:28 | 412bea684867a90f | ? | ? | ? | web | #NP Thinkin Bout You Franck Ocean
+291861799647719425 | 242981600 | bxstevee | ? | 2013-01-17 10:57:30 | 27485069891a7938 | 40.847 | -73.913 | 291861436437786624 | Twitter for iPhone | @Delinaaax3 @_itskenneth_ yea wheres mine too Lmaoooo
+291861804672487425 | 65465960 | YouAreMyArsenal | -18000 | 2013-01-17 10:57:31 | 65b4760a2b411e11 | 40.2695 | -75.0832 | 291860186321256448 | Twitter for iPhone | @dylan_fahy you there mate
+291861805867872256 | 845919817 | Enis_Messi10 | ? | 2013-01-17 10:57:31 | a1b759dc059e346f | 46.2109 | 6.11249 | 291861428963516416 | Twitter for iPhone | @dafinaU voefray je crois
+291861828554850304 | 606507553 | FakeNewsBlues | -14400 | 2013-01-17 10:57:37 | b046074b1030a44d | ? | ? | ? | Tweetbot for Mac | http://t.co/JokhjWzM Check out Kerio Connect 8.0
+291861839049011200 | 593030003 | LeeJinHyun_Kiwi | 3600 | 2013-01-17 10:57:39 | f3bfc7dcc928977f | ? | ? | ? | web | Fucking gt lt #BlockBsProblems Srieux 
+291861850751123456 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:57:42 | b6ea2e341ba4356f | ? | ? | ? | web | #IJustWantYouToKnow that w/o the #military you wont be where you are today, and not realizing that is #WhatHurtsTheMost
+291861857336184832 | 599332190 | migueljones21 | ? | 2013-01-17 10:57:43 | f344a3f5a414ee8e | 40.7289 | -74.0072 | ? | foursquare | Im at Hot 97 New York, NY http://t.co/b5R6Gobc
+291861857675907072 | 205127472 | Hotel_Empire_ | -28800 | 2013-01-17 10:57:44 | 27485069891a7938 | 40.6714 | -73.9778 | ? | Twitter for iPhone | It feels weird not listening to Interpol or a while.
+291861873668812800 | 154396659 | RodRuizPhoto | ? | 2013-01-17 10:57:47 | b6ea2e341ba4356f | 40.7738 | -73.8712 | ? | foursquare | Im at LaGuardia Airport LGA East Elmhurst, NY w/ 47 others http://t.co/ScScnB3e
+291861880908161025 | 1009117988 | alexane_n | ? | 2013-01-17 10:57:49 | 5989f12db7bcc281 | 47.6843 | 7.38665 | ? | Twitter for iPhone | Avec de la chance il y aura peut tre un arrt prfectoral vu comme il neige ...
+291861883869331457 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:57:50 | 27485069891a7938 | 40.6642 | -73.9386 | 291859427416485889 | Elise | @JessyWever_ goede vraag, kom ik op terug : btw een mowfucker he.
+291861906002685952 | 29096616 | loveenora | -21600 | 2013-01-17 10:57:55 | 086752cb03de1d5d | 40.7232 | -73.9815 | ? | Twitter for iPhone | Discussing my love for @jennajameson and how if anyone talks shit I will kill them :
+291861909311987712 | 412182262 | mercureiggy | 3600 | 2013-01-17 10:57:56 | d2f13ebe516edfbd | 47.0667 | 7.10373 | ? | Twitter for iPhone | @ensuissee: Claude Nobs: Lhymne la joie LHebdo http://t.co/tXadO0rO via @sharethis Je viens de terminer cet excellent article
+291861924017217537 | 76398387 | BXB_Boy | -18000 | 2013-01-17 10:57:59 | 27485069891a7938 | ? | ? | ? | Tweetbot for iOS | @Myspace Back on MySpace What will happen Cause this New Myspace I dont really feel is up to its Standards right now cause its New thats
+291861928219918336 | 26916511 | Anshulaa | -18000 | 2013-01-17 10:58:00 | 65b4760a2b411e11 | 40.8231 | -74.0134 | ? | Twitter for iPhone | I cant sleep ugh
+291861934490386432 | 433447295 | InsertNameee | -14400 | 2013-01-17 10:58:02 | 65b4760a2b411e11 | 40.5172 | -74.5266 | 291861508911165441 | Twitter for Android | @Stephtty_ these ones i got sent from india like 2 days agoo, when i get out of bed ill send you a picture
+291861944565133314 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 10:58:04 | c3a6437e1b1a726d | 46.2064 | 6.14823 | ? | Twitter for BlackBerry® | @GhettoChiIdren: Bisexual Men, nahhh nigga you gay ahahahahaha
+291861947304001536 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:58:05 | 8fc3c9b3e656452c | 47.4016 | 6.49677 | 291861811576324096 | Twitter for iPhone | @RebeuBerry bon jour
+291861957022212097 | 629830281 | 12Sanogo | ? | 2013-01-17 10:58:07 | 086752cb03de1d5d | 40.7968 | -73.9343 | 291861016759918592 | Twitter for iPhone | @FmeUne Derien et a part xa tt va bien jespere
+291861991088328704 | 1038248436 | deryalibas | ? | 2013-01-17 10:58:15 | cd661902b07eb657 | 45.7868 | 9.05897 | ? | Twitter for Android | Biraz daha ura gzelim, sabrm tam taacak.
+291862003583156226 | 14654608 | olssonprescott | -18000 | 2013-01-17 10:58:18 | 6d08d815095ce8d3 | 40.7411 | -73.9927 | ? | foursquare | Im at Flywheel New York, NY w/ 2 others http://t.co/rcjlxSsP
+291862011019661313 | 42249226 | jelenap3 | 3600 | 2013-01-17 10:58:20 | c3a6437e1b1a726d | 46.2147 | 6.14783 | ? | Twitter for iPad | Stop asking permission and go for it
+291862027297763329 | 24443566 | rebecca_weiner | -18000 | 2013-01-17 10:58:24 | 086752cb03de1d5d | 40.7578 | -73.9679 | ? | foursquare | Day 12, almost halfway there @ Bikram Yoga Grand Central http://t.co/p2sfOr0F
+291862028811894784 | 1092345793 | Maureen_Magnan | ? | 2013-01-17 10:58:24 | 285e62bea5aaa4b4 | 47.0443 | 6.88405 | ? | Twitter for Android | Enfin fini lcole. gtgtgtgt
+291862031236206593 | 38866358 | RSonee | -18000 | 2013-01-17 10:58:25 | 27485069891a7938 | 40.6805 | -73.9029 | ? | foursquare | Im at BP Brooklyn, NY http://t.co/ed1Ih6wM
+291862033673113600 | 67711573 | MechantMonsieur | 3600 | 2013-01-17 10:58:26 | 3a01819153722ae8 | 45.9325 | 6.16902 | ? | foursquare | Im at Mobisysteme AnnecyleVieux, RhneAlpes http://t.co/X1bN3Rtn
+291862037217284096 | 70106900 | christerseiler | 3600 | 2013-01-17 10:58:26 | 3acb748d0f1e9265 | 47.375 | 8.53889 | ? | foursquare | Im at Apple Store Zrich, ZH http://t.co/ez53HBAo
+291862046331523072 | 106306539 | Aidanlrodgers | ? | 2013-01-17 10:58:29 | 086752cb03de1d5d | 40.7523 | -73.9754 | ? | foursquare | Im at Equinox New York, NY http://t.co/38jQNSMz
+291862054267154433 | 398013854 | cecina83 | ? | 2013-01-17 10:58:30 | 305aea0bba66d789 | 45.9425 | 9.17553 | ? | Twitter for iPhone | @CostyCaracciolo tanti auguri di buon compleanno.
+291862057815527425 | 401064738 | Dr3amChasing | 7200 | 2013-01-17 10:58:31 | eb3b933a531c86e1 | 47.5137 | 6.78692 | 291855457767796736 | Twitter for iPhone | @NARCOpolo90 Encore
+291862067940556800 | 961143625 | FionaAlicia_R | ? | 2013-01-17 10:58:34 | b53ba65776f97f34 | 46.1813 | 6.12083 | ? | Twitter for iPhone | Jai faim 
+291862088635281409 | 76398387 | BXB_Boy | -18000 | 2013-01-17 10:58:39 | 27485069891a7938 | ? | ? | ? | Tweetbot for iOS | @Myspace Why so sorry I tweeted so much to you peace from Byron. :
+291862092804395009 | 399970926 | ozlemcicek2 | ? | 2013-01-17 10:58:40 | 1804bc7672c2913e | 46.7943 | 7.13619 | ? | Twitter for iPhone | Sen baskasin http://t.co/RqYJ6yIK
+291862093408374784 | 334636253 | w3b_designer | 3600 | 2013-01-17 10:58:40 | 30410557050f13a5 | 48.1402 | 17.1217 | ? | foursquare | Temna Eurovea allias co spravi den snezenia s presklennou strechou : @ Eurovea Galleria w/ 3 others pic: http://t.co/25dONWQZ
+291862098957451264 | 191275529 | brendan16bol | -18000 | 2013-01-17 10:58:41 | 94965b2c45386f87 | 42.7565 | -73.877 | ? | Twitter for Android | Good morning #twtterfam happy thursday #myfriday
+291862100278661120 | 735311394 | Matteo1213 | 3600 | 2013-01-17 10:58:41 | a1b759dc059e346f | 46.2181 | 6.11157 | ? | Twitter for iPhone | Sandwich time avec @Jean_Kamanda
+291862113201311744 | 913176402 | salibediball | 7200 | 2013-01-17 10:58:44 | c799e2d3a79f810e | 43.8361 | 18.3336 | 291488899098886145 | Twitter for Android | @drseyballioglu naparsn hayat iste sag solu belli olmuyo 
+291862114501529600 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:58:45 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: the gallant blade, @clydesoulfly 17/92 poin @rznns 1/43136 poin
+291862116338638848 | 235604587 | tukangdvd | -28800 | 2013-01-17 10:58:45 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm lcianpe blodo 2010 John McDonnell c:UK poin: 13
+291862149544943616 | 115443321 | TemptressDevil | 3600 | 2013-01-17 10:58:53 | cb6aa66f0c05a3d8 | 45.9569 | 10.3104 | ? | Twitter for iPad | #scrivilecanzonicomesipronunciano UI UILL UI UILL RACK IU Ma dai cazzo...
+291862158222958592 | 743918288 | PaulAndrewsJnr | ? | 2013-01-17 10:58:55 | 94965b2c45386f87 | ? | ? | ? | web | My itunes play list goes from david bowie, sum 41, elton john, MCR... #MyGreatMusicTaste
+291862158634020865 | 16303325 | yawetse | -18000 | 2013-01-17 10:58:55 | ac869b86bea1152d | 40.714 | -74.0095 | ? | foursquare | #FILO @ Equinox http://t.co/jxPu7KqK
+291862158818545664 | 74506350 | lionelrossier | 3600 | 2013-01-17 10:58:55 | fdb8b13745d79424 | 46.525 | 6.82745 | ? | Twitter for iPhone | Dis donc, Wenger est bavard p
+291862158948564992 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 10:58:55 | 27485069891a7938 | 40.8274 | -73.8658 | 291861685411651584 | Twitter for iPhone | @ItsKasseeeyy__ you should oovoo me lol
+291862160760516608 | 29175662 | Autarkis | 3600 | 2013-01-17 10:58:56 | bbf6c74e4f26f23d | 47.5447 | 7.59668 | ? | Seesmic | Eben Durchsage im Zug: Wir kommen mit 2 Minuten Versptung in Basel SBB an. #wovondieDBtraeumt
+291862190074503168 | 888475392 | Kitty2mic | -18000 | 2013-01-17 10:59:03 | b6ea2e341ba4356f | ? | ? | ? | web | Homeless #veterans after what theyve done for country for us is #WhatHurtsTheMost
+291862202225414145 | 154471711 | anibis_ch | -10800 | 2013-01-17 10:59:06 | 42c387fe8e1b2e4f | 46.5486 | 6.66178 | ? | Logat CMS | GPS tomtom GO 720 Neuf 50 #Lausanne VD Suisse http://t.co/JckhVoom
+291862215760441346 | 98443954 | Liquid_Club | 3600 | 2013-01-17 10:59:09 | 5868d0e0749c9c47 | ? | ? | ? | web | Heute Morgen im @20min http://t.co/9Su0wFEQ http://t.co/qGWV9wMI
+291862221489831936 | 38644403 | hetspijtme | 3600 | 2013-01-17 10:59:10 | 27485069891a7938 | 40.6642 | -73.9386 | 291859410043678720 | Elise | @MYLIFEASALISHA_ Surround yourself with only people who are going to lift you higher. Oprah Winfrey cc @SuSpanishProud
+291862221854752769 | 752882738 | g1uscan | ? | 2013-01-17 10:59:10 | cd661902b07eb657 | 45.8081 | 9.07648 | 291855287927853056 | Twitter for iPhone | @iKennyrc la proviamo... 
+291862233540091904 | 27206328 | radimstezka | 3600 | 2013-01-17 10:59:13 | fdcd221ac44fa326 | ? | ? | 291843164329893888 | web | @Jakub_Krpes mm odpojenej telefon, vocap jenom kdy jsem nkde na wifi. sms na sluebn kdytak
+291862244860522496 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 10:59:16 | 8fc3c9b3e656452c | 47.4016 | 6.49677 | ? | Twitter for iPhone | Le Nokia lumia il a lair trop bien tu px crire aek tes gans
+291862250145316864 | 22628765 | Foliba | 28800 | 2013-01-17 10:59:17 | 086752cb03de1d5d | ? | ? | ? | web | We have a guest in the office. And he is a #MongoDB user. : Having a great day. 
+291862261146976257 | 89177490 | amicoolnow | -18000 | 2013-01-17 10:59:20 | b6ea2e341ba4356f | 40.7138 | -73.8467 | 291862065008746496 | Twitter for iPhone | @BrooksBeau beau follow me #janoskiansNewVid
+291862264988987392 | 325969245 | nastyaawolt | -25200 | 2013-01-17 10:59:21 | 65b4760a2b411e11 | ? | ? | 291859695516385281 | web | @Natali2174 
+291862269615280128 | 401064738 | Dr3amChasing | 7200 | 2013-01-17 10:59:22 | eb3b933a531c86e1 | 47.5138 | 6.78689 | ? | Twitter for iPhone | Se faire rveiller par son frre :
+291862276133236736 | 392241553 | 003sk | ? | 2013-01-17 10:59:23 | 30410557050f13a5 | 48.1765 | 17.1283 | ? | foursquare | Im at McDonalds amp McCaf Bratislava, Slovakia http://t.co/ddhOx3QG
+291862288971993088 | 961143625 | FionaAlicia_R | ? | 2013-01-17 10:59:26 | b53ba65776f97f34 | 46.1813 | 6.12079 | ? | Twitter for iPhone | Tous le jours depuis dimanche .. Yavais des contrleurs dans les bus que je prenais .. Mais vaffanculo jai vrm une VDM ahhaha
+291862316050415617 | 620288072 | 2896Jessica | ? | 2013-01-17 10:59:33 | bd627eb6c4102426 | 45.9016 | 9.92826 | ? | Twitter for iPhone | Convinta che Paolo fox sia frocio
+291862322136379392 | 15790363 | varesenews | -10800 | 2013-01-17 10:59:34 | 04578354cff6f4b1 | 45.8158 | 8.82488 | ? | Twitter for iPhone | Tutti pronti per il lancio dei palloncini #falvarese2013
+291862327798677505 | 14460694 | csibar | 3600 | 2013-01-17 10:59:36 | 30410557050f13a5 | 48.1675 | 17.0864 | 291855303601971200 | Tweetbot for iOS | @bcdjrotate Ja, elfelejtettem, hogy tanr leszel. :D
+291862329811951617 | 86206017 | theridersocial | 3600 | 2013-01-17 10:59:36 | c79d1eb271bf7db1 | 46.2628 | 6.84113 | ? | Twitter for iPhone | Splendid day out on the hill yesterday with the crew. Bluebird and fresh snow. Tired legs today though. #splitboarding #earntheturn
+291862352536694784 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 10:59:42 | 27485069891a7938 | 40.8275 | -73.8658 | 291862013372686336 | Twitter for iPhone | @___Pebbsss Good Morning
+291862360233242624 | 984737305 | artusi94 | ? | 2013-01-17 10:59:44 | 04578354cff6f4b1 | 45.8189 | 8.8321 | ? | Twitter for Android | http://t.co/oNq5C9i9
+291862364498837504 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 10:59:44 | ddcca24ee29ddff2 | 46.1826 | 6.14477 | ? | Twitter for iPhone | Immense coeur sur toi 
+291862393447931904 | 961143625 | FionaAlicia_R | ? | 2013-01-17 10:59:51 | b53ba65776f97f34 | 46.1813 | 6.12077 | ? | Twitter for iPhone | Suivez moi pas jme suis fais chopper 1fois pas 5 croyez pas bands de gay 
+291862411017875456 | 39640964 | JennyPennyy | -18000 | 2013-01-17 10:59:55 | 94965b2c45386f87 | 41.5497 | -74.0281 | 291750396920201218 | Twitter for iPhone | @maggie_mar10 I wish my house was that cold I got my fan on no blankets and Im still dying :
+291862432178126848 | 122341335 | StenRostov | 14400 | 2013-01-17 11:00:01 | 10097ef0a6522c1a | ? | ? | ? | web |  , http://t.co/kpmwxRh7 #
+291862433214111744 | 232849792 | Eric_NS17 | -10800 | 2013-01-17 11:00:01 | 6c07f3233c333f95 | 46.5267 | 6.60368 | ? | Twitter for Android | Tellement froid. Tout mon corps en hypothermie, mme mon me veut quitter ce monde.
+291862443200765952 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:00:03 | fdb8b13745d79424 | 46.5249 | 6.82693 | ? | Twitter for iPhone | Jai demand sur mon groupe comment Diaby et Coquelin avaient jou et un mec me dit: Tu nas pas vu le match, quel genre de fan estu
+291862445293723650 | 520225342 | LSZHMETAR | 3600 | 2013-01-17 11:00:04 | 57d9b5e0a53e48e5 | 47.4581 | 8.54806 | ? | TTYtter | LSZH 171050Z VRB02KT 2500 SN FEW006 SCT015 BKN030 M03/M06 Q1011 R88/5203// NOSIG
+291862447751561216 | 390957217 | gorgeousjsw | -21600 | 2013-01-17 11:00:04 | 086752cb03de1d5d | 40.7934 | -73.9707 | ? | Twitter for iPhone | I never sleep smh
+291862450356224000 | 326315099 | vice_cro | 7200 | 2013-01-17 11:00:05 | c799e2d3a79f810e | ? | ? | ? | Tweetbot for iOS | Mrzim ove predsate
+291862467036975104 | 634820387 | MarinaKat1 | ? | 2013-01-17 11:00:09 | 3e32f971d9af0738 | 47.4458 | 8.22774 | 291862049015873536 | Twitter for Android | @jebesnejebes tis gumnes m tis exw sto allo kinito
+291862475039715328 | 15790363 | varesenews | -10800 | 2013-01-17 11:00:11 | 04578354cff6f4b1 | 45.8159 | 8.82508 | ? | Twitter for iPhone | @varesenews: Tutti pronti per il lancio dei palloncini #falvarese2013 http://t.co/rpPBkcJr
+291862484233625600 | 42249226 | jelenap3 | 3600 | 2013-01-17 11:00:13 | c3a6437e1b1a726d | 46.2147 | 6.14787 | ? | Twitter for iPad | You always see the worst in people ya, cause people are the worst #amen #newgirl
+291862493746327552 | 147155278 | JoyceVTF | 3600 | 2013-01-17 11:00:15 | c3a6437e1b1a726d | 46.2141 | 6.11797 | 291862083929260032 | Twitter for iPhone | @j3ssica_92 @negrociateurs hahahahahahaha
+291862522728947712 | 26384202 | dvonbertrab | -21600 | 2013-01-17 11:00:22 | 086752cb03de1d5d | 40.7275 | -73.985 | ? | OS X | Leather Jacket Love Song.
+291862527749545984 | 65465960 | YouAreMyArsenal | -18000 | 2013-01-17 11:00:23 | 65b4760a2b411e11 | 40.2695 | -75.0831 | 291862258433282048 | Twitter for iPhone | @dylan_fahy hearing anything on your end in Arsenal enquiry into a certain Napoli forward
+291862529829900288 | 138141150 | igstorres | -18000 | 2013-01-17 11:00:24 | 086752cb03de1d5d | 40.8231 | -73.9423 | ? | foursquare | Im at New York Sports Club New York, NY http://t.co/d6zvb8oT
+291862549954183169 | 423759739 | TTPresqueDrole_ | 3600 | 2013-01-17 11:00:29 | eb3b933a531c86e1 | 47.4997 | 6.80525 | ? | Twitter for iPhone | La faim me taquine 
+291862562298015744 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:00:32 | 27485069891a7938 | 40.6642 | -73.9386 | 291860026547642368 | Elise | @xstroopwafell helemaal swek Laura
+291862562440630272 | 210881095 | matteo_m10 | ? | 2013-01-17 11:00:32 | 579605b8edd02b23 | 46.0814 | 7.91687 | ? | Twitter for iPhone | Just skiid a black run.... Never again haha
+291862572037193728 | 835611446 | varese_case | 3600 | 2013-01-17 11:00:34 | 04578354cff6f4b1 | 45.8176 | 8.82638 | ? | Immobilmente | Appartamento in #vendita a #Varese. Prezzo 250.000 http://t.co/NQ4vbHX7 #cercocasa
+291862578408345600 | 242796880 | AmineMsakni | 7200 | 2013-01-17 11:00:35 | c799e2d3a79f810e | ? | ? | ? | web | Dmarrage du Nouveau Megaupload Samedi 19 janvier 2013 19H :
+291862584875966464 | 89177490 | amicoolnow | -18000 | 2013-01-17 11:00:37 | b6ea2e341ba4356f | 40.7138 | -73.8467 | ? | Twitter for iPhone | Wow the fake luke brooks is following me can i get the real one too @luke_brooks
+291862592165670913 | 995628650 | Toucko | 3600 | 2013-01-17 11:00:39 | cc835958d1398495 | 47.0099 | 6.995 | ? | Twitter for Android | Bien de me filmer dans le bus #rts
+291862605780365313 | 145272417 | Synthie_AT | 3600 | 2013-01-17 11:00:42 | a0bc9b7aae689409 | ? | ? | 291862122563006465 | web | @BMeinl @igdemokratie @neos_eu Sagen Sie mir mal konkret, was an der jetzigen Situation schlecht ist.
+291862623052521472 | 14216243 | ivanavie | 3600 | 2013-01-17 11:00:46 | c799e2d3a79f810e | 45.8119 | 15.9839 | ? | foursquare | Im at Trg hrvatskih velikana Trg Burze Zagreb http://t.co/z1yV6HjH
+291862635434090496 | 26916511 | Anshulaa | -18000 | 2013-01-17 11:00:49 | d7ce64e73b86c6f0 | 40.8237 | -74.0068 | 291862285792706560 | Twitter for iPhone | @Skinnyminniee__ no I was in student council idk what Nike is
+291862643222933504 | 418751367 | melza2091 | -14400 | 2013-01-17 11:00:51 | 94965b2c45386f87 | 42.7574 | -78.8477 | ? | Twitter for iPhone | Had the worst nights sleep in a long time #tired #neesmoresleep
+291862655822606336 | 19850687 | ConserValidity | -18000 | 2013-01-17 11:00:54 | 086752cb03de1d5d | ? | ? | ? | web | Long term unemployment under President Obama is at the highest level since at least the end of World War II Will Media Report thisYaRight
+291862659576496128 | 441658318 | Baby_Bash93 | ? | 2013-01-17 11:00:55 | dfbf4ce81da97883 | 46.9974 | 6.93701 | ? | Twitter for Android | Ferme ta gueule Pussyo
+291862664651608066 | 23919625 | e_tinks | -21600 | 2013-01-17 11:00:56 | 086752cb03de1d5d | 40.8093 | -73.9491 | ? | foursquare | Im at Planet Fitness New York, NY http://t.co/gpk7u5bk
+291862701234335744 | 961143625 | FionaAlicia_R | ? | 2013-01-17 11:01:05 | b53ba65776f97f34 | 46.1813 | 6.12076 | ? | Twitter for iPhone | Imagine sa tarrive alors je parlerai pas moi ahah #LRT
+291862705386692608 | 463075018 | DamLaa86 | ? | 2013-01-17 11:01:06 | beab6c65fbc6a2fe | 47.7333 | 9.2448 | ? | Twitter for iPhone | Nezaman Pisman olursun,biliyormusun... Yarim biraktigini, baskasi Tamamladiginda....
+291862725905248256 | 625668881 | ChristineZieman | ? | 2013-01-17 11:01:11 | b6ea2e341ba4356f | 40.683 | -73.8348 | ? | Twitter for iPhone | Why is my bed so comfortable right now
+291862731194241026 | 475092948 | El_tirano_Juan | 3600 | 2013-01-17 11:01:12 | c58d5b0c1c241f2e | 47.5752 | 7.55263 | ? | iOS | Putain jai mme pas le temps de manger 
+291862759145103361 | 591845882 | Ari_Grande3 | 7200 | 2013-01-17 11:01:18 | 626426080f3449fb | 45.9452 | 8.46596 | 291862386124668928 | Twitter for Android | @mmHarry_Styles bene bene :
+291862765243617280 | 98439400 | Hubon | 3600 | 2013-01-17 11:01:20 | db94c1cccc67c4f4 | ? | ? | 291861271580647424 | web | @TickByTick_Team so you dont count on Denmark anymore
+291862766204104704 | 87696417 | QasimRana | 3600 | 2013-01-17 11:01:20 | 227ab02aca7f4b08 | ? | ? | 291862039943593984 | web | @sohaibgulbadan people from KHI own lot of shops in blue area.. they shifted there due to bad conditions in KHI
+291862774710140928 | 385624859 | lilisheeva | 3600 | 2013-01-17 11:01:22 | ddcca24ee29ddff2 | 46.1872 | 6.13279 | 291859159341744128 | Twitter for iPhone | @Cathy_Killah @rosako @maz_209 @alexmcf9 @kanyeah pas de souci Ils auront pas leur combat de bout du coup 
+291862784155738112 | 597970587 | Larasatyzahirah | 28800 | 2013-01-17 11:01:24 | 94965b2c45386f87 | ? | ? | 291856002897297408 | web | @dyensaN3 eh dyan colek dulu.. :P
+291862809992626176 | 190565635 | abelgaudenzi_ | -28800 | 2013-01-17 11:01:31 | 27485069891a7938 | ? | ? | 291840356553723904 | web | @shyfly3423 iya jan smpe kaya tahun itu yak jiji_
+291862829756211200 | 843114318 | DesCitranos | 3600 | 2013-01-17 11:01:35 | 76942d6f217a399f | 46.3166 | 6.96414 | ? | Twitter for iPhone | @Effet_Vintage humm ta pp
+291862836131549184 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:01:37 | fdb8b13745d79424 | 46.525 | 6.82742 | 291862612482879489 | Twitter for iPhone | @FrWagnon je lui chie dans la gorge a ce mec wesh. Il a vu tout les matches depuis 1886 peut tre
+291862842808881153 | 18314266 | islamoyankee | -18000 | 2013-01-17 11:01:38 | 086752cb03de1d5d | ? | ? | ? | web | @purastainless hi. sent an email last week, but never heard back. should i resend
+291862861251235841 | 16873390 | GetEditingJobs | -18000 | 2013-01-17 11:01:43 | 086752cb03de1d5d | 40.7508 | -73.9961 | ? | GetAllJobs | Deputy Editor, Good Housekeeping #NewYork , NY http://t.co/vBHEsCgV Get Editing Jobs #Editing #jobs #job #GetAllJobs
+291862861704220672 | 260428988 | GoldJay | -18000 | 2013-01-17 11:01:43 | 27485069891a7938 | 40.6174 | -73.9599 | ? | foursquare | Im at Midwood Brooklyn, NY http://t.co/ZpVIHpNa
+291862868830334977 | 843114318 | DesCitranos | 3600 | 2013-01-17 11:01:45 | 76942d6f217a399f | 46.3166 | 6.96414 | 291813092126494720 | Twitter for iPhone | @Chrisnkana cest vrai cest abuser
+291862872735223808 | 16936772 | GetPilotJobs | -18000 | 2013-01-17 11:01:46 | 086752cb03de1d5d | 40.7508 | -73.9961 | ? | GetAllJobs | ... #NewYork , NY http://t.co/NfpJP4Jq
+291862880817655808 | 843114318 | DesCitranos | 3600 | 2013-01-17 11:01:47 | 76942d6f217a399f | 46.3166 | 6.96413 | 291822000643661824 | Twitter for iPhone | @BassinduTogo ta vu sa
+291862892238737408 | 115443321 | TemptressDevil | 3600 | 2013-01-17 11:01:50 | cb6aa66f0c05a3d8 | 45.9569 | 10.3104 | 291862779571359744 | Twitter for iPad | @La_Polly92 lo so terribile
+291862904154763264 | 233670911 | Fonzarelli_Wave | -18000 | 2013-01-17 11:01:53 | b6ea2e341ba4356f | 40.6595 | -73.8103 | ? | Twitter for iPhone | Got ur bitch tip toeing on my carpet floor Lol
+291862908491673600 | 843114318 | DesCitranos | 3600 | 2013-01-17 11:01:54 | 76942d6f217a399f | 46.3166 | 6.96413 | 291806194471948289 | Twitter for iPhone | @Tayronkwidans ue heuresment
+291862921590497280 | 398372353 | Esra_Sah | 3600 | 2013-01-17 11:01:57 | 29b23fa706f8f210 | 46.526 | 6.59588 | 291851994786848768 | Twitter for Android | @OFFICIELSNIPER je viens de me casser la gueule sur la neige sinon ca va ahaha et toi Bon apres midi
+291862932558594048 | 470269253 | FSandrinnha | ? | 2013-01-17 11:02:00 | c3a6437e1b1a726d | 46.2204 | 6.14321 | 291861033566498816 | Twitter for iPhone | @AlyssaDovale lhtel El Diablo ... Si on pars, on va y all jsuis sur Ahahah
+291862933988839425 | 20360628 | JamesQuinn | 3600 | 2013-01-17 11:02:00 | fdcd221ac44fa326 | 54.4725 | 6.87389 | ? | Sandaysoft Cumulus | Wind 2.8 m/s SE. Barometer 1148.2 mb, Rising very rapidly. Temperature 5.9 C. Rain today 2.1 mm. Humidity 93
+291862944915017728 | 255549239 | lhcmode | 3600 | 2013-01-17 11:02:03 | 2dee2a77476dc763 | 46.2546 | 6.05694 | ? | LHC Updater | #LHC Machine Status: BEAM SETUP: PREPARE RAMP Fill # 12:02
+291862953286848512 | 314839041 | dePlantagenet | -18000 | 2013-01-17 11:02:05 | 27485069891a7938 | 40.7007 | -73.9601 | 291733301008404480 | Twitter for iPhone | @NickKristof @piersmorgan I love how The West Wing explains it. Wording and intention of the 2nd Amendment are vital. http://t.co/3VzBVQfq
+291862973448847360 | 313654860 | dannytrapper | -18000 | 2013-01-17 11:02:10 | 94965b2c45386f87 | 43.1306 | -78.6734 | ? | Twitter for iPhone | Working at 6 in the fucking morning is the more annoying than YOLO. No lie
+291862992893661184 | 970424845 | FerreiraBrunooo | ? | 2013-01-17 11:02:14 | dfbf4ce81da97883 | 46.9966 | 6.94552 | 291861924524744704 | Twitter for iPhone | @Me_LindaXo
+291862995418615808 | 183340604 | LayaaBabiie | -14400 | 2013-01-17 11:02:15 | 94965b2c45386f87 | 42.6162 | -73.7323 | ? | Twitter for iPhone | Was hoping for another delay
+291863014058106880 | 138545157 | ManuGibert | -10800 | 2013-01-17 11:02:19 | 6c07f3233c333f95 | 46.5288 | 6.61935 | 291809898726051840 | Twitter for Android | @TobarJordan jaja se me mojaron las zapatillas con la nieve, cuando llegue me estaba muriendo...
+291863018185297921 | 59372360 | TomislavRamljak | 3600 | 2013-01-17 11:02:20 | c799e2d3a79f810e | 43.3837 | 17.5931 | ? | foursquare | Im at Caffe Big Ben http://t.co/9xIf3tgS
+291863022123753473 | 147155278 | JoyceVTF | 3600 | 2013-01-17 11:02:21 | c3a6437e1b1a726d | 46.2135 | 6.11794 | 291862722587525122 | Twitter for iPhone | @AyreenDaBoss tu m en feras pour accompagner le poulet Mdddr
+291863023776309248 | 197170775 | eberbo | 3600 | 2013-01-17 11:02:22 | c799e2d3a79f810e | ? | ? | 291853376851951616 | web | @sne91 @Bump_WG you probably said no I supose...
+291863024241893377 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:02:22 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: pelican blood, @rznns 13/43149 poin
+291863025999290368 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:02:22 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm eht gormo ower russp 1951 Robert Williams, p:gambler c:USA poin: 20
+291863028310355968 | 7474152 | craigalberino | -18000 | 2013-01-17 11:02:23 | 086752cb03de1d5d | 40.7698 | -73.986 | ? | dlvr.it | In The Fight Between Netflix And Cable Operators, HighQuality Streaming Vi http://t.co/K5HuT16t
+291863029702856704 | 559675462 | GoogleFacts | -18000 | 2013-01-17 11:02:23 | 086752cb03de1d5d | ? | ? | ? | web | Anuptaphobia The fear of being single forever.
+291863047335706625 | 105681154 | NatalieeAnd | -21600 | 2013-01-17 11:02:27 | f9de0f7350cbae97 | 40.7993 | -73.9899 | ? | Twitter for iPhone | Rise and WOD
+291863050355625984 | 398372353 | Esra_Sah | 3600 | 2013-01-17 11:02:28 | 29b23fa706f8f210 | 46.5273 | 6.59269 | ? | Twitter for Android | Je viens de me casser la gueule sur la neige a, cest fait 
+291863070551183361 | 473567771 | SimjeeTextor | -28800 | 2013-01-17 11:02:33 | b6ea2e341ba4356f | 40.6552 | -73.7932 | ? | Twitter for Android | i just used #uber at jfk ... amazing
+291863085843636224 | 423759739 | TTPresqueDrole_ | 3600 | 2013-01-17 11:02:36 | eb3b933a531c86e1 | 47.4973 | 6.80958 | ? | Twitter for iPhone | Ctait bien pave la gym ce matin 
+291863093913481217 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 11:02:38 | 27485069891a7938 | 40.8275 | -73.866 | 291862966897348608 | Twitter for iPhone | @___Pebbsss how you been
+291863139211948033 | 492921087 | shikatty | ? | 2013-01-17 11:02:50 | d9a43731285e8b56 | 46.6953 | 7.72391 | ? | Twitter for iPhone |  http://t.co/65JYR30u
+291863166420402177 | 81977567 | mcgeeszy | ? | 2013-01-17 11:02:56 | 65b4760a2b411e11 | 39.8644 | -75.2978 | ? | Twitter for iPhone | ?
+291863167624179713 | 228515266 | MoreSarcasm | -28800 | 2013-01-17 11:02:56 | 086752cb03de1d5d | ? | ? | ? | web | I hate the part of the morning where I have to get out of bed and participate in real life.
+291863184116170753 | 60342321 | djerudito | ? | 2013-01-17 11:03:00 | 51c0e6b24c64e54e | 46.0035 | 8.95161 | ? | Instagram | #lugano #lake #eerie #lotusplaza #svizzera @ Lugano Lungolago http://t.co/qyAZSRw0
+291863199098228736 | 552258801 | iRedFire_ | 3600 | 2013-01-17 11:03:03 | 5dfe77a1da76eef1 | 46.8296 | 7.05303 | 291847272440938496 | Twitter for iPhone | @DominaHD
+291863203263164416 | 21830701 | jeckyllite | -18000 | 2013-01-17 11:03:04 | 086752cb03de1d5d | 40.8031 | -73.9401 | ? | Twitter for iPhone | Yup
+291863204592762881 | 50996658 | JasminTN | 3600 | 2013-01-17 11:03:05 | c799e2d3a79f810e | 36.8795 | 10.2411 | ? | foursquare | Im at Choutrana 2 La Soukra http://t.co/LnixeInR
+291863209349115904 | 425424323 | itsroland_ | -18000 | 2013-01-17 11:03:06 | 65b4760a2b411e11 | 40.4523 | -74.475 | ? | Twitter for Android | I missed the good morning texts x_x
+291863209730797568 | 233670911 | Fonzarelli_Wave | -18000 | 2013-01-17 11:03:06 | b6ea2e341ba4356f | 40.6622 | -73.8179 | ? | Twitter for iPhone | Type hungry.. Need sum good good eats
+291863221835534337 | 390957217 | gorgeousjsw | -21600 | 2013-01-17 11:03:09 | 086752cb03de1d5d | 40.7927 | -73.9733 | 291862907287900160 | Twitter for iPhone | @AmsterdamSLICK you better not be done fatty
+291863226029838336 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:03:10 | 65b4760a2b411e11 | 40.1579 | -74.9356 | ? | Twitter for iPhone | Im back motherfuckas
+291863226914852864 | 183340604 | LayaaBabiie | -14400 | 2013-01-17 11:03:10 | 94965b2c45386f87 | 42.6161 | -73.7322 | ? | Twitter for iPhone | Was hoping for a delay but I forgot w about my global midterms . #FuckMidTerms
+291863239292239872 | 324323844 | BillelOrton | ? | 2013-01-17 11:03:13 | c58d5b0c1c241f2e | ? | ? | 291862568069365760 | web | @melkatymiley im a guy and and i love @WWE and @RandyOrton so much 
+291863239736836096 | 205127472 | Hotel_Empire_ | -28800 | 2013-01-17 11:03:13 | 27485069891a7938 | 40.6714 | -73.9777 | ? | Twitter for iPhone | I miss the era of internet withs its social networking sites before everyone thought they were hot and model like.
+291863240701526017 | 164639663 | JonellGalloway | -10800 | 2013-01-17 11:03:13 | ee3f6fb334ca2204 | 46.21 | 6.15103 | ? | foursquare | Im at Grand Hotel Kempinski Geneva Geneva, GE http://t.co/N61Rj56G
+291863242903539712 | 115445130 | genevemeteo | 3600 | 2013-01-17 11:03:14 | c3a6437e1b1a726d | 46.21 | 6.13 | ? | twitterfeed | Thursday: grey cloud, Max Temp: 2C 28F, Min Temp: 5C 23F: Max Temp: 2C 28F, Min Temp: 5C 23F, ... mtogenve.ch
+291863243658514432 | 20737495 | NorRocwell | -18000 | 2013-01-17 11:03:14 | 27485069891a7938 | 40.6168 | -73.9733 | ? | foursquare | :/ .... @ The Batcave Test Kitchen http://t.co/JI0KJt3q
+291863251996786690 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:03:16 | b046074b1030a44d | 40.7078 | -74.0862 | 291860963521601537 | Twitter for iPhone | @smooth_slime your free now
+291863254517555202 | 56877739 | LocalChirps | -18000 | 2013-01-17 11:03:17 | 086752cb03de1d5d | 40.7277 | -73.9804 | ? | LocalChirps | #NEWYORK, NY is buzzing http://t.co/WXlkRIcT
+291863259676557313 | 423759739 | TTPresqueDrole_ | 3600 | 2013-01-17 11:03:18 | eb3b933a531c86e1 | 47.4972 | 6.80966 | 291863039429451776 | Twitter for iPhone | @AT_Lunique Je prends 15h moi :
+291863267654123520 | 461034694 | Debouurah | ? | 2013-01-17 11:03:20 | c20e0f5ae8fb9df3 | 46.2242 | 7.31783 | ? | Twitter for iPhone | Deb, tu las remis en fond dcran Maman, il est parti.. Jai peur quil ne revienne pas.. Il reviendra, laisse lui du temps.
+291863277523308544 | 21958229 | abrill20 | -18000 | 2013-01-17 11:03:22 | 65b4760a2b411e11 | 40.6558 | -75.4078 | ? | Twitter for iPhone | A Luke Bryan morning on pandora Ill take it..
+291863278001459200 | 14488260 | Snex | 3600 | 2013-01-17 11:03:22 | c799e2d3a79f810e | ? | ? | 291860055140208640 | web | @multikultivator Ciao Marko :
+291863278412517376 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:03:22 | 65b4760a2b411e11 | 40.1579 | -74.9356 | ? | Twitter for iPhone | Vibe with me
+291863279150694400 | 194239452 | Chris_is_lazy | 3600 | 2013-01-17 11:03:22 | bbf6c74e4f26f23d | 47.5482 | 7.59053 | ? | foursquare | Im at Mister Wong SBB w/ @clownsister http://t.co/t8F5xZxc
+291863302013865984 | 1011939764 | RomainBoine | -36000 | 2013-01-17 11:03:28 | 24292aa21cb92cd8 | 47.2381 | 6.01797 | ? | Twitter for Android | Sacha a le seum, un gitan a achet les meme blazes que lui #endirectduself
+291863303989391360 | 215753056 | nicole_vk | 3600 | 2013-01-17 11:03:28 | e38a1a641d02f8db | 46.9575 | 7.44286 | ? | Twitter for iPhone | Lets get ready to rumble... #training #boxing
+291863324449177600 | 115443321 | TemptressDevil | 3600 | 2013-01-17 11:03:33 | cb6aa66f0c05a3d8 | 45.9569 | 10.3104 | ? | Twitter for iPad | #scrivilecanzonicomesipronunciano eppi bordai tu iu La banalit a canzone... Crotti request
+291863327653650432 | 145409900 | nadjaline | 3600 | 2013-01-17 11:03:34 | c3a6437e1b1a726d | 46.1898 | 6.15324 | ? | Twitter for iPhone | Para ser um bom conversador, basta seguir uma s regra: aprender a ouvir_...
+291863329700470785 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:03:35 | b046074b1030a44d | 40.7077 | -74.0861 | 291860580892028931 | Twitter for iPhone | @andre1001L I heard
+291863330837123074 | 82653083 | kaglac | 7200 | 2013-01-17 11:03:35 | 6c07f3233c333f95 | 46.5177 | 6.65173 | ? | Twitter for iPhone | Turkiyenin dustugu hale bak teroristler icin toren duzenleniyor cok yazik cok ac...
+291863351800250368 | 132931975 | Blairidicule | 3600 | 2013-01-17 11:03:40 | 2fba0c613d956b79 | 47.6347 | 6.85438 | ? | Twitter for Android | BORDEL @_Ginene_ JE VIENS DE VOIR LA PROF DESPAGNOL DANS LE MAGASIN : jen ai marre de me taper la honte ok
+291863356145532929 | 449235377 | ShaneandShawn1 | 7200 | 2013-01-17 11:03:41 | 99bc40068c24ecd8 | 47.5059 | 9.42531 | ? | Twitter for Android | What upp :
+291863358301433858 | 629254769 | TaysonGian | 28800 | 2013-01-17 11:03:41 | 94965b2c45386f87 | ? | ? | 291862917173895170 | web | @cnagster Wa ya Porma ya. Hahaha
+291863359341596673 | 552258801 | iRedFire_ | 3600 | 2013-01-17 11:03:42 | 5dfe77a1da76eef1 | 46.8296 | 7.05305 | 291861046870822912 | Twitter for iPhone | @Necrophagistx @_bmxlife @doc_gamer89 @wx_phenix_xw @istyla49
+291863371798700032 | 224305921 | itsrachelslife | -21600 | 2013-01-17 11:03:45 | 27485069891a7938 | 40.629 | -73.9676 | ? | Twitter for iPhone | Im a morning person but I hate waking up
+291863378887053312 | 318309777 | SaNdRaaa_D | ? | 2013-01-17 11:03:46 | a0bf807727362772 | 47.0925 | 8.45026 | 291854459728965633 | Twitter for iPhone | @daki82daki @poslednjilet Neka neka.. Juri ga Seko za nasu HOT sliku
+291863399221043200 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:03:51 | fdb8b13745d79424 | 46.525 | 6.82752 | 291863182711078913 | Twitter for iPhone | @FrWagnon Questce que vous avez branl hier soir #southampton
+291863401272078337 | 310300872 | HiLisssByeee | -18000 | 2013-01-17 11:03:52 | 4ee89bc7111d426b | 46.7263 | 9.56438 | ? | Twitter for iPhone | Hiking to the top of a mountain to eat fondue amp drink wine... Then sled back down after. Im okay with that
+291863414182117376 | 325969245 | nastyaawolt | -25200 | 2013-01-17 11:03:55 | 65b4760a2b411e11 | ? | ? | 291863035549724672 | web | @Natali2174 
+291863416291852288 | 31149352 | colstra | ? | 2013-01-17 11:03:56 | 6910e653812a7faa | 47.1294 | 10.2522 | ? | Twitter for iPhone | #skien met mn broer n zn 12,5 jubileum vieren @vanderlaanbv. Trots op mn vriend en business partner . #lekkerrr http://t.co/ZRNZUJGY
+291863417470468096 | 343197788 | kickalert | ? | 2013-01-17 11:03:55 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @thelawes Sufjan Stevens at BAM Gilman Opera House March 24, 2013: Brooklyn, NY, US http://t.co/CrVTSfyt
+291863418686812160 | 343197788 | kickalert | ? | 2013-01-17 11:03:56 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @thelawes Sufjan Stevens at BAM Gilman Opera House March 23, 2013: Brooklyn, NY, US http://t.co/8uImREWM
+291863419987058689 | 343197788 | kickalert | ? | 2013-01-17 11:03:56 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @thelawes Sufjan Stevens at BAM Gilman Opera House March 22, 2013: Brooklyn, NY, US http://t.co/KnBqzMpB
+291863421375377408 | 343197788 | kickalert | ? | 2013-01-17 11:03:56 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @thelawes Sufjan Stevens at BAM Gilman Opera House March 21, 2013: Brooklyn, NY, US http://t.co/pV62HYIT
+291863426148495360 | 343197788 | kickalert | ? | 2013-01-17 11:03:58 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @tolar Sufjan Stevens at BAM Gilman Opera House March 24, 2013: Brooklyn, NY, US http://t.co/CrVTSfyt
+291863427054436353 | 343197788 | kickalert | ? | 2013-01-17 11:03:58 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @tolar Sufjan Stevens at BAM Gilman Opera House March 23, 2013: Brooklyn, NY, US http://t.co/8uImREWM
+291863428023345152 | 343197788 | kickalert | ? | 2013-01-17 11:03:58 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @tolar Sufjan Stevens at BAM Gilman Opera House March 22, 2013: Brooklyn, NY, US http://t.co/KnBqzMpB
+291863429008986112 | 343197788 | kickalert | ? | 2013-01-17 11:03:58 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @tolar Sufjan Stevens at BAM Gilman Opera House March 21, 2013: Brooklyn, NY, US http://t.co/pV62HYIT
+291863438592970752 | 597970587 | Larasatyzahirah | 28800 | 2013-01-17 11:04:00 | 94965b2c45386f87 | ? | ? | ? | web | done yah @Aldhykhan
+291863442808270848 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 11:04:01 | 27485069891a7938 | 40.8276 | -73.8661 | 291863289917489152 | Twitter for iPhone | @___Pebbsss good What are you doing
+291863444137844736 | 1004525612 | Gregory_Sanon | -18000 | 2013-01-17 11:04:02 | 27485069891a7938 | 40.8786 | -73.873 | ? | Twitter for Android | 18,000 Hits via @youtube http://t.co/xcY76rKl Read what people are saying @MrTroy_Richards @ZxandriaJ @RichFaam #RT
+291863450144079872 | 110799618 | DuyguDkrSlmn | 7200 | 2013-01-17 11:04:03 | 57d9b5e0a53e48e5 | 47.4532 | 8.58536 | 291857229978669056 | Twitter for iPhone | @ezgimola zurih sinemalarinada gelicekmi 
+291863471279185920 | 174373209 | estibenyankee | -36000 | 2013-01-17 11:04:08 | 27485069891a7938 | 40.848 | -73.9096 | ? | Twitter for Android | Good morning guys 6:03 am fuck ..... no sleep damn whats are your mind : : : :
+291863474190053376 | 450019117 | JecaBrena | 3600 | 2013-01-17 11:04:09 | c799e2d3a79f810e | ? | ? | ? | web | Mrzimmm kad se loe stvari deavaju dobrim ljudima...
+291863484357033984 | 153809894 | akeys1530 | 3600 | 2013-01-17 11:04:11 | f6c2608bd867e173 | 46.8226 | 6.93838 | ? | Twitter for iPhone | @BbeiSugaR: @akeys1530 BienvenueThank you u too
+291863521208184833 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:04:20 | b046074b1030a44d | 40.7078 | -74.0862 | 291860634553962496 | Twitter for iPhone | @YouLosinTrue @itsdaddylee Ctfu
+291863522122534912 | 205127472 | Hotel_Empire_ | -28800 | 2013-01-17 11:04:20 | 27485069891a7938 | 40.6714 | -73.9777 | ? | Twitter for iPhone | The sense of unique features and class have gone out the window. Now its how hot and emotionless can I look in front of tree
+291863525452828672 | 182691516 | ravenalegria13 | -18000 | 2013-01-17 11:04:21 | 086752cb03de1d5d | 40.7506 | -73.9749 | ? | Twitter for Android | Meanwhile, my hard drive that has my webseries on it decided to say Fuck you, bitch. I hope I can recover the data on it. Serously.
+291863533002563584 | 26916511 | Anshulaa | -18000 | 2013-01-17 11:04:23 | d7ce64e73b86c6f0 | 40.8235 | -74.007 | 291863209097437184 | Twitter for iPhone | @Skinnyminniee__ I was in student council I didnt do athletic stuff hehehehee
+291863534260875264 | 1092345793 | Maureen_Magnan | ? | 2013-01-17 11:04:23 | 285e62bea5aaa4b4 | 47.0443 | 6.88405 | ? | Twitter for Android | Dans le bus gtgtgt
+291863540694908928 | 714754891 | Elodiew_ | 3600 | 2013-01-17 11:04:25 | 8cf91c50338d9dfc | 47.6717 | 6.54164 | ? | Twitter for iPhone | Journe termine.
+291863545241559040 | 324323844 | BillelOrton | ? | 2013-01-17 11:04:26 | c58d5b0c1c241f2e | ? | ? | ? | web | @RandyOrton follow me please notice me randy and follow im a huge fan of you you
+291863549515550720 | 597970587 | Larasatyzahirah | 28800 | 2013-01-17 11:04:27 | 94965b2c45386f87 | ? | ? | ? | web | annyeonghaseo :
+291863562794721280 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:04:30 | 27485069891a7938 | 40.6642 | -73.9386 | 291861496777035776 | Elise | @syntheticdivine Sometimes it falls upon a generation to be great. You can be that generation Nelson Mandela
+291863565009309696 | 379240538 | JasminaGrand | ? | 2013-01-17 11:04:31 | 6c07f3233c333f95 | 46.5206 | 6.63738 | 291863383379169280 | Twitter for iPhone | @MeylieOnAir cest un pull que tu mets sur un tshirt normalement. Comme une veste.
+291863568402505728 | 522390655 | AutoSofortKauf | 3600 | 2013-01-17 11:04:31 | f9631595faf014bc | 47.6993 | 8.63291 | ? | foursquare | Im at Diana Building Schaffhausen http://t.co/UNh339eo
+291863583145472002 | 343197788 | kickalert | ? | 2013-01-17 11:04:35 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @mario Sufjan Stevens at BAM Gilman Opera House March 24, 2013: Brooklyn, NY, US http://t.co/CrVTSfyt
+291863584072429568 | 343197788 | kickalert | ? | 2013-01-17 11:04:35 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @mario Sufjan Stevens at BAM Gilman Opera House March 23, 2013: Brooklyn, NY, US http://t.co/8uImREWM
+291863584915476480 | 343197788 | kickalert | ? | 2013-01-17 11:04:35 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @mario Sufjan Stevens at BAM Gilman Opera House March 22, 2013: Brooklyn, NY, US http://t.co/KnBqzMpB
+291863585796288512 | 343197788 | kickalert | ? | 2013-01-17 11:04:36 | 27485069891a7938 | 40.65 | -73.95 | ? | kickalert | @mario Sufjan Stevens at BAM Gilman Opera House March 21, 2013: Brooklyn, NY, US http://t.co/pV62HYIT
+291863606478397440 | 165803665 | emilyjanebanks | -18000 | 2013-01-17 11:04:41 | 27485069891a7938 | 40.695 | -73.9705 | ? | Twitter for iPhone | Tune in to #GMA to see @DrJAshton discuss her new book Your Body Beautiful amp dish on her clockstopping #secrets #health #wellness
+291863607619244033 | 29096616 | loveenora | -21600 | 2013-01-17 11:04:41 | 086752cb03de1d5d | 40.7232 | -73.9815 | 291848861104881665 | Twitter for iPhone | @ximena_d @TheWhiteMonkey I love monkeys too :
+291863614091042817 | 261170559 | waqasalisaqib | 3600 | 2013-01-17 11:04:43 | c3a6437e1b1a726d | 46.2096 | 6.14431 | 291861310780608512 | Twitter for iPhone | @andleebXPOZE Il entertain All the Betiful ladies with best hand made Swiss Chocs 2 hve an #EPIC strt I knw its hard http://t.co/MR053BQx
+291863618478276608 | 416673992 | MatejStaric | 3600 | 2013-01-17 11:04:43 | c799e2d3a79f810e | 46.0623 | 14.819 | ? | foursquare | I just became the mayor of Predavalnica GimLit on @foursquare http://t.co/NOGkkqAU
+291863621045207040 | 42975415 | lunacaifan | ? | 2013-01-17 11:04:44 | 30410557050f13a5 | 48.1585 | 17.1063 | ? | Instagram | Vrias esttuas pela rua.. #mochilo #eurotrip #esl @ Bratislava Hlavn Stanica Bratislava Central Station http://t.co/VtShYjAz
+291863632155918336 | 578127003 | valenrestrepo26 | 7200 | 2013-01-17 11:04:47 | 543f9b938fd47e39 | 40.8563 | -74.0248 | ? | Twitter for iPhone | Good morning I know what im gonna wear today, yaay
+291863645846118400 | 432034452 | dominikrichner | ? | 2013-01-17 11:04:50 | 03d9ef0bc144fbfa | 47.3516 | 7.90667 | ? | Twitter for iPhone | neue informationen zu @Google_CH shopping: http://t.co/1B6QrJyx
+291863651537805312 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 11:04:51 | ddcca24ee29ddff2 | 46.1826 | 6.14483 | ? | Twitter for iPhone | Jai jamais t aussi dessus .
+291863682714058752 | 182691516 | ravenalegria13 | -18000 | 2013-01-17 11:04:59 | 086752cb03de1d5d | 40.7506 | -73.9749 | ? | Twitter for Android | So expect this weeks episode a bit later as we are trying to fix the issue. #oldhollywood
+291863683053809664 | 170668945 | begumayy | -18000 | 2013-01-17 11:04:59 | f3bfc7dcc928977f | ? | ? | ? | web | biliyodum ki byle olucan ....
+291863683674542081 | 221342786 | na7oulna7oul | 3600 | 2013-01-17 11:04:59 | c799e2d3a79f810e | ? | ? | ? | web | @ObispoPascal pour tous les fans sil vous plais je demande un lien youtube surtout pour voir lemission dhier #laparenthseinattendue
+291863698082000896 | 220857163 | PhillipeVieira_ | -10800 | 2013-01-17 11:05:02 | 7668b962a78513e6 | ? | ? | ? | web | BonJour
+291863702037229568 | 389668266 | Jkay_97 | 3600 | 2013-01-17 11:05:03 | 28f11dd7e743a2b5 | 46.1928 | 6.10488 | 291861084011368449 | Twitter for iPhone | @RajaKhelif Persepolice haha
+291863712489435136 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:05:06 | b046074b1030a44d | 40.7078 | -74.0861 | 291860634553962496 | Twitter for iPhone | @YouLosinTrue @itsdaddylee you be all on my tl looking 4 friends @YouLosinTrue
+291863713437347840 | 174373209 | estibenyankee | -36000 | 2013-01-17 11:05:06 | 27485069891a7938 | 40.8468 | -73.9131 | 291863374755688448 | Twitter for Android | @katherine_lc hello amiga si usted va tarde yo.me levante super temprano : : :
+291863716088143872 | 232849792 | Eric_NS17 | -10800 | 2013-01-17 11:05:07 | 29b23fa706f8f210 | 46.5285 | 6.59762 | ? | Twitter for Android | #NP Life long
+291863720517316608 | 220159179 | DJ_KING_UMG | -18000 | 2013-01-17 11:05:08 | b6ea2e341ba4356f | 40.6995 | -73.7284 | ? | foursquare | Good morning and out to work @ The Mobile King http://t.co/ZwDlj3By
+291863732651429888 | 522390655 | AutoSofortKauf | 3600 | 2013-01-17 11:05:11 | b438b11661db0867 | 47.6982 | 8.63401 | ? | foursquare | Im at McDonalds Schaffhausen, SH http://t.co/w7kHzIEH
+291863743573393408 | 318309777 | SaNdRaaa_D | ? | 2013-01-17 11:05:13 | a0bf807727362772 | 47.0925 | 8.45021 | 291862791994884097 | Twitter for iPhone | @daki82daki @ludimilojko14 @poslednjilet Neka neka, samo ga juri Seko za nasu HOT sliku..
+291863746127753216 | 306406775 | _valoon | 3600 | 2013-01-17 11:05:14 | c3ada8d9b21cc111 | 46.8592 | 9.51985 | ? | Twitter for iPhone | en guete.. ju boft nir
+291863749978124288 | 556833852 | SergGallardo | 7200 | 2013-01-17 11:05:15 | 85acd6d34bd39738 | 47.3624 | 8.44262 | 291182569964335105 | Twitter for Android | @RichyAlbores gracias xa stou bastante mellor 
+291863757502685184 | 582776793 | Kanda_0five | 7200 | 2013-01-17 11:05:17 | c3a6437e1b1a726d | 46.2168 | 6.14566 | ? | Twitter for iPhone | 12:05
+291863767761969154 | 21776449 | newjunetune | -18000 | 2013-01-17 11:05:19 | 27485069891a7938 | ? | ? | ? | web | @SimonRadio1776 Keep posting where you will be broadcasting 
+291863768886038528 | 44617913 | saldev1 | 3600 | 2013-01-17 11:05:19 | 4b041fd42a0be635 | ? | ? | ? | web | altitude sickness go away
+291863782442012672 | 794590062 | kmil_izi | ? | 2013-01-17 11:05:22 | 856d5aa1303cc3cb | 46.3737 | 6.44281 | ? | Twitter for iPhone | On mange pire que de la merde a la kantine Whl
+291863784107171842 | 83835963 | shadowman83 | 3600 | 2013-01-17 11:05:23 | d9dd435a1f0ea75f | 47.2042 | 7.54287 | ? | foursquare | Im at Bahnhof Solothurn Solothurn, SO http://t.co/rpmAhpXN
+291863785956847619 | 114758490 | djmotka | 3600 | 2013-01-17 11:05:23 | fdcd221ac44fa326 | 50.0953 | 14.3455 | ? | foursquare | Im at OMV Evropsk Praha 6, Hlavn msto Praha http://t.co/VEVBMhyu
+291863789882720257 | 425424323 | itsroland_ | -18000 | 2013-01-17 11:05:24 | 65b4760a2b411e11 | 40.4522 | -74.4748 | ? | Twitter for Android | I barely slept last night. But shit, I dont regret it :
+291863792042774528 | 1092345793 | Maureen_Magnan | ? | 2013-01-17 11:05:25 | dd4d9cc0cc87ee52 | 47.0385 | 6.88598 | ? | Twitter for Android | @eeellssaaa lt3 lt3 lt3 lt3
+291863795113029632 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:05:25 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: the groom wore spurs, @rznns 20/43169 poin
+291863797092737024 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:05:26 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm gtuowy:nson tlsil tsngiadn 2010 Dan McCarthy, p:steel c:USA poin: 26
+291863798330060801 | 428448664 | camilleplatypus | -18000 | 2013-01-17 11:05:26 | 27485069891a7938 | ? | ? | ? | web | I wake up, and the first thing I see is Audrey calling me San. That is gtgtgtgtgtgtgtgtgtgtgt
+291863813240799232 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 11:05:30 | ddcca24ee29ddff2 | 46.1826 | 6.14479 | ? | Twitter for iPhone | Dhabitude les choses comme sa sa matteint pas mais la cest bon cest fini .
+291863824452186112 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:05:32 | 8fc3c9b3e656452c | 47.4018 | 6.4969 | 291862874882732032 | Twitter for iPhone | @RebeuBerry bien et toi 
+291863829749563393 | 29096616 | loveenora | -21600 | 2013-01-17 11:05:34 | 086752cb03de1d5d | 40.7232 | -73.9815 | ? | Twitter for iPhone | @JamesonCamp Can you text me
+291863830131249153 | 384975682 | Kyleaquino94 | ? | 2013-01-17 11:05:34 | b6ea2e341ba4356f | 40.6451 | -73.7845 | ? | Instagram | Have a safe trip mom to the Philippines. Sad that you have to @ John F. Kennedy International Airport JFK http://t.co/5dY6egCD
+291863831771230208 | 772313155 | Yas_Maghrib | 3600 | 2013-01-17 11:05:34 | a1b759dc059e346f | 46.2028 | 6.09602 | 291863669917241344 | Twitter for iPhone | @dorinalbania1 Aucune ide Ahahahah 
+291863833146978304 | 57733705 | LavanteIsaac | -18000 | 2013-01-17 11:05:35 | 086752cb03de1d5d | 40.7306 | -73.9931 | ? | Twitter for Windows Phone | Ladies im the most beautiful girl in the world
+291863843813072896 | 256002542 | Alexandroh82 | ? | 2013-01-17 11:05:37 | 086752cb03de1d5d | 40.7554 | -73.9856 | ? | Instagram | Morning NYC
+291863846124154882 | 73987740 | ReelTalker | -18000 | 2013-01-17 11:05:38 | 27485069891a7938 | 40.6202 | -74.0374 | 291846813621813248 | Twitter for Android | @DawnMGibson thank you
+291863855607459840 | 306406775 | _valoon | 3600 | 2013-01-17 11:05:40 | c3ada8d9b21cc111 | 46.8591 | 9.51994 | ? | Twitter for iPhone | ju boft mir. en guete
+291863860447686657 | 458525804 | carme_torres | ? | 2013-01-17 11:05:41 | 27485069891a7938 | ? | ? | 252476160448016384 | web | @carme_torres is beautiful I love it 
+291863864071573504 | 822189248 | ARRIGONIC | ? | 2013-01-17 11:05:42 | 2daa3f473f969c66 | 45.9219 | 6.71874 | 291863201262493696 | Twitter for iPhone | @EmaDepoilly
+291863868408475648 | 57634890 | walliboss | 3600 | 2013-01-17 11:05:43 | 2a760c14c22cb68d | ? | ? | ? | Tweetbot for iOS | Nun Attack prsent au #forumblanc est un jeu dvelopp par @Frima avec des nuns et des guns http://t.co/uaOpFjCw
+291863873307414530 | 26916511 | Anshulaa | -18000 | 2013-01-17 11:05:44 | d7ce64e73b86c6f0 | 40.8235 | -74.007 | 291863625575043072 | Twitter for iPhone | @Skinnyminniee__ lmao I know what it is I just dont wear it so I have no motivation to just do it. Unless were talking about you lt3
+291863876490903552 | 474984923 | jparker978 | ? | 2013-01-17 11:05:45 | b6ea2e341ba4356f | 40.6469 | -73.7764 | ? | Twitter for iPad | Aruba
+291863877027782656 | 182691516 | ravenalegria13 | -18000 | 2013-01-17 11:05:45 | 086752cb03de1d5d | 40.7506 | -73.9749 | ? | Twitter for Android | I also cant believe its Thursday already Where the fuck did my week go
+291863877677899776 | 324323844 | BillelOrton | ? | 2013-01-17 11:05:45 | c58d5b0c1c241f2e | ? | ? | 291863455550566400 | web | @WWE_JCena no not me its you the jack ass from hell and not an alien from mars. b...ch a 
+291863877849849856 | 68546869 | TheSweetCheek | -18000 | 2013-01-17 11:05:45 | 27485069891a7938 | 40.847 | -73.8579 | ? | Twitter for iPhone | O M G
+291863898041245696 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:05:50 | 27485069891a7938 | 40.6642 | -73.9386 | 291861901036642304 | Elise | @nathalie3111 Love is like the wind. You cant see it, but you can feel it. cc @BoukevHouten
+291863900595572737 | 379240538 | JasminaGrand | ? | 2013-01-17 11:05:51 | 6c07f3233c333f95 | 46.5209 | 6.63741 | 291863383379169280 | Twitter for iPhone | @MeylieOnAir jespre quils se douchent... Mais on sait tous que la plupart des tudiants en priode dexam ne le font pas
+291863906845069312 | 88543884 | Blog_UneLola | -10800 | 2013-01-17 11:05:52 | a2bf3911e64dd7b8 | 46.1788 | 6.25855 | 291863743300771840 | Twitter for iPhone | @Margaux_Jarry @adeliparis jen ai pas pour essayer 
+291863909462331394 | 976424928 | BettyMeles | 3600 | 2013-01-17 11:05:53 | c3a6437e1b1a726d | 46.2198 | 6.14616 | ? | Twitter for iPhone | Bonjouuuuuur #ON
+291863912838754304 | 75059346 | RitsukOo | -10800 | 2013-01-17 11:05:54 | a1043d611e0cc464 | 47.3651 | 7.34158 | 291863121243566081 | Twitter for Android | @JoeGourdin lol merchiiiii :D
+291863916651360256 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:05:54 | b046074b1030a44d | 40.7077 | -74.0862 | ? | Twitter for iPhone | How u private your shit ..
+291863938419802114 | 907729824 | ElsyMonteiro | 3600 | 2013-01-17 11:06:00 | 695f8353e33e60e0 | 46.1973 | 6.19141 | ? | Twitter for iPhone | Elle est chiante aussi Roh 
+291863942203064320 | 629254769 | TaysonGian | 28800 | 2013-01-17 11:06:01 | 94965b2c45386f87 | ? | ? | 291863583913017344 | web | @cnagster Tang post mu ikit ke. Hahaha. Nanu pang masanting
+291863953347321857 | 38179153 | rezaprabowo | 25200 | 2013-01-17 11:06:03 | 086752cb03de1d5d | ? | ? | 291861592797224960 | Tweetbot for iOS | @adhams ga sempet kayanya gw nyari2
+291863957965262848 | 65465960 | YouAreMyArsenal | -18000 | 2013-01-17 11:06:04 | 65b4760a2b411e11 | 40.2695 | -75.0832 | 291863535791783936 | Twitter for iPhone | @dylan_fahy was thinking a little more important to Napoli
+291863962612543490 | 976424928 | BettyMeles | 3600 | 2013-01-17 11:06:05 | c3a6437e1b1a726d | 46.2198 | 6.14615 | ? | Twitter for iPhone | Jvien de rentre dla school
+291863965267525632 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:06:06 | 65b4760a2b411e11 | 40.1577 | -74.9357 | ? | Twitter for iPhone | @Lauren___Doe omg nigg Jodeci cry for you
+291863969902231553 | 28897281 | mike_ols | -18000 | 2013-01-17 11:06:07 | 086752cb03de1d5d | 40.7438 | -74.0063 | ? | Instagram | @realljs @nydoorman and I #luscious as #fuck #xoxo at richies table @ 1 Oak http://t.co/F8NcsvZP
+291864009186103296 | 233670911 | Fonzarelli_Wave | -18000 | 2013-01-17 11:06:17 | b6ea2e341ba4356f | 40.6604 | -73.8255 | ? | Twitter for iPhone | Bout to shower n #rollup
+291864010083680257 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:06:17 | b046074b1030a44d | 40.7077 | -74.0862 | 291863366182506496 | Twitter for iPhone | @mr_herring21 lol
+291864037577338880 | 115988146 | ValaisMeteo | 3600 | 2013-01-17 11:06:23 | 51ae948e08959af7 | 46.02 | 7.75 | ? | twitterfeed | Mto Conditions for Zermatt, SZ at 11:00 am CET: Current Conditions: Unknown, 13 CForecast: Thu Mostly Cloud... http://t.co/Mc7WYQx2
+291864041146703872 | 28211025 | josekicksass | -18000 | 2013-01-17 11:06:24 | 27485069891a7938 | 40.62 | -74.0005 | 291723100339441664 | Twitter for iPhone | @KarlaRebeca en una small media production company :
+291864059945553921 | 18453662 | ecargva | -10800 | 2013-01-17 11:06:29 | c3a6437e1b1a726d | ? | ? | ? | Tweetbot for iOS | Mes cours dhistoire de lart tourne a la blague
+291864061833015296 | 976424928 | BettyMeles | 3600 | 2013-01-17 11:06:29 | c3a6437e1b1a726d | 46.2198 | 6.14622 | ? | Twitter for iPhone | Jai foirer mon preuve de math. Putaain 
+291864076047503361 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:06:32 | 65b4760a2b411e11 | 40.1579 | -74.9357 | 291863796820099072 | Twitter for iPhone | @Iamchris_carter thats real shit tho
+291864090865958912 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:06:37 | 8fc3c9b3e656452c | 47.402 | 6.49688 | 291863386252247041 | Twitter for iPhone | @BABZ_QE jsuis ds la neige tg tg http://t.co/X8sd6jHW
+291864105265033218 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:06:39 | b046074b1030a44d | 40.7077 | -74.0862 | 291863999623077888 | Twitter for iPhone | @itsDaddyLee @youlosintrue @youlosintrue girl Im serious
+291864118137344000 | 1011939764 | RomainBoine | -36000 | 2013-01-17 11:06:42 | 24292aa21cb92cd8 | 47.2422 | 6.01596 | ? | Twitter for Android | Thomas mange avec les skatooze Peut etre une reconvertion
+291864127452897280 | 14164775 | madial | 3600 | 2013-01-17 11:06:45 | 3acb748d0f1e9265 | 47.3741 | 8.52355 | 291864035488567296 | Tweetbot for iOS | @mmmatze ich liebe dich
+291864129646493696 | 381976680 | Yelpzuerich | ? | 2013-01-17 11:06:45 | 3762f0997bd0c84b | 47.4983 | 8.72866 | ? | twitterfeed | Andr B.s Beitrag ber insiemepiadineria Winterthur 4/5 on Yelp: Als HeimwehWinterthurer bin ich oft in ... http://t.co/0zdg0zhr
+291864137401774080 | 115443321 | TemptressDevil | 3600 | 2013-01-17 11:06:48 | cb6aa66f0c05a3d8 | 45.9566 | 10.3091 | 291863088276328449 | Twitter for iPad | @La_Polly92 well. http://t.co/rLGWs0TJ
+291864149607202816 | 174373209 | estibenyankee | -36000 | 2013-01-17 11:06:50 | 27485069891a7938 | 40.8474 | -73.9112 | 291863992538894337 | Twitter for Android | @katherine_lc. Yeah is crazy jaja : :
+291864161300930560 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:06:53 | b046074b1030a44d | 40.7078 | -74.0862 | 291863484390572032 | Twitter for iPhone | @smooth_slime oh Damn my b
+291864163842666496 | 379240538 | JasminaGrand | ? | 2013-01-17 11:06:53 | 6c07f3233c333f95 | 46.5219 | 6.63978 | 291862923138179072 | Twitter for iPhone | @MeylieOnAir reposetoi bien maintenant moumou
+291864166321491968 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:06:54 | 65b4760a2b411e11 | 40.1579 | -74.9357 | ? | Twitter for iPhone | I hate getting out of bed when im really comfy
+291864166401200128 | 132931975 | Blairidicule | 3600 | 2013-01-17 11:06:54 | 2fba0c613d956b79 | 47.6344 | 6.85358 | ? | Twitter for Android | Tocards ct de moi alerte rouge
+291864173644763136 | 107562999 | marcjepson | ? | 2013-01-17 11:06:56 | dd26be6f16473902 | 46.0035 | 6.94659 | ? | Twitter for iPhone | Good luck to everyone tonight, not that you will need it Launch night of @cameowatford Theres a new king in Watford
+291864203873120256 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:07:03 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | Hes sick
+291864209678008321 | 26208193 | PojeMario | 3600 | 2013-01-17 11:07:04 | c799e2d3a79f810e | 45.8106 | 15.9837 | 291860186174484481 | Twitter for Windows Phone | @AntonijaBusic jos sam na traumi, pa isprobavam sporadicno, Ali ovo kaj sam do sad video je WOOW
+291864210219073536 | 255725920 | TheUpperRoom0 | -18000 | 2013-01-17 11:07:04 | b6ea2e341ba4356f | 40.7099 | -73.898 | ? | Twitter for iPhone | #TeamFarj Farj is upon here in #NYC
+291864217252941824 | 343197788 | kickalert | ? | 2013-01-17 11:07:06 | 086752cb03de1d5d | 40.7263 | -74.0058 | ? | kickalert | @Sahsworld @The_Proclaimers with Jp Jones at City Winery April 12, 2013: New York, NY, US http://t.co/e5tt6EKJ
+291864218326671362 | 343197788 | kickalert | ? | 2013-01-17 11:07:06 | 086752cb03de1d5d | 40.7263 | -74.0058 | ? | kickalert | @Sahsworld @oakridgeboys at City Winery March 11, 2013: New York, NY, US http://t.co/vEoVxi4o
+291864219324915712 | 348431625 | Mr_JSosa | -18000 | 2013-01-17 11:07:07 | 27485069891a7938 | 40.8761 | -73.8748 | ? | Twitter for iPhone | I guess sleep it is
+291864233862381568 | 1092557371 | NolwennMagnan | 3600 | 2013-01-17 11:07:10 | 285e62bea5aaa4b4 | 47.0443 | 6.88405 | ? | Twitter for Android | Dans le bus avec @Maureen_Magnan lt3lt3lt3lt3
+291864235896623108 | 1095013974 | faratpf | ? | 2013-01-17 11:07:11 | dfbf4ce81da97883 | 46.9935 | 6.93748 | 291864006694690817 | Twitter for Android | @mamanitotoris @EvaLongoria @NathiiTavares @ raha tsy hay mahadada lol
+291864237817602048 | 629623787 | Enkela_velii | 3600 | 2013-01-17 11:07:11 | c3a6437e1b1a726d | 46.2126 | 6.13232 | 291667502939926528 | Twitter for Android | @NoaLarochelle et tu fait combien toi
+291864239075901440 | 116005683 | JuraMeteo | 3600 | 2013-01-17 11:07:11 | a1043d611e0cc464 | 47.37 | 7.33 | ? | twitterfeed | Mto Conditions for Delemont, SZ at 11:19 am CET: Current Conditions: Fog, 4 CForecast: Thu Few Snow Showers... http://t.co/ftGgOvH0
+291864243744153601 | 122341335 | StenRostov | 14400 | 2013-01-17 11:07:12 | 10097ef0a6522c1a | ? | ? | 291863728725557248 | web | @KorobkovRussia , . 
+291864248714416128 | 230401670 | JacksonBoyz2012 | -32400 | 2013-01-17 11:07:14 | 27485069891a7938 | ? | ? | ? | web | #IJustWantYouToKnow Train insane Or stay the Same. gtgt
+291864249712660480 | 497065018 | Kev_MCMXCV | 3600 | 2013-01-17 11:07:14 | d00ec6e03606c7b0 | 46.2549 | 6.94679 | 291859800684367872 | Twitter for iPhone | @Jeremm10 @danmeyer27 @robbisoul jannonce un massacre persoo
+291864268415041536 | 583547325 | Norman__G | 28800 | 2013-01-17 11:07:18 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291863994749304832 | TweetDeck | @__earth neocolonialism
+291864269694320640 | 18453662 | ecargva | -10800 | 2013-01-17 11:07:19 | c3a6437e1b1a726d | ? | ? | ? | Tweetbot for iOS | je comprend pas pourquoi on ne peut pas faire de la peinture impressionniste a la head, cest dbile. cest toi la dbile espce dabrutie
+291864294793043968 | 68546869 | TheSweetCheek | -18000 | 2013-01-17 11:07:25 | 27485069891a7938 | 40.8471 | -73.8579 | ? | Twitter for iPhone | Not a happy morning, not a happy day
+291864297947160576 | 629254769 | TaysonGian | 28800 | 2013-01-17 11:07:25 | 94965b2c45386f87 | ? | ? | ? | web | Swedish house mafia
+291864299457093633 | 18453662 | ecargva | -10800 | 2013-01-17 11:07:26 | c3a6437e1b1a726d | ? | ? | ? | Tweetbot for iOS | Et a se projette artiste
+291864301218705408 | 206332688 | Strong_Maria | 3600 | 2013-01-17 11:07:26 | fdcd221ac44fa326 | 50.0755 | 14.2621 | ? | Twitter for Android |  ... . ... ... ...
+291864310337130496 | 425424323 | itsroland_ | -18000 | 2013-01-17 11:07:28 | 65b4760a2b411e11 | 40.4523 | -74.475 | ? | Twitter for Android | I still dont have someone to twin with : l
+291864313151500288 | 14164775 | madial | 3600 | 2013-01-17 11:07:29 | 3acb748d0f1e9265 | 47.3742 | 8.52302 | 291864173023997952 | Tweetbot for iOS | @mmmatze uff.
+291864315391270913 | 622916564 | NoaLarochelle | ? | 2013-01-17 11:07:30 | c3a6437e1b1a726d | 46.2044 | 6.14288 | 291864237817602048 | Twitter for iPhone | @Enkela_velii 1m58
+291864322412519424 | 26208193 | PojeMario | 3600 | 2013-01-17 11:07:31 | c799e2d3a79f810e | 45.8106 | 15.9837 | 291863230719070208 | Twitter for Windows Phone | @samrich_ neki htc 8x :
+291864329677049856 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 11:07:33 | 27485069891a7938 | 40.8275 | -73.8662 | 291863966215458818 | Twitter for iPhone | @___Pebbsss up getting annoyed
+291864331803557888 | 189072067 | yexianjingx | 28800 | 2013-01-17 11:07:33 | bec98271815d2329 | 45.8552 | 9.39602 | ? | OS X | ?
+291864336710922240 | 145409900 | nadjaline | 3600 | 2013-01-17 11:07:35 | c3a6437e1b1a726d | 46.1899 | 6.15245 | ? | Twitter for iPhone | Pequenas oportunidades podem ser o incio de grandes empreendimentos
+291864337604308992 | 324323844 | BillelOrton | ? | 2013-01-17 11:07:35 | c58d5b0c1c241f2e | ? | ? | 291864071823843328 | web | @windsofchangex follow me
+291864338296348672 | 240260098 | Joe91192 | ? | 2013-01-17 11:07:35 | c799e2d3a79f810e | 36.8458 | 10.2689 | ? | foursquare | Im at MSB Lac 2 Campus Tunis http://t.co/Wnyde60w
+291864342608084992 | 629623787 | Enkela_velii | 3600 | 2013-01-17 11:07:36 | c3a6437e1b1a726d | 46.2126 | 6.1323 | ? | Twitter for Android | Bonjour a vous quand meme 
+291864361109188609 | 18453662 | ecargva | -10800 | 2013-01-17 11:07:40 | c3a6437e1b1a726d | ? | ? | ? | Tweetbot for iOS | Sucez ma queue les noobs
+291864371980800000 | 350279803 | _leo_martin | 3600 | 2013-01-17 11:07:43 | c3a6437e1b1a726d | 46.2073 | 6.13992 | ? | Twitter for iPhone |  Mike Wong :
+291864373377499136 | 464576623 | Ruben_RMCF | 7200 | 2013-01-17 11:07:43 | 28f11dd7e743a2b5 | 46.1862 | 6.10029 | 291861872423084032 | Twitter for iPhone | @AfrimTafi hahahaahahhh tcheu les bouchers
+291864403542953985 | 174373209 | estibenyankee | -36000 | 2013-01-17 11:07:51 | 27485069891a7938 | 40.8474 | -73.9112 | 285572125203505152 | Twitter for Android | @Meybertolotti wow rojisaa por completo jaa nice : :
+291864442596098049 | 568251457 | BastienMoutard | 7200 | 2013-01-17 11:08:00 | cd0517a6ea968d01 | 46.2076 | 6.18087 | ? | Twitter for iPhone | Mais il fait trop froid abuser #Congeler.
+291864461617274880 | 782350458 | elizabetha_iii | 3600 | 2013-01-17 11:08:04 | c799e2d3a79f810e | 43.5229 | 16.5571 | 291849906841341952 | Twitter for Android | @kiki_shi evo me _
+291864466956636160 | 41039319 | north_06 | -18000 | 2013-01-17 11:08:06 | 65e3a577f1940550 | 40.8862 | -73.9769 | ? | Twitter for iPhone | #teo @OneJetAtATime #NYJets #Jets Should the Jets draft TeO
+291864470224003072 | 584946289 | Fiona2112 | ? | 2013-01-17 11:08:06 | dfbf4ce81da97883 | 46.9959 | 6.941 | ? | Twitter for Windows Phone | Jai troooop faim 
+291864470752468992 | 327434189 | Jed_Lina | -10800 | 2013-01-17 11:08:07 | c799e2d3a79f810e | 46.0507 | 14.5122 | 291864255089737728 | Twitter for iPhone | @planetjedward hello
+291864471750717440 | 360108579 | saif_mohamed | ? | 2013-01-17 11:08:07 | 227ab02aca7f4b08 | 49.7212 | 13.3504 | ? | Twitter for Android | Electrical Engineering turned out to be much harder than I ever thought these exams are freakishly difficult
+291864478398681088 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 11:08:08 | 27485069891a7938 | 40.8275 | -73.8662 | 291864166107598848 | Twitter for iPhone | @TheLittleOddKid nope
+291864485319282688 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:08:10 | 27485069891a7938 | 40.6642 | -73.9386 | 291861927326543872 | Elise | @TomassHH ow heerluk met Tomas
+291864496828452864 | 47991041 | PrincessStina24 | -28800 | 2013-01-17 11:08:13 | b6ea2e341ba4356f | ? | ? | ? | web | i have an awesome friend lt3
+291864503514169344 | 189959364 | paulikaf | -10800 | 2013-01-17 11:08:14 | 97e1bb19fa5f0f47 | 45.8844 | 8.54066 | ? | Twitter for iPhone | Que frio, porra
+291864525521698817 | 233670911 | Fonzarelli_Wave | -18000 | 2013-01-17 11:08:20 | b6ea2e341ba4356f | 40.6636 | -73.8316 | ? | Twitter for iPhone | When u in the building its a sword fight ur clothes mustve came with feelings cuz they all tight
+291864530596794370 | 224305921 | itsrachelslife | -21600 | 2013-01-17 11:08:21 | 27485069891a7938 | 40.629 | -73.9676 | ? | Twitter for iPhone | 16 says until snowboarding
+291864554663727104 | 1016941560 | brandaod10 | ? | 2013-01-17 11:08:27 | 92de87a0cc08680c | 46.8117 | 7.11254 | ? | Twitter for iPhone | Mdr les gens qui mettent sa en janvier. #tyep http://t.co/CmZwnphR
+291864556370800641 | 65464138 | AstridBaudRoche | 3600 | 2013-01-17 11:08:27 | 292fe0440b95ea41 | 46.1318 | 6.11455 | ? | HootSuite | #grandgeneve runion du bureau ARC assemble des lus franais a archamps
+291864559663316992 | 629623787 | Enkela_velii | 3600 | 2013-01-17 11:08:28 | c3a6437e1b1a726d | 46.2126 | 6.13222 | 291667502939926528 | Twitter for Android | @NoaLarochelle eh bah ya une errreu psk je fait 1m60
+291864568060325889 | 36941104 | bizzevan | 3600 | 2013-01-17 11:08:30 | c799e2d3a79f810e | 36.8312 | 10.1476 | ? | foursquare | John bassant lecture @ ENIT http://t.co/UM3CMSp1
+291864596594176000 | 177718722 | SwaveyCHULOO | -18000 | 2013-01-17 11:08:37 | 27485069891a7938 | 40.8275 | -73.866 | ? | Twitter for iPhone | @TheRealJoyce_V morning
+291864600171913219 | 28211025 | josekicksass | -18000 | 2013-01-17 11:08:37 | 27485069891a7938 | 40.62 | -74.0005 | ? | Twitter for iPhone | @MarielaVC17 happy birthday Mariela VelaSqueZ Blessings y que pases increible. Luv you clitty pie xoxoxo
+291864601283424256 | 44639482 | Pirilicious | -28800 | 2013-01-17 11:08:38 | 086752cb03de1d5d | 40.8172 | -73.959 | ? | Twitter for Android | Cause Im The nigga nigga nigga
+291864604089401344 | 206332688 | Strong_Maria | 3600 | 2013-01-17 11:08:38 | fdcd221ac44fa326 | 50.0778 | 14.2624 | ? | Twitter for Android |  ...
+291864616227713024 | 224305921 | itsrachelslife | -21600 | 2013-01-17 11:08:41 | 27485069891a7938 | 40.629 | -73.9676 | ? | Twitter for iPhone | And 3 weeks until Im in arkansas
+291864629917917184 | 26208193 | PojeMario | 3600 | 2013-01-17 11:08:45 | c799e2d3a79f810e | 45.8106 | 15.9837 | 291864365550952448 | Twitter for Windows Phone | @samrich_ jos se sprijateljujemo, Ali za sad smo si dobri jako 
+291864650109296642 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:08:49 | 65b4760a2b411e11 | 40.1579 | -74.9358 | ? | Twitter for iPhone | I fuck with everybody on twitter, even if I hate you outside twitter, I fucks with you on here tho
+291864660322422784 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:08:52 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | Nigga be lookin 4 love on twitter
+291864669642166272 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:08:54 | 65b4760a2b411e11 | 40.1578 | -74.9358 | ? | Twitter for iPhone | ?
+291864670367776768 | 405022393 | xIPrem | ? | 2013-01-17 11:08:54 | c3a6437e1b1a726d | 46.2143 | 6.13019 | 291722985159684096 | Twitter for iPhone | @Mylasone La plus shlag ya pas moyen :x
+291864673505144832 | 593030003 | LeeJinHyun_Kiwi | 3600 | 2013-01-17 11:08:55 | f3bfc7dcc928977f | ? | ? | ? | web | I WANT BLOCK B IN FRANCE @ZICO92 Oppa stay strong please All BBC of the world are with you #FranceLoveBlockB http://t.co/zwoGeg98
+291864679314235392 | 352443152 | photoscrisco | 3600 | 2013-01-17 11:08:57 | e6a4dfb0347445e6 | ? | ? | ? | web | Midi, un temps magnifique dans les Grisons, mais un vent dcorner les cocus http://t.co/V6cZgqZE
+291864695466508289 | 206332688 | Strong_Maria | 3600 | 2013-01-17 11:09:00 | fdcd221ac44fa326 | 50.0778 | 14.2624 | ? | Twitter for Android |  ...
+291864701686648832 | 629623787 | Enkela_velii | 3600 | 2013-01-17 11:09:02 | c3a6437e1b1a726d | 46.2126 | 6.13232 | ? | Twitter for Android | Mdr tageul
+291864704320679936 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:09:02 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | ?
+291864706975690752 | 385624859 | lilisheeva | 3600 | 2013-01-17 11:09:03 | ddcca24ee29ddff2 | 46.1876 | 6.13156 | ? | Twitter for iPhone | J y crois pas que mon tweet ait fait autant de bordel lol Vive les pauses pipi dans la nuit LOL
+291864716924567552 | 549371989 | alminaljevo | ? | 2013-01-17 11:09:05 | c799e2d3a79f810e | ? | ? | ? | web | http://t.co/1tp9ew9a lt3
+291864717901832192 | 976811467 | dborah_s | 3600 | 2013-01-17 11:09:05 | 9bfd4feabb508622 | 46.1707 | 6.14784 | ? | Twitter for iPhone | En cours on a fait le jeu ou faut se taper les doigts
+291864761073795073 | 629254769 | TaysonGian | 28800 | 2013-01-17 11:09:16 | 94965b2c45386f87 | ? | ? | 291864603271499776 | web | @cnagster Wa sge. Good girls dont grow on trees. Hahahaha
+291864789301477376 | 65465960 | YouAreMyArsenal | -18000 | 2013-01-17 11:09:23 | 65b4760a2b411e11 | 40.2694 | -75.0832 | 291864642509238273 | Twitter for iPhone | @dylan_fahy pretty much what Ive been trying to tell everyone.
+291864796666667008 | 15034772 | GregmanR | -16200 | 2013-01-17 11:09:24 | 9c122d5408ac63fb | 47.3051 | 8.31519 | ? | foursquare | Im at Bahnhof BoswilBnzen Boswil, CH http://t.co/5pUfDoje
+291864804241600512 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 11:09:26 | c3a6437e1b1a726d | 46.2049 | 6.14687 | ? | Twitter for BlackBerry® | Dans la srie Friends on a la preuve par ab que lamiti homme/femme drape toujours: MonicaChandler, RossRachel, JoeyRachel
+291864806309384192 | 976811467 | dborah_s | 3600 | 2013-01-17 11:09:27 | 9bfd4feabb508622 | 46.1708 | 6.14781 | ? | Twitter for iPhone | Jamais je perdrai a ce jeu 
+291864825003376641 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:09:31 | 27485069891a7938 | 40.6642 | -73.9386 | 291862373311082496 | Elise | @MYLIFEASALISHA_ lekker hoor
+291864835484971008 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:09:34 | fdb8b13745d79424 | 46.525 | 6.82741 | 291863711830917120 | Twitter for iPhone | @FrWagnon Estil la plupart du temps sur le banc Atil travailler a Liverpool
+291864851230384130 | 212693707 | Eye_Canddy | -10800 | 2013-01-17 11:09:37 | fdcd221ac44fa326 | 50.0711 | 14.453 | ? | foursquare | Exam... litlle bit scared @ Vysok kola finann a sprvn VFS w/ 5 others http://t.co/ujrq2fFw
+291864859333771264 | 976811467 | dborah_s | 3600 | 2013-01-17 11:09:39 | 9bfd4feabb508622 | 46.1708 | 6.14781 | ? | Twitter for iPhone | Je supporte trop bien la douleur
+291864868842254336 | 458806920 | karriglazka | ? | 2013-01-17 11:09:41 | 3df4d62cc21805f6 | 47.5373 | 7.57402 | ? | Instagram |  #basel #ilovebazel #instaweather #instaweatherpro #sky #snow #weather #winte @ Schloss Binningen http://t.co/GEJE3mUe
+291864886223441920 | 1074215052 | MoneyMev1 | 3600 | 2013-01-17 11:09:46 | c799e2d3a79f810e | ? | ? | ? | web | When u in the strrets 4real everyone love ya, so watch the hoes and the money
+291864905265577984 | 558777563 | Flaaaviiiiaaa | 3600 | 2013-01-17 11:09:50 | 2abbf9c80ee8ab87 | 46.9738 | 9.5924 | ? | Twitter for iPhone | I kann au ppert liaba wo kai Arm oder Bei het, vocher hanni au ppert gliabt wo kai Herz het
+291864917336813568 | 327156675 | alexxxengland | -18000 | 2013-01-17 11:09:53 | 086752cb03de1d5d | ? | ? | ? | web | haha SEC football. Real football, real girlfriends.
+291864920826449920 | 432906978 | MichaelHolics | 3600 | 2013-01-17 11:09:54 | 24292aa21cb92cd8 | 47.2146 | 5.97703 | ? | Twitter for iPhone | Proud of the #MJFam
+291864939713425408 | 276680243 | Willymoos | 3600 | 2013-01-17 11:09:58 | 410941c53ce92189 | 46.1022 | 7.07392 | ? | Twitter for iPhone | H mais chacun pour sa geule Soyez pas gentille 
+291864941533745152 | 432034452 | dominikrichner | ? | 2013-01-17 11:09:59 | 03d9ef0bc144fbfa | 47.3522 | 7.90359 | ? | Twitter for iPhone | google shopping: wer keine #adwords schaltet wird schlechter gerankt... toll : und das bereits ab februar.
+291864956385763328 | 189959364 | paulikaf | -10800 | 2013-01-17 11:10:02 | 97e1bb19fa5f0f47 | 45.8844 | 8.54066 | ? | Twitter for iPhone | Estamos aqui numa cidade que eu nao sei o nome hahaha vamos andar de snowboard depois uhuhuhu
+291864960626225153 | 91973094 | lhcstatus | 3600 | 2013-01-17 11:10:03 | 2dee2a77476dc763 | 46.2546 | 6.05694 | ? | LHC Updater | #LHC 12:09:53 next: loss maps at the flat top
+291864961347624960 | 85422189 | JacopoRedSox | 3600 | 2013-01-17 11:10:04 | 40c0b1c70ec4c4b9 | 46.1378 | 9.56575 | ? | SoundHound on iOS | The Seasons Upon Us di @dropkickmurphys, da #SoundHound http://t.co/ImOGmAUb
+291864976266784768 | 54688872 | iKrisKeber | 3600 | 2013-01-17 11:10:07 | 30410557050f13a5 | 46.5593 | 15.6425 | ? | foursquare | Im at Univerzitetna knjinica Maribor Maribor, Slovenia http://t.co/dr7b71MD
+291864977206280192 | 331587772 | kidRauhlMJ | -32400 | 2013-01-17 11:10:07 | 27485069891a7938 | ? | ? | 291666150671147008 | web | @erZaynmae aw, wala lang... nangutana lang...
+291864977688653824 | 71956014 | steven91291 | -18000 | 2013-01-17 11:10:09 | b6ea2e341ba4356f | 40.7011 | -73.8128 | ? | iOS | I got 168224 points while escaping from a Giant Demon Monkey in Temple Run 2. Beat that http://t.co/8x5Tx74B http://t.co/561pi1Z7
+291864989709516801 | 58168949 | dpasaric | 3600 | 2013-01-17 11:10:10 | c799e2d3a79f810e | ? | ? | 291862450826002432 | web | @marinanajder @Kjukar @GioGrlj Ja vjerujem u Big Bang, a ostalo je jo prilino labavo Ja sam vie CERN tip. 
+291864992209305602 | 428448664 | camilleplatypus | -18000 | 2013-01-17 11:10:11 | 27485069891a7938 | ? | ? | ? | web | Yes, I like it
+291865000061046784 | 425424323 | itsroland_ | -18000 | 2013-01-17 11:10:13 | 65b4760a2b411e11 | 40.4522 | -74.4749 | ? | Twitter for Android | Nothing feels as good as having a valid reason to smile
+291865003575881728 | 904350218 | Marika_Carta | 3600 | 2013-01-17 11:10:14 | 7fede8ec6a754ba2 | 46.1681 | 8.78702 | 291771171966443520 | Twitter for iPhone | @Dennis_Fantina ahahah povero denniiiii:
+291865006683856897 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:10:14 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: youngstown: still standing, @hendriskyliner 26/21639 poin
+291865008424497152 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:10:15 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm psy acrehss 1955 Benny Bartlett c:USA poin: 11
+291865012287442944 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:10:16 | 65b4760a2b411e11 | 40.1578 | -74.9357 | ? | Twitter for iPhone | You just do you and ima do me...
+291865017354178560 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:10:17 | b046074b1030a44d | 40.7078 | -74.0862 | 291864646510600193 | Twitter for iPhone | @itsDaddyLee word girl tell EM suck a
+291865022693515264 | 183312201 | rodikovska | -18000 | 2013-01-17 11:10:18 | fdcdeff996fbb2b7 | 46.5226 | 6.57172 | ? | Twitter for iPhone | @5ol_5ma: Creo q me clav, buenas noches// de que o quien Cuentamelo todo
+291865023469465600 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:10:18 | fdb8b13745d79424 | 46.525 | 6.82742 | ? | Twitter for iPhone | Ya aucun journaliste qui a eu les couilles de lui parler de son manteau #AW #ZipDaTing
+291865024438353920 | 211731120 | JoeCutolo | -18000 | 2013-01-17 11:10:19 | 086752cb03de1d5d | 40.7093 | -74.0054 | ? | foursquare | Im at RampR Coffee New York, NY http://t.co/QbVkkOLV
+291865030432018432 | 537166444 | claudio_pantoja | -14400 | 2013-01-17 11:10:20 | 94965b2c45386f87 | 41.557 | -74.0121 | 291858962758905857 | Twitter for iPhone | @MyFoxNY you just said mr Obama instead of president Obama #rude
+291865036719267843 | 577347231 | JulienNguyenDuy | 7200 | 2013-01-17 11:10:21 | 5a46bd19a554a59a | 47.6212 | 7.23167 | ? | Mobile Web (M5) | Le forfait #JoeMobile cest trop cool Tu peux rajouter de la voix, de la data et des extras Bon par contre je vois pas ce que cest...
+291865043052658688 | 101315205 | jennybic | -10800 | 2013-01-17 11:10:23 | 27485069891a7938 | ? | ? | ? | web | 09:09 stress
+291865049612574720 | 629830281 | 12Sanogo | ? | 2013-01-17 11:10:25 | 086752cb03de1d5d | 40.7968 | -73.9344 | ? | Twitter for iPhone | #Algrie 15 trangers pris en otages, dont 2 franais, schappent TV Algrienne
+291865055954366464 | 147155278 | JoyceVTF | 3600 | 2013-01-17 11:10:26 | c3a6437e1b1a726d | 46.2135 | 6.11794 | 291864549307580417 | Twitter for iPhone | @AyreenDaBoss o/
+291865059578216449 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:10:27 | b046074b1030a44d | 40.7078 | -74.0862 | 291864405606559744 | Twitter for iPhone | @YouLosinTrue @itsdaddylee so sad
+291865063873196032 | 275754084 | Crischeerful | 7200 | 2013-01-17 11:10:28 | fdcd221ac44fa326 | 50.0778 | 14.4182 | ? | Twitter for Android | I got an A in my Biblical Archaeological lessons
+291865099382185987 | 532724010 | lburrell8 | -14400 | 2013-01-17 11:10:36 | b6ea2e341ba4356f | 40.7728 | -73.8657 | ? | Twitter for iPhone | Ok so I havent done this airport thing in so long and these people are running to a already reserved seat lol haha to funny
+291865104255950849 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 11:10:38 | ddcca24ee29ddff2 | 46.1826 | 6.14479 | ? | Twitter for iPhone | Estce que je tai dis que je le faisais pas avec vous Cest toi qui a dis que tallais dormir chez lautre .
+291865115643502592 | 32439538 | theycallmeCC | -18000 | 2013-01-17 11:10:40 | 7983c24813625b53 | ? | ? | ? | Echofon | Alrightyyyy.... Lets get this workout in #gymtime
+291865128218017792 | 37392716 | nigereyes | 28800 | 2013-01-17 11:10:43 | 27485069891a7938 | ? | ? | ? | web | BEDANS : Ano po ang username and password sa Britannica thank yooow
+291865133146308610 | 549371989 | alminaljevo | ? | 2013-01-17 11:10:44 | c799e2d3a79f810e | ? | ? | ? | web | @armina_lj lt3 slce lt3
+291865135717437440 | 394071275 | kelciefenner6 | ? | 2013-01-17 11:10:45 | 94965b2c45386f87 | 43.2592 | -77.6333 | ? | Twitter for iPhone | To tired to function
+291865149504122882 | 29148318 | iHATEsheez | -18000 | 2013-01-17 11:10:48 | b6ea2e341ba4356f | 40.6451 | -73.7845 | ? | Instagram |  @ John F. Kennedy International Airport JFK http://t.co/NAVlgT4Y
+291865150988877824 | 613714212 | manzoni_p | 7200 | 2013-01-17 11:10:49 | f2f2caa600767ef4 | 45.9219 | 9.30834 | ? | Twitter for BlackBerry® | ?
+291865157162913793 | 197466066 | VIPGrace | -18000 | 2013-01-17 11:10:50 | 27485069891a7938 | 40.862 | -73.9023 | 291859431472373761 | Twitter for iPhone | @ELRUBIO_FAMOSO what
+291865160296062976 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:10:51 | 27485069891a7938 | 40.6642 | -73.9386 | 291862271532089345 | Elise | @anoukbijlx je bent nog mooier als je lacht :
+291865161931837441 | 976811467 | dborah_s | 3600 | 2013-01-17 11:10:51 | 9bfd4feabb508622 | 46.1707 | 6.14765 | ? | Twitter for iPhone |  midi je mange les petites ptes dans le bouillon comme quand jtais petite 
+291865184769818624 | 257607839 | Khlooer | 3600 | 2013-01-17 11:10:57 | 0c39d511cd8ed1e8 | 46.0204 | 7.13466 | ? | Twitter for iPhone | Vu Narnia 1, vu Narnia 3, vu Narnia 2
+291865187298983936 | 845919817 | Enis_Messi10 | ? | 2013-01-17 11:10:57 | a1b759dc059e346f | 46.2073 | 6.11098 | ? | Twitter for iPhone | Les caves elle connait ..
+291865188376903680 | 838573958 | NNahrin | ? | 2013-01-17 11:10:58 | af27c5a148d8371f | 47.4097 | 9.34402 | 291862952347308032 | Twitter for iPhone | @adorningava where do i get this amazing stuff
+291865192990662656 | 251346543 | UrosMilos | 3600 | 2013-01-17 11:10:59 | 94965b2c45386f87 | ? | ? | ? | web | Religiozna dijeta... Jedes koliko hoces i molis Boga da oslabis. Xa xa xa. :D
+291865199877693440 | 12181922 | jaxter0ne | 3600 | 2013-01-17 11:11:00 | b53ba65776f97f34 | ? | ? | ? | Tweetbot for iOS | Avoir cours avec un prof qui ressemble et parle comme Andr Manoukian @andremanou sur le ton dune voix off de Capital sur M6, Check
+291865208333402112 | 432906978 | MichaelHolics | 3600 | 2013-01-17 11:11:02 | 24292aa21cb92cd8 | 47.2148 | 5.97684 | ? | Twitter for iPhone | Les jeudis aprs midi 5h de cours ltltltlt
+291865225609744384 | 324323844 | BillelOrton | ? | 2013-01-17 11:11:07 | c58d5b0c1c241f2e | ? | ? | 291864914178490368 | web | @melkatymiley no i love them all 
+291865231557275648 | 385624859 | lilisheeva | 3600 | 2013-01-17 11:11:08 | c3a6437e1b1a726d | 46.1888 | 6.1305 | 291865114141925376 | Twitter for iPhone | @Cathy_Killah graaaave 
+291865233511821312 | 629830281 | 12Sanogo | ? | 2013-01-17 11:11:08 | 086752cb03de1d5d | 40.7968 | -73.9344 | ? | Twitter for iPhone | Les premiers soldats tchadiens et 100 soldats togolais sont en route pour le Mali #HelpMali #crisemali
+291865239518056449 | 1004525612 | Gregory_Sanon | -18000 | 2013-01-17 11:11:10 | 27485069891a7938 | 40.8786 | -73.8731 | ? | Twitter for Android | @SpikeLee take the time to view my video and tell me what you think. http://t.co/iqCEcJ2Z Thank you.
+291865247139115008 | 101315205 | jennybic | -10800 | 2013-01-17 11:11:12 | 27485069891a7938 | ? | ? | 291864693985931265 | web | @angelicamorango rsrsrsrs
+291865254244274176 | 209794876 | laurav222 | ? | 2013-01-17 11:11:13 | b6ea2e341ba4356f | 40.7299 | -73.8647 | 291861458030034944 | Twitter for BlackBerry® | @08valeriaruiz sis
+291865270656569344 | 257607839 | Khlooer | 3600 | 2013-01-17 11:11:17 | 0c39d511cd8ed1e8 | 46.0205 | 7.13454 | ? | Twitter for iPhone | Je matt sur http://t.co/FaRNTfYO
+291865276239196160 | 197466066 | VIPGrace | -18000 | 2013-01-17 11:11:19 | 27485069891a7938 | 40.862 | -73.9023 | 291858016725254144 | Twitter for iPhone | @Ikpa_Udo lol thanks
+291865278608994305 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 11:11:19 | c3a6437e1b1a726d | 46.2064 | 6.14823 | ? | Twitter for BlackBerry® | Ce moment o tu vois un nouveau n, les meufs sont l ooh il est trop chouuu.Moi ds ma tte shit son il est vilain esprons quil change
+291865281641463808 | 374557768 | ProUrroz | ? | 2013-01-17 11:11:20 | d247a20abe044bd0 | 45.9374 | 6.41176 | ? | Twitter for Android | Le dev marketing bien aid au canada, pour installer les proprits, essentiel #forumblanc
+291865286318108672 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:11:21 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | Sick twisted ppl on here
+291865294740262912 | 478109091 | JuuliaYogo | 7200 | 2013-01-17 11:11:23 | ddcca24ee29ddff2 | 46.1825 | 6.14482 | ? | Twitter for iPhone | Faut arrter la je tai pas interdit de venir .
+291865299806986241 | 6267172 | Xavier83 | 3600 | 2013-01-17 11:11:24 | 78b5762f070911ac | 46.5214 | 6.62873 | ? | foursquare | Im at Bistrot du flon Lausanne, Vaude pic: http://t.co/TkrBNK6s
+291865306283008000 | 72748841 | KeatOnYaTweet | -28800 | 2013-01-17 11:11:26 | 086752cb03de1d5d | 40.72 | -73.9829 | ? | Twitter for iPhone | So its 6.... Havent really slept , at all
+291865316106063872 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:11:28 | 65b4760a2b411e11 | 40.1578 | -74.9356 | ? | Twitter for iPhone | If you go to duke university you preppy as shit
+291865325987844096 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:11:30 | b046074b1030a44d | 40.7078 | -74.0862 | ? | Twitter for iPhone | Blockin mofo
+291865339870990336 | 252804421 | Mario__Savio | -36000 | 2013-01-17 11:11:34 | 086752cb03de1d5d | ? | ? | ? | web | At the #PeaceBall Ask #CodePink Medea Benjamin Re:her support o orthe murder of #Gaddafi http://t.co/tCG7V3Yo @AllForLibya @balt_DC #UFAA
+291865347227779072 | 190840209 | alexx_noelle | -18000 | 2013-01-17 11:11:36 | b6ea2e341ba4356f | 40.66 | -73.7891 | ? | Twitter for iPhone | On our way to Disney
+291865363807887361 | 272954576 | Vinke_KKB | 3600 | 2013-01-17 11:11:39 | c3a6437e1b1a726d | 46.2064 | 6.14823 | ? | Twitter for BlackBerry® | Les bb ne sont pas tous beau Stop lying
+291865367192686592 | 629830281 | 12Sanogo | ? | 2013-01-17 11:11:40 | 086752cb03de1d5d | 40.7968 | -73.9344 | ? | Twitter for iPhone | En exclusivit la couverture de la eBD du PAN @SOROKGUILLAUME a decouvrir sous peu sur http://t.co/unSfRYbb #ci225 http://t.co/Qfme97KF
+291865368731975680 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:11:41 | 8fc3c9b3e656452c | 47.4015 | 6.49685 | 291864192573661184 | Twitter for iPhone | @BABZ_QE mdrrrr rpz la #teamminipieds tu peux pas test :p
+291865369331777537 | 504479374 | CyntiaJohnson | 32400 | 2013-01-17 11:11:41 | b53ba65776f97f34 | 46.1803 | 6.12818 | ? | Twitter for iPhone | #TweeetLocalisation
+291865380580904961 | 456030889 | macheela | ? | 2013-01-17 11:11:43 | 94965b2c45386f87 | 43.1081 | -78.6874 | ? | Twitter for iPhone | All I have to do for the next hour is eat salami and watch tv #perksofbabysitting
+291865389732880384 | 301688670 | 15Cereja | ? | 2013-01-17 11:11:46 | 097ac0b1f78e8aac | 46.1099 | 5.97629 | ? | Twitter for Android | Putaaaaain mais pourquoi
+291865397400064001 | 538383130 | VeliborVranac | ? | 2013-01-17 11:11:47 | c799e2d3a79f810e | 44.7746 | 17.2046 | ? | foursquare | I just ousted @sasapuskaric as the mayor of XYZ on @foursquare http://t.co/LojF3I76
+291865397861445633 | 220680214 | ColinCampbellFA | ? | 2013-01-17 11:11:48 | e38a1a641d02f8db | 46.9468 | 7.42686 | 291862220256735232 | Twitter for iPhone | @jimboc29 waiting for the better weather for that Clarion rides take ages. 3hr rides in 5 hrs
+291865400029900801 | 845961156 | dearkatpo | -14400 | 2013-01-17 11:11:48 | 086752cb03de1d5d | 40.8116 | -73.9676 | 291862868364783617 | Twitter for iPhone | @salmon85 haha hey now youre an all star, get your game on, go playyyyy
+291865400063426560 | 247999192 | SuperSounds70s | -18000 | 2013-01-17 11:11:50 | 086752cb03de1d5d | 40.7639 | -73.9606 | ? | Twitter for Android | @Remy10k @bbrriiee heres the Bada Bing We get shitfaced there... http://t.co/gYBoLfOt
+291865405536997376 | 333473040 | mikewsigg | ? | 2013-01-17 11:11:49 | 056e6a231ed61a5e | 47.4435 | 7.73521 | ? | foursquare | #antifattening @ Sportcenter Bubendorf http://t.co/kVsO6yq9
+291865406984048641 | 432906978 | MichaelHolics | 3600 | 2013-01-17 11:11:50 | 24292aa21cb92cd8 | 47.2147 | 5.97687 | ? | Twitter for iPhone | La nouvelle PP de @ThiziriPan gtgtgt
+291865413627805696 | 395925157 | lookmanbouco | -36000 | 2013-01-17 11:11:51 | 6384c26f3a44ee0d | ? | ? | ? | web | 12h12
+291865433068429312 | 65465960 | YouAreMyArsenal | -18000 | 2013-01-17 11:11:56 | 65b4760a2b411e11 | 40.2695 | -75.0832 | ? | Twitter for iPhone | The possibility of Cavani leaving Napoli in Jan or even at all are slim to none. Not after selling Lavezzi
+291865433697562624 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:11:56 | fdb8b13745d79424 | 46.525 | 6.82753 | 291863568721248256 | Twitter for iPhone | @FrWagnon insulte les les pour moi. Merci.
+291865434985213952 | 52987613 | MarkChainz | -18000 | 2013-01-17 11:11:56 | 65b4760a2b411e11 | 40.1581 | -74.9357 | ? | Twitter for iPhone | I fuckin hate duke basketball but coach K my man tho
+291865444476932096 | 324323844 | BillelOrton | ? | 2013-01-17 11:11:59 | c58d5b0c1c241f2e | ? | ? | 291863455550566400 | web | @WWE_JCena come on jerk
+291865470242549760 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:12:05 | 8fc3c9b3e656452c | 47.4015 | 6.49682 | 291864484631416833 | Twitter for iPhone | @Zouuglouu cest moi 
+291865472427761664 | 622916564 | NoaLarochelle | ? | 2013-01-17 11:12:05 | c3a6437e1b1a726d | 46.2043 | 6.1401 | 291864559663316992 | Twitter for iPhone | @Enkela_velii euh jsais pas Bref on sen fou
+291865473627340800 | 279723517 | jamiejuicee | ? | 2013-01-17 11:12:06 | 94965b2c45386f87 | 42.9307 | -78.6962 | ? | Twitter for iPhone | Getting SO excited for my next tattoo #eek #itsbeenwaytoolong
+291865477775511552 | 29562655 | fdncenter | -18000 | 2013-01-17 11:12:07 | b6ea2e341ba4356f | 40.733 | -73.8619 | 291786502072066049 | Twitter for iPad | @KidsOfAfricaa Sure
+291865495521591297 | 89960128 | j3nnsx | 25200 | 2013-01-17 11:12:11 | b6ea2e341ba4356f | 40.7391 | -73.9205 | ? | Twitter for iPhone | All right... I better get some damn sleep then :/ #6am
+291865504434491392 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:12:13 | 8fc3c9b3e656452c | 47.4017 | 6.49659 | 291864012478611456 | Twitter for iPhone | @RebeuBerry normalou
+291865507190169600 | 74506350 | lionelrossier | 3600 | 2013-01-17 11:12:14 | fdb8b13745d79424 | 46.525 | 6.82751 | 291865206504701952 | Twitter for iPhone | @FrWagnon Estil blond
+291865516979671040 | 197466066 | VIPGrace | -18000 | 2013-01-17 11:12:17 | 27485069891a7938 | 40.862 | -73.9023 | ? | Twitter for iPhone | #Nigeria #2013 packing done #Flowerbomb #VictoriasSecret #washcloth #Softsoap #Passports #LockandKey #MAC #bugspray
+291865519232004096 | 425424323 | itsroland_ | -18000 | 2013-01-17 11:12:17 | 65b4760a2b411e11 | 40.4522 | -74.4749 | ? | Twitter for Android | Cant wait for tomorrow night 
+291865565742653440 | 197170775 | eberbo | 3600 | 2013-01-17 11:12:28 | c799e2d3a79f810e | ? | ? | 291863338286198786 | web | @Bump_WG @sne91 lol, sadly not a professional tanker. I feel your pain bro :D
+291865568565415936 | 171369460 | SonneBodensee | ? | 2013-01-17 11:12:28 | 2768ba80627a4e40 | 47.7395 | 8.97607 | ? | Sonnenuntergang Bodensee | Sonnenstand: 21.63 Grad ueber dem Horizont, Richtung 175 Grad Bodensee 17.01.2013 12:12 Uhr http://t.co/fGtkl8h3
+291865574185766913 | 16145806 | _tammie | -18000 | 2013-01-17 11:12:30 | 086752cb03de1d5d | 40.7639 | -73.9731 | ? | Instagram | Should I be worried @ Apple Store http://t.co/UZgpqqIj
+291865574529724416 | 364185220 | sahiwalia | ? | 2013-01-17 11:12:30 | a1b759dc059e346f | 46.2213 | 6.10897 | 291864058112651266 | Twitter for iPhone | @MehrTarar are you suggesting a new war Or the modern worlds Sparta which is not more than ruins only:
+291865576358428673 | 67678965 | litttle_won | -18000 | 2013-01-17 11:12:30 | 94965b2c45386f87 | 43.0634 | -73.9099 | ? | Twitter for Android | Im an idiot..... just a lonely jerkface.
+291865578686267393 | 582243495 | KevinHari | 3600 | 2013-01-17 11:12:31 | d969dab4efecff93 | 47.7449 | 7.33113 | 291851860019654657 | Twitter for iPhone | @MaevaBs repos
+291865581576146944 | 961143625 | FionaAlicia_R | ? | 2013-01-17 11:12:31 | b53ba65776f97f34 | 46.1818 | 6.11882 | ? | Twitter for iPhone | Oh yeh cest prs
+291865583748804608 | 634820387 | MarinaKat1 | ? | 2013-01-17 11:12:32 | 96e087c60293eed6 | 47.4404 | 8.22718 | 291865100900511744 | Twitter for Android | @jebesnejebes teleio..pws den to xa skeftei Kota tha balw..alla oxi twra..as doulepsw ligo. Pantws to aigo ksexwrizei k einia gamato
+291865601763319808 | 298621948 | TOMMY_NY_CEE | -18000 | 2013-01-17 11:12:36 | b6ea2e341ba4356f | 40.709 | -73.7722 | ? | Twitter for iPhone | Bumpin #GodWilln on the train to work ... Shout out to @thejuelzsantana #Fire #Comebackseaon
+291865629886128128 | 68753074 | mario_keller | 3600 | 2013-01-17 11:12:43 | 40ab9449d989c599 | 47.2844 | 9.65681 | ? | foursquare | Im at Kaleido w/ 2 others pic: http://t.co/zQMIg2IO
+291865639046492160 | 1066283556 | 276Daniel | ? | 2013-01-17 11:12:45 | c3a6437e1b1a726d | 46.213 | 6.12914 | ? | Twitter for iPhone | Le sol glisse trop
+291865648219447296 | 301688670 | 15Cereja | ? | 2013-01-17 11:12:47 | 097ac0b1f78e8aac | 46.1099 | 5.97629 | ? | Twitter for Android | Por isso que aquela vaca andou curtindo o status dele. Ex j um inferno e o fdp fica dando papo. Ahhh vsf
+291865659372081154 | 622916564 | NoaLarochelle | ? | 2013-01-17 11:12:50 | c3a6437e1b1a726d | 46.206 | 6.13992 | ? | Twitter for iPhone | Faut que jaille demander quelque chose a maeva .
+291865662220034048 | 13219 | geoffjones | ? | 2013-01-17 11:12:51 | 805943ddcd84e126 | 46.1325 | 6.68343 | ? | foursquare | The resorts slowest chair lift to one of my favourite vin chauds @ La Rosta pic: http://t.co/p5iodS5V
+291865684252704769 | 34224013 | sabinacimic | -10800 | 2013-01-17 11:12:56 | c799e2d3a79f810e | ? | ? | ? | web | i love criminal minds. #zugzwang #criminalMinds
+291865688291803136 | 961143625 | FionaAlicia_R | ? | 2013-01-17 11:12:57 | b53ba65776f97f34 | 46.1814 | 6.12073 | ? | Twitter for iPhone | 1212
+291865694780403715 | 629830281 | 12Sanogo | ? | 2013-01-17 11:12:58 | 086752cb03de1d5d | 40.7968 | -73.9344 | 291865198841692161 | Twitter for iPhone | @FmeUne quand a moi tout va bien sauf que cest la fatigue ces temps ci,cest pas facile oh
+291865695753478144 | 432906978 | MichaelHolics | 3600 | 2013-01-17 11:12:59 | 24292aa21cb92cd8 | 47.2147 | 5.97688 | ? | Twitter for iPhone | @MJackson_Bad Vu la cadence scolaire que je mne cest pas demain la veille quon va pouvoir de capter lancienne :
+291865705731719168 | 301688670 | 15Cereja | ? | 2013-01-17 11:13:01 | 097ac0b1f78e8aac | 46.1099 | 5.97629 | ? | Twitter for Android | 12:12 cacete de hora igual
+291865735255429121 | 2118841 | stevekinney | -18000 | 2013-01-17 11:13:08 | b046074b1030a44d | ? | ? | 291764343152979968 | Tweetbot for iOS | @codechef It must be your settings.
+291865747918041088 | 7358032 | ReinaBustoCulo | -18000 | 2013-01-17 11:13:11 | b6ea2e341ba4356f | 40.7425 | -73.8666 | ? | Twitter for Android | Six am in the morning and I finally got all the boat ware off my s3. Waiting to talk to the Verizon rep to cop my nexus 4
+291865772035293184 | 38644403 | hetspijtme | 3600 | 2013-01-17 11:13:17 | 27485069891a7938 | 40.6642 | -73.9386 | 291865517709479936 | Elise | @KLEINBEETJEKEES yeah Maud
+291865775566884864 | 387274691 | AnneBenjadid | 3600 | 2013-01-17 11:13:18 | 8fc3c9b3e656452c | 47.4017 | 6.49659 | 291865703567482881 | Twitter for iPhone | @BABZ_QE 36 wsh:3
+291865793107464192 | 584946289 | Fiona2112 | ? | 2013-01-17 11:13:22 | dfbf4ce81da97883 | 46.9959 | 6.941 | ? | Twitter for Windows Phone | Et je trouve plus ma carte de crdit ca me les tends
+291865793581445121 | 211808538 | BAdDY3lLoWBiTcH | ? | 2013-01-17 11:13:22 | b046074b1030a44d | 40.7078 | -74.0861 | 291865393147039745 | Twitter for iPhone | @Neptune_TOS_24 @itsdaddylee Forreal yall
+291865804813762561 | 799919864 | heni_km | ? | 2013-01-17 11:13:25 | c799e2d3a79f810e | ? | ? | ? | Echofon | @GSOLISS
+291865805208031232 | 164639663 | JonellGalloway | -10800 | 2013-01-17 11:13:25 | dc5c9a5c3552814d | 46.2098 | 6.14836 | ? | foursquare | Im at Eastwest Htel Genve, GE http://t.co/Uqa8aFPW
+291865810044063744 | 583547325 | Norman__G | 28800 | 2013-01-17 11:13:26 | e0bf196c2d3e4397 | 47.181 | 8.52642 | 291865384343183360 | TweetDeck | @stelu_olar risk appetite higher now. what if BOJ refrain from announcing more stimulus :S
+291865818550120448 | 246785543 | AlesHubl | 3600 | 2013-01-17 11:13:28 | fdcd221ac44fa326 | 50.1252 | 14.4448 | ? | foursquare | Im at Pivnice utka Praha http://t.co/snQo8fNH
+291865818713694208 | 1092428510 | PatrickQzeR | ? | 2013-01-17 11:13:28 | 17f10b76bf7ce828 | 46.1388 | 7.11515 | ? | Twitter for Android | Salut :
+291865824971616256 | 558777563 | Flaaaviiiiaaa | 3600 | 2013-01-17 11:13:30 | feaa6f23e5a02e15 | 46.9671 | 9.55436 | ? | Twitter for iPhone | Dini nchst lebt gfhrlich http://t.co/zjwmT9yQ
+291865827643379712 | 622916564 | NoaLarochelle | ? | 2013-01-17 11:13:30 | c3a6437e1b1a726d | 46.2076 | 6.14186 | 291865736203337728 | Twitter for iPhone | @_EvaLove viens wa ou mp
+291865829862158337 | 15189855 | nick_luethi | 3600 | 2013-01-17 11:13:31 | e38a1a641d02f8db | 46.9552 | 7.44861 | ? | Tweetbot for Mac | Keine zu klein, eine Reporterin zu sein: Zwei 11jhrige Neuenburger Mdchen machen WebTV zu Umwelt und Astronomie http://t.co/MTRrkYYi
+291865834517831682 | 141053833 | nycHope | -18000 | 2013-01-17 11:13:32 | 086752cb03de1d5d | ? | ? | ? | web | ICYMI Whole Foods CEOs latest tone deaf comment about Obamacare http://t.co/7UD5I3n0 #Boycott
+291865843367829505 | 605669843 | PastorKahlil | -18000 | 2013-01-17 11:13:34 | 65b4760a2b411e11 | 40.3792 | -74.4018 | ? | Twitter for Android | Prayer call 630645amDialn7124320900access#894286 Listen and receive a blessingThats righta blessingDont be afraid only believeMark5
+291865859473948672 | 34932623 | NizamArchibald | -32400 | 2013-01-17 11:13:38 | 94965b2c45386f87 | ? | ? | 291825794253193216 | web | @farahtots insyaAllah bukak.
+291865870735650816 | 108713179 | jvazq479 | -18000 | 2013-01-17 11:13:40 | 086752cb03de1d5d | 40.7615 | -73.9669 | 291862236786470912 | Twitter for iPhone | @icytheEg0dEsS u making bacon
+291865883951898625 | 873598358 | Keke_Makhetha | 7200 | 2013-01-17 11:13:43 | cfee655a945f1895 | ? | ? | ? | web | My day was a bit stressful amp dull but trust God to send a angel gt @Thembek84903655 just to brighten it and put a huge smile on my face
+291865891795251200 | 145409900 | nadjaline | 3600 | 2013-01-17 11:13:45 | c3a6437e1b1a726d | 46.1899 | 6.15245 | 291560268218118144 | Twitter for iPhone | @Ahirann kkkkkkkkkk
+291865911307169792 | 229815810 | msleamicheleee | -10800 | 2013-01-17 11:13:50 | 94965b2c45386f87 | ? | ? | ? | web | @MatyyTrejo Lea tweeted you huh 
+291865916180951040 | 235604587 | tukangdvd | -28800 | 2013-01-17 11:13:51 | fdcd221ac44fa326 | 50.0867 | 14.4189 | ? | tukangdvd | #AcakFilm Jawaban benar: spy chasers, @rznns 11/43180 poin
